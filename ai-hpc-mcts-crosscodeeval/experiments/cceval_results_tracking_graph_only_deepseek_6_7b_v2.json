@@ -1,0 +1,56 @@
+{
+  "hq0709-Depth-NeuS-49d93d4": {
+    "exact_match_rate": 0.16666666666666666,
+    "average_edit_similarity": 0.6250230657843786,
+    "total_examples": 42,
+    "processed_at": "2025-07-31T22:09:34.935316"
+  },
+  "graphcore-PopTransformer-1314598": {
+    "exact_match_rate": 0.175,
+    "average_edit_similarity": 0.6004530972079366,
+    "total_examples": 40,
+    "processed_at": "2025-07-31T22:19:43.945924"
+  },
+  "briandelmsft-STAT-Function-f91d421": {
+    "exact_match_rate": 0.1794871794871795,
+    "average_edit_similarity": 0.6589688338361896,
+    "total_examples": 39,
+    "processed_at": "2025-07-31T22:29:10.809790"
+  },
+  "ortursucceeh-Project-PhotoShare-1942d61": {
+    "exact_match_rate": 0.5263157894736842,
+    "average_edit_similarity": 0.8433252956761721,
+    "total_examples": 38,
+    "processed_at": "2025-07-31T22:38:54.684926"
+  },
+  "Quantomatic-zxlive-c7b5c28": {
+    "exact_match_rate": 0.21621621621621623,
+    "average_edit_similarity": 0.607536169848655,
+    "total_examples": 37,
+    "processed_at": "2025-07-31T22:47:59.873732"
+  },
+  "pygfx-gfxmorph-0a3a9d9": {
+    "exact_match_rate": 0.14814814814814814,
+    "average_edit_similarity": 0.570416173410412,
+    "total_examples": 27,
+    "processed_at": "2025-07-31T22:53:51.941037"
+  },
+  "turboderp-exllama-a544085": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.46164572095909495,
+    "total_examples": 24,
+    "processed_at": "2025-07-31T23:00:15.236768"
+  },
+  "vladkens-twscrape-4f2ee7f": {
+    "exact_match_rate": 0.2916666666666667,
+    "average_edit_similarity": 0.5905741862406394,
+    "total_examples": 24,
+    "processed_at": "2025-07-31T23:07:11.288935"
+  },
+  "amd-Open-Field-Health-Check-415e8a6": {
+    "exact_match_rate": 0.375,
+    "average_edit_similarity": 0.5854598344655436,
+    "total_examples": 24,
+    "processed_at": "2025-07-31T23:12:44.366759"
+  }
+}

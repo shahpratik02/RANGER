@@ -1,0 +1,14 @@
+{
+  "hq0709-Depth-NeuS-49d93d4": {
+    "exact_match_rate": 0.21428571428571427,
+    "average_edit_similarity": 0.6624465752559887,
+    "total_examples": 42,
+    "processed_at": "2025-07-30T23:47:10.557293"
+  },
+  "graphcore-PopTransformer-1314598": {
+    "exact_match_rate": 0.025,
+    "average_edit_similarity": 0.464995363334556,
+    "total_examples": 40,
+    "processed_at": "2025-07-30T23:52:38.332823"
+  }
+}

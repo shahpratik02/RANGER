@@ -1,0 +1,42 @@
+# Simple Configuration File for CodeSearchNet Project
+
+# Paths
+paths:
+  base_clone_dir: "./data/CodeSearchNet/"
+  project_root: "./"
+  traces_dir: "traces"
+
+# Database
+neo4j:
+  url: "bolt://localhost:7687"
+  username: "neo4j"
+  password: "your_neo4j_password"
+
+# Models
+models:
+  embedding: "mixedbread-ai/mxbai-embed-large-v1"
+  cross_encoder: "BAAI/bge-reranker-v2-m3"
+  qwen_embedding: "Qwen/Qwen3-Embedding-8B"
+
+# MCTS Settings
+mcts:
+  max_iterations: 200
+  reward_threshold: 5.0
+  alpha: 0.5
+  top_k_children: 80
+  top_k_references: 10
+  reduce_top_k_flag: true
+  min_top_k_children: 20
+  exploration_param: 0.25
+
+# Processing
+processing:
+  min_qrels_count: 4
+  batch_size: 1000
+
+# Output Files
+output:
+  mcts_results: "experiments/codesearchnet_evaluation_results_MCTS.json"
+  semantic_results: "experiments/codesearchnet_evaluation_results_semantic.json"
+  vector_results: "experiments/codesearchnet_evaluation_results_vector.json"
+  input_data: "./data/codesearchnet_data.pkl"

@@ -1,0 +1,63 @@
+# Files arguments
+language_path: languages.json
+
+# Generation arguments
+decoding_params: 
+    temperature: 0.02
+    max_tokens: 3072
+    frequency_penalty: 0.05
+
+# Description arguments
+obj_type_descriptions:
+  function: an executional piece of code that performs a certain task or a set of tasks using various algorithms/logic often giving an output or changing some variable state. May include macros, virtual functions, methods, lambda functions, templates, etc
+  class: constructs that contain data structures and methods to operate on data, often comprising complex behavior into a single entity. May include classes, structs, interfaces, traits, and other analogues.
+  data: any structure that stores some important value used by the code and is not generic in nature like an indexing or temp variable, like a constant literal or a variable, often carrying the `state` of the code. Can include security tokens/gflags/paths/config variables/stream objects, etc
+
+prompts:
+  base_prompt: |
+    Summarize the code at a high level without referencing specific function or variable names. Focus on its purpose, how it is implemented, and its notable features. Use the following format:
+
+    **PURPOSE**
+    Describe what the code is designed to achieve.
+
+    **IMPLEMENTATION**
+    Explain how the code accomplishes its purpose, including general techniques or components used, without naming exact functions or variables.
+
+    **KEY FEATURES**
+    List significant capabilities, design patterns, or behaviors the code exhibits.
+
+  file_prompt: |
+    You are a language model trained to understand documentation and code summaries and give an overall summary based on the descriptions provided to you.
+    You are not given any code, but only the descriptions of parts of the code given by various developers. You have to use these descriptions to summarize the code in a high level.
+    You have to follow the instructions below while answering.
+    Instructions:
+    1. You will examine the code context in the 'Description' field to understand the information provided by developers.
+    2. Do not include any code in your response, or guess the code. Simply try and summarize the descriptions provided to you.
+    3. There may be multiple descriptions or only one description provided, you have to present a summary based on all the descriptions.
+    4. Your response has to be clear, well structured and accurate, without repetitions.
+    5. Do not give any actual code. You may use code-like constructs in your response if you want to explain their meaning/use, but do not give any actual code.
+    6. Do not respond with any other conversational pre-text, only respond with the intended summary, do not say anything like 'Based on...' or 'It seems that...'. Strictly give the final summary.
+    7. You will focus only on answering the question.
+    8. If no description is provided simply say 'No description found'.
+    9. Start writing your response after the 'Response' field.
+
+  object_prompt: |
+    You are a language model trained to understand LANGUAGE code and give OBJECT descriptions based on the code provided to you.
+    Your job is to analyze the provided LANGUAGE code and give a description of each OBJECT in a new line from this code.
+    You have to follow the instructions below while answering.
+    Instructions:
+    1. You will examine the code context in the 'Code' field to find all OBJECTs used in the code.
+    2. Consider all OBJECT-like constructs in this LANGUAGE code, named or anonymous, that represent OBJ_DESCRIPTION.
+    3. Describe the OBJECT itself, or how it is being used in the code, whichever is more relevant in the given code.
+    4. The response should be in the following format -
+    OBJECT_name - description
+    OBJECT_name - description
+    ...
+    5. Every OBJECT should be in a new line, dont leave any empty lines in between any two OBJECTs.
+    6. Your response has to be clear, well structured and accurate, without repetitions.
+    7. Do not include any arguments, parameters, types, headers, namespaces in the response, only the name of the OBJECT has to be there in the OBJECT_name field and its description based on your understanding in the `description` field.
+    8. Do not respond with any other conversational pre-text, only respond with the required format.
+    9. You will focus only on answering the question.
+    10. If there are no OBJECTs in the code, the response should be '---None---'.
+    11. If no description is provided in the code, give the best description from your analysis of the code.
+    12. Start writing your response after the 'Response' field.

@@ -1,0 +1,42 @@
+# === Backup / development files ===
+backup_and_prev_version_files/
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# === Virtual environments ===
+graphrag_env/
+graphrag_venv/
+venv/
+.venv/
+env/
+
+# === Binary / data files ===
+*.pkl
+*.pt
+*.bin
+*.dump
+*.db
+
+# === OS files ===
+.DS_Store
+Thumbs.db
+
+# === IDE ===
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# === Neo4j ===
+neo4j_dumps/
+
+# === Logs ===
+*.log

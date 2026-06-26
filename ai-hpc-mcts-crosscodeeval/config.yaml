@@ -1,0 +1,31 @@
+# CrossCodeEval Configuration
+
+# Paths
+paths:
+  repo_base_dir: "./data/CrossCodeEval_repos/"
+  data_path: "./data/cceval_data/python/line_completion.jsonl"
+  venv_python: "python3"
+  generate_graph_script: "src/core/generate_graph_with_args.py"
+
+# Neo4j Database Configuration
+database:
+  url: "bolt://localhost:7687"
+  username: "neo4j"
+  password: "your_neo4j_password"
+
+# Output File Names
+output:
+  results_tracking_file: "experiments/cceval_results_tracking.json"
+  skipped_repos_file: "experiments/cceval_skipped_repos.txt"
+  summary_file: "experiments/cceval_all_repos_summary.csv"
+  detailed_results_file: "experiments/cceval_all_repos_detailed.json"
+  dummy_requirements: "dummy_requirements.txt"
+  results_dir: "./results/"
+
+# Processing Configuration
+processing:
+  timeout_seconds: 3000
+  min_examples_per_repo: 1
+  max_context_tokens: 4000
+  max_new_tokens: 50
+  max_model_len: 8192

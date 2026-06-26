@@ -1,0 +1,73 @@
+{
+  "query_id": "78",
+  "query_text": "copying a file to a path",
+  "repo_name": "/home/ec2-user/CodeSearchNet/tjguk_winshell",
+  "selected_nodes_per_iteration": [
+    {
+      "iteration": 0,
+      "node_id": "Repo:/home/ec2-user/CodeSearchNet/tjguk_winshell",
+      "name": "/home/ec2-user/CodeSearchNet/tjguk_winshell",
+      "type": "Repo",
+      "visit_count": 0,
+      "total_reward": 0.0,
+      "avg_reward": 0.0,
+      "sim_reward": 0.0,
+      "simulation_visits": 1
+    },
+    {
+      "iteration": 1,
+      "node_id": "Module:winshell",
+      "name": "winshell",
+      "type": "Module",
+      "visit_count": 1,
+      "total_reward": 1.029296837195339,
+      "avg_reward": 1.029296837195339,
+      "sim_reward": 1.029296837195339,
+      "simulation_visits": 1
+    },
+    {
+      "iteration": 2,
+      "node_id": "Function:move_file:def move_file(\n    source_path,\n    target_path,\n    allow_undo=True,\n    no_confirm=False,\n    rename_on_collision=True,\n    silent=False,\n    extra_flags=0,\n    hWnd=None\n):winshell",
+      "name": "move_file",
+      "type": "Function",
+      "visit_count": 1,
+      "total_reward": 5.441000976562259,
+      "avg_reward": 5.441000976562259,
+      "sim_reward": 5.441000976562259,
+      "simulation_visits": 1
+    },
+    {
+      "iteration": 3,
+      "node_id": "Function:copy_file:def copy_file(\n    source_path,\n    target_path,\n    allow_undo=True,\n    no_confirm=False,\n    rename_on_collision=True,\n    silent=False,\n    extra_flags=0,\n    hWnd=None\n):winshell",
+      "name": "copy_file",
+      "type": "Function",
+      "visit_count": 1,
+      "total_reward": 3.9469377990009766,
+      "avg_reward": 3.9469377990009766,
+      "sim_reward": 3.9469377990009766,
+      "simulation_visits": 1
+    },
+    {
+      "iteration": 4,
+      "node_id": "Function:rename_file:def rename_file(\n    source_path,\n    target_path,\n    allow_undo=True,\n    no_confirm=False,\n    rename_on_collision=True,\n    silent=False,\n    extra_flags=0,\n    hWnd=None\n):winshell",
+      "name": "rename_file",
+      "type": "Function",
+      "visit_count": 1,
+      "total_reward": 2.9762036155777145,
+      "avg_reward": 2.9762036155777145,
+      "sim_reward": 2.9762036155777145,
+      "simulation_visits": 1
+    },
+    {
+      "iteration": 5,
+      "node_id": "Class:ShellRecycleBin:class ShellRecycleBin(ShellFolder):winshell",
+      "name": "ShellRecycleBin",
+      "type": "Class",
+      "visit_count": 1,
+      "total_reward": 1.6829420645326174,
+      "avg_reward": 1.6829420645326174,
+      "sim_reward": 1.6829420645326174,
+      "simulation_visits": 1
+    }
+  ]
+}

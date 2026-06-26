@@ -1,0 +1,3498 @@
+{
+  "mpenning/ciscoconfparse2": {
+    "accuracy": 0.5232558139534884,
+    "mrr": 0.37286821705426354,
+    "ndcg": 0.410897041012149,
+    "total_examples": 86,
+    "correct_retrievals": 45,
+    "processed_at": "2025-08-06T23:08:49.412895"
+  },
+  "MarilynKeller/aitviewer-skel": {
+    "accuracy": 0.75,
+    "mrr": 0.4778645833333332,
+    "ndcg": 0.5467830698538927,
+    "total_examples": 64,
+    "correct_retrievals": 48,
+    "processed_at": "2025-08-06T23:24:29.321551"
+  },
+  "Jisshubot/JISSHU_BOT": {
+    "accuracy": 0.4603174603174603,
+    "mrr": 0.25158730158730164,
+    "ndcg": 0.30316697989681496,
+    "total_examples": 63,
+    "correct_retrievals": 29,
+    "processed_at": "2025-08-06T23:41:34.469501"
+  },
+  "KosinskiLab/pyTME": {
+    "accuracy": 0.39655172413793105,
+    "mrr": 0.24310344827586206,
+    "ndcg": 0.2811636217117096,
+    "total_examples": 58,
+    "correct_retrievals": 23,
+    "processed_at": "2025-08-06T23:54:13.040052"
+  },
+  "fury-05/BookRecomendApp": {
+    "accuracy": 0.0,
+    "mrr": 0.0,
+    "ndcg": 0.0,
+    "total_examples": 54,
+    "correct_retrievals": 0,
+    "processed_at": "2025-08-07T00:20:14.943794"
+  },
+  "nexB/dejacode": {
+    "accuracy": 0.4117647058823529,
+    "mrr": 0.3062091503267974,
+    "ndcg": 0.33278780653265144,
+    "total_examples": 51,
+    "correct_retrievals": 21,
+    "processed_at": "2025-08-07T00:32:14.229866"
+  },
+  "IBM/VillanDiffusion": {
+    "accuracy": 0.375,
+    "mrr": 0.14826388888888886,
+    "ndcg": 0.20486523436066684,
+    "total_examples": 48,
+    "correct_retrievals": 18,
+    "processed_at": "2025-08-07T00:44:00.361343"
+  },
+  "ahayler/s4c": {
+    "accuracy": 0.7391304347826086,
+    "mrr": 0.4670289855072464,
+    "ndcg": 0.5350689851578462,
+    "total_examples": 46,
+    "correct_retrievals": 34,
+    "processed_at": "2025-08-07T00:54:10.923460"
+  },
+  "MTgeophysics/mtpy-v2": {
+    "accuracy": 0.8695652173913043,
+    "mrr": 0.755072463768116,
+    "ndcg": 0.7838974812151701,
+    "total_examples": 46,
+    "correct_retrievals": 40,
+    "processed_at": "2025-08-07T01:04:25.209887"
+  },
+  "akashgreninja/GreSec": {
+    "accuracy": 0.0,
+    "mrr": 0.0,
+    "ndcg": 0.0,
+    "total_examples": 42,
+    "correct_retrievals": 0,
+    "processed_at": "2025-08-07T01:44:05.419492"
+  },
+  "UMass-Foundation-Model/CoVLM": {
+    "accuracy": 0.1951219512195122,
+    "mrr": 0.1378048780487805,
+    "ndcg": 0.1513263944522555,
+    "total_examples": 41,
+    "correct_retrievals": 8,
+    "processed_at": "2025-08-07T02:26:48.537470"
+  },
+  "Sam-Izdat/tinycio": {
+    "accuracy": 0.5853658536585366,
+    "mrr": 0.3410569105691057,
+    "ndcg": 0.4020059405777918,
+    "total_examples": 41,
+    "correct_retrievals": 24,
+    "processed_at": "2025-08-07T02:39:00.033115"
+  },
+  "ytf-philp/PromptST": {
+    "accuracy": 0.2894736842105263,
+    "mrr": 0.1456140350877193,
+    "ndcg": 0.1808268038597639,
+    "total_examples": 38,
+    "correct_retrievals": 11,
+    "processed_at": "2025-08-07T03:02:22.140094"
+  },
+  "newcastleuniversity/DISPEL": {
+    "accuracy": 0.45714285714285713,
+    "mrr": 0.28190476190476194,
+    "ndcg": 0.3257958483211033,
+    "total_examples": 35,
+    "correct_retrievals": 16,
+    "processed_at": "2025-08-07T03:11:37.380014"
+  },
+  "atlantic-quantum/Shipyard": {
+    "accuracy": 0.5714285714285714,
+    "mrr": 0.3542857142857143,
+    "ndcg": 0.40737918154015923,
+    "total_examples": 35,
+    "correct_retrievals": 20,
+    "processed_at": "2025-08-07T03:21:46.706117"
+  },
+  "radekd91/inferno": {
+    "accuracy": 0.7428571428571429,
+    "mrr": 0.47095238095238096,
+    "ndcg": 0.5386089660033716,
+    "total_examples": 35,
+    "correct_retrievals": 26,
+    "processed_at": "2025-08-07T03:33:04.765712"
+  },
+  "SALT-NLP/Efficient_Unlearning": {
+    "accuracy": 0.5142857142857142,
+    "mrr": 0.37619047619047624,
+    "ndcg": 0.41100206086950336,
+    "total_examples": 35,
+    "correct_retrievals": 18,
+    "processed_at": "2025-08-07T03:56:37.492971"
+  },
+  "quocanh34/magic-animate-modified": {
+    "accuracy": 0.8181818181818182,
+    "mrr": 0.47525252525252526,
+    "ndcg": 0.5606068522574383,
+    "total_examples": 33,
+    "correct_retrievals": 27,
+    "processed_at": "2025-08-07T04:08:25.758061"
+  },
+  "Azure-Samples/functions-python-web-crawler": {
+    "accuracy": 0.34375,
+    "mrr": 0.22239583333333332,
+    "ndcg": 0.25248090226408904,
+    "total_examples": 32,
+    "correct_retrievals": 11,
+    "processed_at": "2025-08-07T04:25:08.845059"
+  },
+  "Beckschen/3D-TransUNet": {
+    "accuracy": 0.5625,
+    "mrr": 0.3645833333333333,
+    "ndcg": 0.4149331684733435,
+    "total_examples": 32,
+    "correct_retrievals": 18,
+    "processed_at": "2025-08-07T04:35:01.343483"
+  },
+  "amitfin/oref_alert": {
+    "accuracy": 0.6451612903225806,
+    "mrr": 0.3338709677419355,
+    "ndcg": 0.41090860055975964,
+    "total_examples": 31,
+    "correct_retrievals": 20,
+    "processed_at": "2025-08-07T04:46:01.160501"
+  },
+  "apple/ml-reed": {
+    "accuracy": 0.6451612903225806,
+    "mrr": 0.38494623655913973,
+    "ndcg": 0.448861316082735,
+    "total_examples": 31,
+    "correct_retrievals": 20,
+    "processed_at": "2025-08-07T04:55:23.761619"
+  },
+  "AMAAI-Lab/mustango": {
+    "accuracy": 0.43333333333333335,
+    "mrr": 0.24666666666666667,
+    "ndcg": 0.2929902499491053,
+    "total_examples": 30,
+    "correct_retrievals": 13,
+    "processed_at": "2025-08-07T05:07:34.171351"
+  },
+  "ziqi-zhang/TAOISM": {
+    "accuracy": 0.7,
+    "mrr": 0.38999999999999996,
+    "ndcg": 0.46674494334141625,
+    "total_examples": 30,
+    "correct_retrievals": 21,
+    "processed_at": "2025-08-07T05:16:50.805690"
+  },
+  "ZS-YANG/FemtoDet-v3": {
+    "accuracy": 0.26666666666666666,
+    "mrr": 0.18055555555555552,
+    "ndcg": 0.20205354372149503,
+    "total_examples": 30,
+    "correct_retrievals": 8,
+    "processed_at": "2025-08-07T05:34:05.206322"
+  },
+  "dvlab-research/LLMGA": {
+    "accuracy": 0.4666666666666667,
+    "mrr": 0.2427777777777778,
+    "ndcg": 0.2988153667627822,
+    "total_examples": 30,
+    "correct_retrievals": 14,
+    "processed_at": "2025-08-07T05:49:42.704734"
+  },
+  "owkin/fedeca": {
+    "accuracy": 0.43333333333333335,
+    "mrr": 0.3077777777777778,
+    "ndcg": 0.3388831625061152,
+    "total_examples": 30,
+    "correct_retrievals": 13,
+    "processed_at": "2025-08-07T05:59:33.503935"
+  },
+  "m-abr/FCPCodebase": {
+    "accuracy": 0.7241379310344828,
+    "mrr": 0.36436781609195396,
+    "ndcg": 0.4534848487799981,
+    "total_examples": 29,
+    "correct_retrievals": 21,
+    "processed_at": "2025-08-07T06:11:36.854714"
+  },
+  "magic-research/magic-animate": {
+    "accuracy": 0.7931034482758621,
+    "mrr": 0.4172413793103449,
+    "ndcg": 0.5103369975516345,
+    "total_examples": 29,
+    "correct_retrievals": 23,
+    "processed_at": "2025-08-07T06:21:01.587918"
+  },
+  "BobaZooba/xllm": {
+    "accuracy": 0.7142857142857143,
+    "mrr": 0.4386904761904762,
+    "ndcg": 0.5072357677050198,
+    "total_examples": 28,
+    "correct_retrievals": 20,
+    "processed_at": "2025-08-07T06:27:44.332059"
+  },
+  "BraveGroup/Drive-WM": {
+    "accuracy": 0.5714285714285714,
+    "mrr": 0.4077380952380953,
+    "ndcg": 0.4494759044975244,
+    "total_examples": 28,
+    "correct_retrievals": 16,
+    "processed_at": "2025-08-07T06:40:27.417815"
+  },
+  "ZhengyiLuo/PerpetualHumanoidControl": {
+    "accuracy": 0.5,
+    "mrr": 0.3267857142857143,
+    "ndcg": 0.3688426712797206,
+    "total_examples": 28,
+    "correct_retrievals": 14,
+    "processed_at": "2025-08-07T06:49:20.587914"
+  },
+  "quantuminterface/qiclib": {
+    "accuracy": 0.5357142857142857,
+    "mrr": 0.3422619047619047,
+    "ndcg": 0.3909528015027667,
+    "total_examples": 28,
+    "correct_retrievals": 15,
+    "processed_at": "2025-08-07T06:57:30.597882"
+  },
+  "bilibini/Lovely_Image_Downloader": {
+    "accuracy": 0.25,
+    "mrr": 0.11726190476190476,
+    "ndcg": 0.15036852235793957,
+    "total_examples": 28,
+    "correct_retrievals": 7,
+    "processed_at": "2025-08-07T07:15:12.297439"
+  },
+  "weavel-ai/promptmodel-python": {
+    "accuracy": 0.75,
+    "mrr": 0.4238095238095238,
+    "ndcg": 0.5058826499421976,
+    "total_examples": 28,
+    "correct_retrievals": 21,
+    "processed_at": "2025-08-07T07:22:59.361958"
+  },
+  "jiawei-ren/dreamgaussian4d": {
+    "accuracy": 0.6666666666666666,
+    "mrr": 0.3555555555555556,
+    "ndcg": 0.43246519650769255,
+    "total_examples": 27,
+    "correct_retrievals": 18,
+    "processed_at": "2025-08-07T07:36:51.138370"
+  },
+  "hellloxiaotian/KDNet": {
+    "accuracy": 0.18518518518518517,
+    "mrr": 0.12345679012345678,
+    "ndcg": 0.13932812989418206,
+    "total_examples": 27,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-07T07:52:50.255554"
+  },
+  "SEU-ProactiveSecurity-Group/MalPurifier": {
+    "accuracy": 0.5185185185185185,
+    "mrr": 0.26666666666666666,
+    "ndcg": 0.3297353589347636,
+    "total_examples": 27,
+    "correct_retrievals": 14,
+    "processed_at": "2025-08-07T08:04:53.062413"
+  },
+  "u2seg/U2Seg": {
+    "accuracy": 0.5,
+    "mrr": 0.2224358974358974,
+    "ndcg": 0.2912181439295805,
+    "total_examples": 26,
+    "correct_retrievals": 13,
+    "processed_at": "2025-08-07T08:20:37.477034"
+  },
+  "upfusion3d/upfusion": {
+    "accuracy": 0.6538461538461539,
+    "mrr": 0.40064102564102566,
+    "ndcg": 0.463611122360119,
+    "total_examples": 26,
+    "correct_retrievals": 17,
+    "processed_at": "2025-08-07T08:27:28.530280"
+  },
+  "masked-spacetime-hashing/msth": {
+    "accuracy": 0.4230769230769231,
+    "mrr": 0.1955128205128205,
+    "ndcg": 0.251775848118513,
+    "total_examples": 26,
+    "correct_retrievals": 11,
+    "processed_at": "2025-08-07T08:34:37.379881"
+  },
+  "lewandofskee/DiAD": {
+    "accuracy": 0.5,
+    "mrr": 0.3974358974358974,
+    "ndcg": 0.42398919285714737,
+    "total_examples": 26,
+    "correct_retrievals": 13,
+    "processed_at": "2025-08-07T08:40:36.638058"
+  },
+  "metatube-community/metatube-plex-plugins": {
+    "accuracy": 0.4230769230769231,
+    "mrr": 0.2205128205128205,
+    "ndcg": 0.27030184582039396,
+    "total_examples": 26,
+    "correct_retrievals": 11,
+    "processed_at": "2025-08-07T08:47:37.172399"
+  },
+  "e4s2023/E4S2023": {
+    "accuracy": 0.56,
+    "mrr": 0.4233333333333333,
+    "ndcg": 0.458175822894369,
+    "total_examples": 25,
+    "correct_retrievals": 14,
+    "processed_at": "2025-08-07T08:57:26.813756"
+  },
+  "spla-tam/SplaTAM": {
+    "accuracy": 0.6,
+    "mrr": 0.23066666666666666,
+    "ndcg": 0.32182522208544967,
+    "total_examples": 25,
+    "correct_retrievals": 15,
+    "processed_at": "2025-08-07T09:06:54.699305"
+  },
+  "Czm369/MixPL": {
+    "accuracy": 0.16,
+    "mrr": 0.046,
+    "ndcg": 0.07341247704455736,
+    "total_examples": 25,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-07T09:21:00.046035"
+  },
+  "nchen909/Pass-Tuning": {
+    "accuracy": 0.6666666666666666,
+    "mrr": 0.3902777777777778,
+    "ndcg": 0.45974101853375315,
+    "total_examples": 24,
+    "correct_retrievals": 16,
+    "processed_at": "2025-08-07T09:28:57.406173"
+  },
+  "opisaac9001/TTS-With-ooba-and-voice": {
+    "accuracy": 0.8333333333333334,
+    "mrr": 0.492361111111111,
+    "ndcg": 0.5758282360646009,
+    "total_examples": 24,
+    "correct_retrievals": 20,
+    "processed_at": "2025-08-07T09:39:39.775471"
+  },
+  "SooLab/DDCOT": {
+    "accuracy": 0.6086956521739131,
+    "mrr": 0.3768115942028986,
+    "ndcg": 0.4358138701863405,
+    "total_examples": 23,
+    "correct_retrievals": 14,
+    "processed_at": "2025-08-07T09:59:11.750788"
+  },
+  "ai-safety-foundation/sparse_autoencoder": {
+    "accuracy": 0.5217391304347826,
+    "mrr": 0.2442028985507246,
+    "ndcg": 0.3131565867713283,
+    "total_examples": 23,
+    "correct_retrievals": 12,
+    "processed_at": "2025-08-07T10:05:06.049591"
+  },
+  "NobiDeveloper/Nobita-Filter-Bot": {
+    "accuracy": 0.34782608695652173,
+    "mrr": 0.20652173913043478,
+    "ndcg": 0.24180897007151525,
+    "total_examples": 23,
+    "correct_retrievals": 8,
+    "processed_at": "2025-08-07T10:13:28.525348"
+  },
+  "colour-science/colour-visuals": {
+    "accuracy": 0.22727272727272727,
+    "mrr": 0.14015151515151517,
+    "ndcg": 0.16189119598385684,
+    "total_examples": 22,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-07T10:20:03.631597"
+  },
+  "S-LoRA/S-LoRA": {
+    "accuracy": 0.2727272727272727,
+    "mrr": 0.14545454545454548,
+    "ndcg": 0.17775326461456234,
+    "total_examples": 22,
+    "correct_retrievals": 6,
+    "processed_at": "2025-08-07T10:25:01.082677"
+  },
+  "qitan/devops-backend-lite": {
+    "accuracy": 0.0,
+    "mrr": 0.0,
+    "ndcg": 0.0,
+    "total_examples": 22,
+    "correct_retrievals": 0,
+    "processed_at": "2025-08-07T10:29:02.318352"
+  },
+  "nv-tlabs/pacer": {
+    "accuracy": 0.5909090909090909,
+    "mrr": 0.3636363636363636,
+    "ndcg": 0.42064283531187086,
+    "total_examples": 22,
+    "correct_retrievals": 13,
+    "processed_at": "2025-08-07T10:35:14.875571"
+  },
+  "abdulhaim/LMRL-Gym": {
+    "accuracy": 0.18181818181818182,
+    "mrr": 0.07954545454545454,
+    "ndcg": 0.10561208267217116,
+    "total_examples": 22,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-07T10:42:22.909542"
+  },
+  "microsoft/Project-BayesDAG": {
+    "accuracy": 0.8636363636363636,
+    "mrr": 0.6098484848484849,
+    "ndcg": 0.6748720378669817,
+    "total_examples": 22,
+    "correct_retrievals": 19,
+    "processed_at": "2025-08-07T10:47:55.560646"
+  },
+  "camenduru/AnyDoor-online-hf": {
+    "accuracy": 0.5238095238095238,
+    "mrr": 0.35317460317460314,
+    "ndcg": 0.3963555151803699,
+    "total_examples": 21,
+    "correct_retrievals": 11,
+    "processed_at": "2025-08-07T10:53:29.957662"
+  },
+  "hxz393/ConfigCenterComparer": {
+    "accuracy": 0.5238095238095238,
+    "mrr": 0.373015873015873,
+    "ndcg": 0.41062917253760484,
+    "total_examples": 21,
+    "correct_retrievals": 11,
+    "processed_at": "2025-08-07T10:58:37.138638"
+  },
+  "camenduru/magicanimate-hf": {
+    "accuracy": 0.7619047619047619,
+    "mrr": 0.4317460317460317,
+    "ndcg": 0.5137955951653884,
+    "total_examples": 21,
+    "correct_retrievals": 16,
+    "processed_at": "2025-08-07T11:05:45.020889"
+  },
+  "weijiawu/CisDQ": {
+    "accuracy": 0.42857142857142855,
+    "mrr": 0.3333333333333333,
+    "ndcg": 0.3567753747484878,
+    "total_examples": 21,
+    "correct_retrievals": 9,
+    "processed_at": "2025-08-07T11:11:37.226039"
+  },
+  "zhyever/PatchFusion": {
+    "accuracy": 0.4,
+    "mrr": 0.2166666666666667,
+    "ndcg": 0.262707118843058,
+    "total_examples": 20,
+    "correct_retrievals": 8,
+    "processed_at": "2025-08-07T11:18:44.161909"
+  },
+  "sophiaalthammer/alforrankers": {
+    "accuracy": 0.35,
+    "mrr": 0.26,
+    "ndcg": 0.2824356157188729,
+    "total_examples": 20,
+    "correct_retrievals": 7,
+    "processed_at": "2025-08-07T11:26:13.878280"
+  },
+  "amikey/Fooocus": {
+    "accuracy": 0.35,
+    "mrr": 0.15833333333333333,
+    "ndcg": 0.20616063116448508,
+    "total_examples": 20,
+    "correct_retrievals": 7,
+    "processed_at": "2025-08-07T11:34:17.253281"
+  },
+  "usail-hkust/LLMTSCS": {
+    "accuracy": 0.2631578947368421,
+    "mrr": 0.0894736842105263,
+    "ndcg": 0.13251487162136838,
+    "total_examples": 19,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-07T11:40:10.325318"
+  },
+  "KyanChen/TTP": {
+    "accuracy": 0.5789473684210527,
+    "mrr": 0.4605263157894737,
+    "ndcg": 0.49070872730461934,
+    "total_examples": 19,
+    "correct_retrievals": 11,
+    "processed_at": "2025-08-07T11:54:23.104648"
+  },
+  "alibaba-damo-academy/FunCodec": {
+    "accuracy": 0.5789473684210527,
+    "mrr": 0.37280701754385964,
+    "ndcg": 0.42429506903393954,
+    "total_examples": 19,
+    "correct_retrievals": 11,
+    "processed_at": "2025-08-07T12:00:02.412068"
+  },
+  "cswry/SeeSR": {
+    "accuracy": 0.3684210526315789,
+    "mrr": 0.23859649122807017,
+    "ndcg": 0.2709848586514451,
+    "total_examples": 19,
+    "correct_retrievals": 7,
+    "processed_at": "2025-08-07T12:05:08.086856"
+  },
+  "IanYeung/MGLD-VSR": {
+    "accuracy": 0.8421052631578947,
+    "mrr": 0.5263157894736842,
+    "ndcg": 0.6061053623160039,
+    "total_examples": 19,
+    "correct_retrievals": 16,
+    "processed_at": "2025-08-07T12:11:06.532492"
+  },
+  "Inflectra/spira-jira-migration-advanced": {
+    "accuracy": 0.3157894736842105,
+    "mrr": 0.17105263157894737,
+    "ndcg": 0.20647154883113875,
+    "total_examples": 19,
+    "correct_retrievals": 6,
+    "processed_at": "2025-08-07T12:20:35.686932"
+  },
+  "Codra-Ingenierie-Informatique/DataLab": {
+    "accuracy": 0.5555555555555556,
+    "mrr": 0.32592592592592595,
+    "ndcg": 0.38217420427515475,
+    "total_examples": 18,
+    "correct_retrievals": 10,
+    "processed_at": "2025-08-07T12:25:44.005920"
+  },
+  "AIFSH/NativeDancer": {
+    "accuracy": 0.6666666666666666,
+    "mrr": 0.4018518518518518,
+    "ndcg": 0.46692418711336336,
+    "total_examples": 18,
+    "correct_retrievals": 12,
+    "processed_at": "2025-08-07T12:32:01.846517"
+  },
+  "chenruduan/OAReactDiff": {
+    "accuracy": 0.7222222222222222,
+    "mrr": 0.48148148148148157,
+    "ndcg": 0.5418967987145088,
+    "total_examples": 18,
+    "correct_retrievals": 13,
+    "processed_at": "2025-08-07T12:36:37.437401"
+  },
+  "Sllambias/yucca": {
+    "accuracy": 0.3333333333333333,
+    "mrr": 0.16296296296296295,
+    "ndcg": 0.20336435676131248,
+    "total_examples": 18,
+    "correct_retrievals": 6,
+    "processed_at": "2025-08-07T12:41:57.988293"
+  },
+  "cpuimage/minSDXLTF": {
+    "accuracy": 0.5,
+    "mrr": 0.37222222222222223,
+    "ndcg": 0.40442455933049526,
+    "total_examples": 18,
+    "correct_retrievals": 9,
+    "processed_at": "2025-08-07T12:52:18.358685"
+  },
+  "open-mmlab/Amphion": {
+    "accuracy": 0.8235294117647058,
+    "mrr": 0.5147058823529411,
+    "ndcg": 0.5928004820969955,
+    "total_examples": 17,
+    "correct_retrievals": 14,
+    "processed_at": "2025-08-07T12:58:00.823607"
+  },
+  "rehg-lab/RAVE": {
+    "accuracy": 0.7058823529411765,
+    "mrr": 0.4186274509803921,
+    "ndcg": 0.4906616693878685,
+    "total_examples": 17,
+    "correct_retrievals": 12,
+    "processed_at": "2025-08-07T13:06:11.311488"
+  },
+  "sinoyou/nelf-pro": {
+    "accuracy": 0.4117647058823529,
+    "mrr": 0.3382352941176471,
+    "ndcg": 0.35656507715557945,
+    "total_examples": 17,
+    "correct_retrievals": 7,
+    "processed_at": "2025-08-07T13:10:48.483274"
+  },
+  "JiahuiLei/GART": {
+    "accuracy": 0.7058823529411765,
+    "mrr": 0.5215686274509804,
+    "ndcg": 0.5675713126104387,
+    "total_examples": 17,
+    "correct_retrievals": 12,
+    "processed_at": "2025-08-07T13:15:44.239523"
+  },
+  "zhenzhiwang/intercontrol": {
+    "accuracy": 0.47058823529411764,
+    "mrr": 0.29901960784313725,
+    "ndcg": 0.3425568128698686,
+    "total_examples": 17,
+    "correct_retrievals": 8,
+    "processed_at": "2025-08-07T13:20:46.632082"
+  },
+  "IDSIA/automated-cl": {
+    "accuracy": 0.11764705882352941,
+    "mrr": 0.058823529411764705,
+    "ndcg": 0.07422702983193619,
+    "total_examples": 17,
+    "correct_retrievals": 2,
+    "processed_at": "2025-08-07T13:25:35.067746"
+  },
+  "Zuricho/chroma_pipeline": {
+    "accuracy": 0.35294117647058826,
+    "mrr": 0.3137254901960784,
+    "ndcg": 0.3235294117647059,
+    "total_examples": 17,
+    "correct_retrievals": 6,
+    "processed_at": "2025-08-07T13:30:11.139053"
+  },
+  "wenquanlu/HandRefiner": {
+    "accuracy": 0.47058823529411764,
+    "mrr": 0.3431372549019608,
+    "ndcg": 0.37604642710084546,
+    "total_examples": 17,
+    "correct_retrievals": 8,
+    "processed_at": "2025-08-07T13:34:32.747329"
+  },
+  "allenai/Holodeck": {
+    "accuracy": 0.7058823529411765,
+    "mrr": 0.4774509803921569,
+    "ndcg": 0.5340816983794617,
+    "total_examples": 17,
+    "correct_retrievals": 12,
+    "processed_at": "2025-08-07T13:40:25.119066"
+  },
+  "JiahuiLei/NAP": {
+    "accuracy": 0.8125,
+    "mrr": 0.4833333333333334,
+    "ndcg": 0.5642404994581403,
+    "total_examples": 16,
+    "correct_retrievals": 13,
+    "processed_at": "2025-08-07T13:45:27.722710"
+  },
+  "kampta/asic": {
+    "accuracy": 0.5,
+    "mrr": 0.2958333333333334,
+    "ndcg": 0.3459728201007499,
+    "total_examples": 16,
+    "correct_retrievals": 8,
+    "processed_at": "2025-08-07T13:49:52.754292"
+  },
+  "acolas1/KGSimple": {
+    "accuracy": 0.5625,
+    "mrr": 0.234375,
+    "ndcg": 0.3158680738351934,
+    "total_examples": 16,
+    "correct_retrievals": 9,
+    "processed_at": "2025-08-07T13:54:40.001668"
+  },
+  "zhijie-group/LOVECon": {
+    "accuracy": 0.375,
+    "mrr": 0.23958333333333334,
+    "ndcg": 0.2745493287946483,
+    "total_examples": 16,
+    "correct_retrievals": 6,
+    "processed_at": "2025-08-07T14:00:20.280675"
+  },
+  "iann838/pulsefire": {
+    "accuracy": 0.5625,
+    "mrr": 0.3541666666666667,
+    "ndcg": 0.4077324383928644,
+    "total_examples": 16,
+    "correct_retrievals": 9,
+    "processed_at": "2025-08-07T14:04:27.149190"
+  },
+  "FoundationVision/UniRef": {
+    "accuracy": 0.6666666666666666,
+    "mrr": 0.4888888888888889,
+    "ndcg": 0.5328188579812162,
+    "total_examples": 15,
+    "correct_retrievals": 10,
+    "processed_at": "2025-08-07T14:10:31.251178"
+  },
+  "bcmi/libcom": {
+    "accuracy": 0.6,
+    "mrr": 0.44666666666666666,
+    "ndcg": 0.48530947119659434,
+    "total_examples": 15,
+    "correct_retrievals": 9,
+    "processed_at": "2025-08-07T14:16:00.667180"
+  },
+  "tobagin/whakarere": {
+    "accuracy": 0.0,
+    "mrr": 0.0,
+    "ndcg": 0.0,
+    "total_examples": 15,
+    "correct_retrievals": 0,
+    "processed_at": "2025-08-07T14:18:40.826974"
+  },
+  "jinxixiang/magic_animate_unofficial": {
+    "accuracy": 0.8666666666666667,
+    "mrr": 0.47999999999999987,
+    "ndcg": 0.5765808209584972,
+    "total_examples": 15,
+    "correct_retrievals": 13,
+    "processed_at": "2025-08-07T14:23:47.214545"
+  },
+  "StareAbyss/FoodsVsMouses_AutoAssistant": {
+    "accuracy": 0.4666666666666667,
+    "mrr": 0.2611111111111111,
+    "ndcg": 0.31283573768108724,
+    "total_examples": 15,
+    "correct_retrievals": 7,
+    "processed_at": "2025-08-07T14:27:28.007647"
+  },
+  "see2023/Bert-VITS2-ext": {
+    "accuracy": 0.35714285714285715,
+    "mrr": 0.17500000000000002,
+    "ndcg": 0.21995634803220357,
+    "total_examples": 14,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-07T14:32:32.160974"
+  },
+  "AContesini/Convert_PDF_to_DOCX_or_vice-versa": {
+    "accuracy": 0.5,
+    "mrr": 0.19642857142857142,
+    "ndcg": 0.2731047013419833,
+    "total_examples": 14,
+    "correct_retrievals": 7,
+    "processed_at": "2025-08-07T14:43:12.499137"
+  },
+  "ej0cl6/TextEE": {
+    "accuracy": 0.5714285714285714,
+    "mrr": 0.5,
+    "ndcg": 0.5187042505102083,
+    "total_examples": 14,
+    "correct_retrievals": 8,
+    "processed_at": "2025-08-07T14:47:43.680677"
+  },
+  "IBM/oper8": {
+    "accuracy": 0.35714285714285715,
+    "mrr": 0.19642857142857142,
+    "ndcg": 0.23739041562769758,
+    "total_examples": 14,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-07T14:51:40.398101"
+  },
+  "Jisencc/yolov5_dual_weighting": {
+    "accuracy": 0.2857142857142857,
+    "mrr": 0.17857142857142858,
+    "ndcg": 0.20662780433674088,
+    "total_examples": 14,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-07T14:56:06.522982"
+  },
+  "cyberark/ark-sdk-python": {
+    "accuracy": 0.14285714285714285,
+    "mrr": 0.049999999999999996,
+    "ndcg": 0.07269875434328565,
+    "total_examples": 14,
+    "correct_retrievals": 2,
+    "processed_at": "2025-08-07T15:00:04.561450"
+  },
+  "fg320/DEASC": {
+    "accuracy": 0.5714285714285714,
+    "mrr": 0.3511904761904762,
+    "ndcg": 0.40660971894402204,
+    "total_examples": 14,
+    "correct_retrievals": 8,
+    "processed_at": "2025-08-07T15:04:17.930575"
+  },
+  "hkchengrex/Cutie": {
+    "accuracy": 0.8571428571428571,
+    "mrr": 0.6428571428571429,
+    "ndcg": 0.6972756790816368,
+    "total_examples": 14,
+    "correct_retrievals": 12,
+    "processed_at": "2025-08-07T15:08:14.617405"
+  },
+  "sotopia-lab/sotopia": {
+    "accuracy": 0.42857142857142855,
+    "mrr": 0.15119047619047618,
+    "ndcg": 0.21995634803220354,
+    "total_examples": 14,
+    "correct_retrievals": 6,
+    "processed_at": "2025-08-07T15:12:31.612644"
+  },
+  "zju3dv/nr_in_a_room": {
+    "accuracy": 0.7142857142857143,
+    "mrr": 0.4880952380952381,
+    "ndcg": 0.5467606262755206,
+    "total_examples": 14,
+    "correct_retrievals": 10,
+    "processed_at": "2025-08-07T15:16:36.976227"
+  },
+  "codefuse-ai/Collinear-Constrained-Attention": {
+    "accuracy": 0.5714285714285714,
+    "mrr": 0.3178571428571429,
+    "ndcg": 0.3798235260934239,
+    "total_examples": 14,
+    "correct_retrievals": 8,
+    "processed_at": "2025-08-07T15:20:55.088756"
+  },
+  "wusize/CLIM": {
+    "accuracy": 0.6428571428571429,
+    "mrr": 0.39285714285714285,
+    "ndcg": 0.4566278043367409,
+    "total_examples": 14,
+    "correct_retrievals": 9,
+    "processed_at": "2025-08-07T15:25:29.451953"
+  },
+  "chinhsuanwu/ifusion": {
+    "accuracy": 0.7857142857142857,
+    "mrr": 0.5833333333333333,
+    "ndcg": 0.6351992329081695,
+    "total_examples": 14,
+    "correct_retrievals": 11,
+    "processed_at": "2025-08-07T15:28:54.969631"
+  },
+  "penghao-wu/vstar": {
+    "accuracy": 0.7142857142857143,
+    "mrr": 0.49642857142857144,
+    "ndcg": 0.5507370447158791,
+    "total_examples": 14,
+    "correct_retrievals": 10,
+    "processed_at": "2025-08-07T15:32:38.534180"
+  },
+  "MingtaoGuo/AnimateAnyone_unofficial": {
+    "accuracy": 0.5714285714285714,
+    "mrr": 0.3773809523809524,
+    "ndcg": 0.42488993706281375,
+    "total_examples": 14,
+    "correct_retrievals": 8,
+    "processed_at": "2025-08-07T15:37:56.014963"
+  },
+  "YaoFANGUK/video-subtitle-remover": {
+    "accuracy": 0.5,
+    "mrr": 0.27380952380952384,
+    "ndcg": 0.33022947309212153,
+    "total_examples": 14,
+    "correct_retrievals": 7,
+    "processed_at": "2025-08-07T15:43:55.238426"
+  },
+  "cpacker/MemGPT": {
+    "accuracy": 0.2857142857142857,
+    "mrr": 0.09523809523809523,
+    "ndcg": 0.14230591926558883,
+    "total_examples": 14,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-07T15:47:38.994044"
+  },
+  "azuline/rose": {
+    "accuracy": 0.6428571428571429,
+    "mrr": 0.3988095238095238,
+    "ndcg": 0.4587828162708312,
+    "total_examples": 14,
+    "correct_retrievals": 9,
+    "processed_at": "2025-08-07T15:51:32.887713"
+  },
+  "R1999RC-official/Reverse1999ResonanceCalculator": {
+    "accuracy": 0.0,
+    "mrr": 0.0,
+    "ndcg": 0.0,
+    "total_examples": 13,
+    "correct_retrievals": 0,
+    "processed_at": "2025-08-07T15:59:29.615219"
+  },
+  "RobertCsordas/moe_attention": {
+    "accuracy": 0.46153846153846156,
+    "mrr": 0.28205128205128205,
+    "ndcg": 0.32783534670330117,
+    "total_examples": 13,
+    "correct_retrievals": 6,
+    "processed_at": "2025-08-07T16:03:30.229364"
+  },
+  "yasserben/CLOUDS": {
+    "accuracy": 0.6923076923076923,
+    "mrr": 0.45769230769230773,
+    "ndcg": 0.5137601908811323,
+    "total_examples": 13,
+    "correct_retrievals": 9,
+    "processed_at": "2025-08-07T16:06:35.377805"
+  },
+  "EulerSearch/embedding_studio": {
+    "accuracy": 0.38461538461538464,
+    "mrr": 0.28846153846153844,
+    "ndcg": 0.3124312547419116,
+    "total_examples": 13,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-07T16:10:13.781651"
+  },
+  "chenran-li/RQL-release": {
+    "accuracy": 0.6923076923076923,
+    "mrr": 0.4064102564102564,
+    "ndcg": 0.47771681738633137,
+    "total_examples": 13,
+    "correct_retrievals": 9,
+    "processed_at": "2025-08-07T16:15:18.049248"
+  },
+  "giulio98/functional-diffusion-processes": {
+    "accuracy": 0.23076923076923078,
+    "mrr": 0.08974358974358973,
+    "ndcg": 0.12545613489011212,
+    "total_examples": 13,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-07T16:18:25.747060"
+  },
+  "violet-sto/HN-GFN": {
+    "accuracy": 0.6153846153846154,
+    "mrr": 0.3871794871794872,
+    "ndcg": 0.44458785138068574,
+    "total_examples": 13,
+    "correct_retrievals": 8,
+    "processed_at": "2025-08-07T16:21:56.885323"
+  },
+  "bytedance/cryostar": {
+    "accuracy": 0.7692307692307693,
+    "mrr": 0.49358974358974356,
+    "ndcg": 0.5633435245221359,
+    "total_examples": 13,
+    "correct_retrievals": 10,
+    "processed_at": "2025-08-07T16:25:33.496570"
+  },
+  "alibaba/animate-anything": {
+    "accuracy": 0.6923076923076923,
+    "mrr": 0.47435897435897434,
+    "ndcg": 0.5302145585164902,
+    "total_examples": 13,
+    "correct_retrievals": 9,
+    "processed_at": "2025-08-07T16:28:54.817367"
+  },
+  "mkang315/ASF-YOLO": {
+    "accuracy": 0.3076923076923077,
+    "mrr": 0.12179487179487179,
+    "ndcg": 0.16865662040125448,
+    "total_examples": 13,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-07T16:34:01.897822"
+  },
+  "lumina-test/lumina": {
+    "accuracy": 0.46153846153846156,
+    "mrr": 0.2371794871794872,
+    "ndcg": 0.29411275529136655,
+    "total_examples": 13,
+    "correct_retrievals": 6,
+    "processed_at": "2025-08-07T16:37:43.806723"
+  },
+  "hyperspy/exspy": {
+    "accuracy": 0.6923076923076923,
+    "mrr": 0.5769230769230769,
+    "ndcg": 0.6071376354395672,
+    "total_examples": 13,
+    "correct_retrievals": 9,
+    "processed_at": "2025-08-07T16:42:16.394600"
+  },
+  "eai-lab/On-NAS": {
+    "accuracy": 0.6923076923076923,
+    "mrr": 0.4897435897435897,
+    "ndcg": 0.5398294277543076,
+    "total_examples": 13,
+    "correct_retrievals": 9,
+    "processed_at": "2025-08-07T16:46:33.034216"
+  },
+  "zhaoyizhou1123/mbrcsl": {
+    "accuracy": 0.3076923076923077,
+    "mrr": 0.16666666666666666,
+    "ndcg": 0.20237921181318905,
+    "total_examples": 13,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-07T16:51:20.114315"
+  },
+  "xhuangcv/humannorm": {
+    "accuracy": 0.75,
+    "mrr": 0.3986111111111111,
+    "ndcg": 0.4867706982994804,
+    "total_examples": 12,
+    "correct_retrievals": 9,
+    "processed_at": "2025-08-07T16:55:11.919402"
+  },
+  "dakpinaroglu/Frame2seq": {
+    "accuracy": 0.6666666666666666,
+    "mrr": 0.41250000000000003,
+    "ndcg": 0.475859885501859,
+    "total_examples": 12,
+    "correct_retrievals": 8,
+    "processed_at": "2025-08-07T16:58:56.568434"
+  },
+  "chinhsuanwu/ifusion-threestudio": {
+    "accuracy": 0.75,
+    "mrr": 0.5625,
+    "ndcg": 0.6102888182323137,
+    "total_examples": 12,
+    "correct_retrievals": 9,
+    "processed_at": "2025-08-07T17:02:44.674537"
+  },
+  "yanzhh/HGERE": {
+    "accuracy": 0.3333333333333333,
+    "mrr": 0.2041666666666667,
+    "ndcg": 0.2347941137756612,
+    "total_examples": 12,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-07T17:08:00.642716"
+  },
+  "TheFunny/ArisuAutoSweeper": {
+    "accuracy": 0.4166666666666667,
+    "mrr": 0.20138888888888887,
+    "ndcg": 0.25513385930373755,
+    "total_examples": 12,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-07T17:11:26.768414"
+  },
+  "modelscope/richdreamer": {
+    "accuracy": 0.6666666666666666,
+    "mrr": 0.5208333333333334,
+    "ndcg": 0.5577113387680257,
+    "total_examples": 12,
+    "correct_retrievals": 8,
+    "processed_at": "2025-08-07T17:15:27.623863"
+  },
+  "modelscope/normal-depth-diffusion": {
+    "accuracy": 0.6666666666666666,
+    "mrr": 0.43333333333333335,
+    "ndcg": 0.4925476517933644,
+    "total_examples": 12,
+    "correct_retrievals": 8,
+    "processed_at": "2025-08-07T17:20:19.354823"
+  },
+  "LkPrtctrd/BSL-V53": {
+    "accuracy": 0.0,
+    "mrr": 0.0,
+    "ndcg": 0.0,
+    "total_examples": 12,
+    "correct_retrievals": 0,
+    "processed_at": "2025-08-07T17:22:41.457758"
+  },
+  "amazon-science/c2f-seg": {
+    "accuracy": 0.6666666666666666,
+    "mrr": 0.3152777777777778,
+    "ndcg": 0.4008176862521815,
+    "total_examples": 12,
+    "correct_retrievals": 8,
+    "processed_at": "2025-08-07T17:26:31.505661"
+  },
+  "Ruiyuan-Zhang/CCS": {
+    "accuracy": 0.6666666666666666,
+    "mrr": 0.46527777777777773,
+    "ndcg": 0.5160446721013591,
+    "total_examples": 12,
+    "correct_retrievals": 8,
+    "processed_at": "2025-08-07T17:30:25.421486"
+  },
+  "ebb-earl-co/tidal-wave": {
+    "accuracy": 0.3333333333333333,
+    "mrr": 0.16666666666666666,
+    "ndcg": 0.20769023914318696,
+    "total_examples": 12,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-07T17:33:32.900443"
+  },
+  "youngskkim/CRN": {
+    "accuracy": 0.8333333333333334,
+    "mrr": 0.5236111111111111,
+    "ndcg": 0.600859885501859,
+    "total_examples": 12,
+    "correct_retrievals": 10,
+    "processed_at": "2025-08-07T17:39:04.251713"
+  },
+  "ByungKwanLee/Full-Segment-Anything": {
+    "accuracy": 0.4166666666666667,
+    "mrr": 0.21527777777777776,
+    "ndcg": 0.266044672101359,
+    "total_examples": 12,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-07T17:42:05.702366"
+  },
+  "bearyi26/DCPT": {
+    "accuracy": 0.75,
+    "mrr": 0.3777777777777777,
+    "ndcg": 0.47072602619812143,
+    "total_examples": 12,
+    "correct_retrievals": 9,
+    "processed_at": "2025-08-07T17:46:18.905934"
+  },
+  "deepseek-ai/DreamCraft3D": {
+    "accuracy": 0.7272727272727273,
+    "mrr": 0.4727272727272727,
+    "ndcg": 0.5373247110473066,
+    "total_examples": 11,
+    "correct_retrievals": 8,
+    "processed_at": "2025-08-07T17:50:18.860432"
+  },
+  "RobertCsordas/moe": {
+    "accuracy": 0.45454545454545453,
+    "mrr": 0.21515151515151515,
+    "ndcg": 0.27434386916418174,
+    "total_examples": 11,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-07T17:53:43.764824"
+  },
+  "liuqidong07/MOELoRA-peft": {
+    "accuracy": 0.8181818181818182,
+    "mrr": 0.5227272727272727,
+    "ndcg": 0.5965096646949865,
+    "total_examples": 11,
+    "correct_retrievals": 9,
+    "processed_at": "2025-08-07T17:56:50.963954"
+  },
+  "ForceFledgling/proxyhub": {
+    "accuracy": 0.8181818181818182,
+    "mrr": 0.6666666666666667,
+    "ndcg": 0.7056235915584469,
+    "total_examples": 11,
+    "correct_retrievals": 9,
+    "processed_at": "2025-08-07T17:59:39.915376"
+  },
+  "nv-tlabs/vid2player3d": {
+    "accuracy": 0.6363636363636364,
+    "mrr": 0.37878787878787873,
+    "ndcg": 0.44479902370130664,
+    "total_examples": 11,
+    "correct_retrievals": 7,
+    "processed_at": "2025-08-07T18:03:42.614381"
+  },
+  "Improbable-AI/dexenv": {
+    "accuracy": 0.8181818181818182,
+    "mrr": 0.5227272727272727,
+    "ndcg": 0.598665938720971,
+    "total_examples": 11,
+    "correct_retrievals": 9,
+    "processed_at": "2025-08-07T18:06:36.814164"
+  },
+  "CVHub520/yolov5_obb": {
+    "accuracy": 0.36363636363636365,
+    "mrr": 0.25,
+    "ndcg": 0.2783278465131682,
+    "total_examples": 11,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-07T18:10:21.014476"
+  },
+  "wjun0830/CGDETR": {
+    "accuracy": 0.7272727272727273,
+    "mrr": 0.3969696969696969,
+    "ndcg": 0.4771096293983025,
+    "total_examples": 11,
+    "correct_retrievals": 8,
+    "processed_at": "2025-08-07T18:13:45.925433"
+  },
+  "WenzhengZhang/Seq2seqCoref": {
+    "accuracy": 0.45454545454545453,
+    "mrr": 0.17424242424242423,
+    "ndcg": 0.2447760059287553,
+    "total_examples": 11,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-07T18:17:05.996806"
+  },
+  "intellerce/controlanimate": {
+    "accuracy": 0.9090909090909091,
+    "mrr": 0.5136363636363637,
+    "ndcg": 0.611645562438937,
+    "total_examples": 11,
+    "correct_retrievals": 10,
+    "processed_at": "2025-08-07T18:21:07.877166"
+  },
+  "LeapLabTHU/Rank-DETR": {
+    "accuracy": 0.36363636363636365,
+    "mrr": 0.18939393939393936,
+    "ndcg": 0.23287330105862278,
+    "total_examples": 11,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-07T18:26:07.374071"
+  },
+  "mlpc-ucsd/MasQCLIP": {
+    "accuracy": 0.7272727272727273,
+    "mrr": 0.5075757575757577,
+    "ndcg": 0.5629578241105735,
+    "total_examples": 11,
+    "correct_retrievals": 8,
+    "processed_at": "2025-08-07T18:30:09.465469"
+  },
+  "horseee/DeepCache": {
+    "accuracy": 0.45454545454545453,
+    "mrr": 0.34848484848484845,
+    "ndcg": 0.37553906850649615,
+    "total_examples": 11,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-07T18:33:51.696826"
+  },
+  "crystallee-ai/controlGIF": {
+    "accuracy": 0.8181818181818182,
+    "mrr": 0.37878787878787873,
+    "ndcg": 0.4895520118575106,
+    "total_examples": 11,
+    "correct_retrievals": 9,
+    "processed_at": "2025-08-07T18:37:18.140666"
+  },
+  "chenxx89/BFRffusion": {
+    "accuracy": 0.7272727272727273,
+    "mrr": 0.5530303030303031,
+    "ndcg": 0.5965096646949865,
+    "total_examples": 11,
+    "correct_retrievals": 8,
+    "processed_at": "2025-08-07T18:42:19.575466"
+  },
+  "jpcadena/fastapi-boilerplate": {
+    "accuracy": 0.4,
+    "mrr": 0.25,
+    "ndcg": 0.28927892607143724,
+    "total_examples": 10,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-07T18:45:12.153517"
+  },
+  "f0uriest/interpax": {
+    "accuracy": 1.0,
+    "mrr": 0.7833333333333333,
+    "ndcg": 0.8392789260714373,
+    "total_examples": 10,
+    "correct_retrievals": 10,
+    "processed_at": "2025-08-07T18:47:53.414879"
+  },
+  "shuttworth/NICE-SLAM-Easyread": {
+    "accuracy": 0.7,
+    "mrr": 0.42833333333333334,
+    "ndcg": 0.49484591188793925,
+    "total_examples": 10,
+    "correct_retrievals": 7,
+    "processed_at": "2025-08-07T18:51:46.558945"
+  },
+  "Giftify-Bot/Giftify-Bot": {
+    "accuracy": 0.6,
+    "mrr": 0.3283333333333333,
+    "ndcg": 0.3948459118879392,
+    "total_examples": 10,
+    "correct_retrievals": 6,
+    "processed_at": "2025-08-07T18:54:44.719121"
+  },
+  "allenai/unified-io-2": {
+    "accuracy": 0.4,
+    "mrr": 0.16999999999999998,
+    "ndcg": 0.2279642067948914,
+    "total_examples": 10,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-07T18:58:18.604169"
+  },
+  "modelscope/scepter": {
+    "accuracy": 0.3,
+    "mrr": 0.25,
+    "ndcg": 0.26309297535714576,
+    "total_examples": 10,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-07T19:01:41.716705"
+  },
+  "tamnva/hydroecolstm": {
+    "accuracy": 0.6,
+    "mrr": 0.34500000000000003,
+    "ndcg": 0.407938887245085,
+    "total_examples": 10,
+    "correct_retrievals": 6,
+    "processed_at": "2025-08-07T19:04:54.684764"
+  },
+  "OATML-Markslab/ProteinNPT": {
+    "accuracy": 0.4,
+    "mrr": 0.2833333333333333,
+    "ndcg": 0.31309297535714575,
+    "total_examples": 10,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-07T19:07:45.559493"
+  },
+  "boppreh/hello_tls": {
+    "accuracy": 0.0,
+    "mrr": 0.0,
+    "ndcg": 0.0,
+    "total_examples": 10,
+    "correct_retrievals": 0,
+    "processed_at": "2025-08-07T19:10:30.756193"
+  },
+  "zhaojw1998/AccoMontage-3": {
+    "accuracy": 0.8,
+    "mrr": 0.3566666666666667,
+    "ndcg": 0.4666494875183457,
+    "total_examples": 10,
+    "correct_retrievals": 8,
+    "processed_at": "2025-08-07T19:13:47.484293"
+  },
+  "caglarkucuk/earthformer-satellite-to-radar": {
+    "accuracy": 0.6,
+    "mrr": 0.4333333333333334,
+    "ndcg": 0.47618595071429154,
+    "total_examples": 10,
+    "correct_retrievals": 6,
+    "processed_at": "2025-08-07T19:17:04.438409"
+  },
+  "DiffusionLight/DiffusionLight": {
+    "accuracy": 0.8,
+    "mrr": 0.33666666666666667,
+    "ndcg": 0.45100654305242427,
+    "total_examples": 10,
+    "correct_retrievals": 8,
+    "processed_at": "2025-08-07T19:20:09.757183"
+  },
+  "PixArt-alpha/PixArt-alpha": {
+    "accuracy": 0.1,
+    "mrr": 0.05,
+    "ndcg": 0.06309297535714575,
+    "total_examples": 10,
+    "correct_retrievals": 1,
+    "processed_at": "2025-08-07T19:23:11.511420"
+  },
+  "sakemin/cog-musicgen-remixer": {
+    "accuracy": 0.5,
+    "mrr": 0.2333333333333333,
+    "ndcg": 0.29922828697182435,
+    "total_examples": 10,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-07T19:26:43.611922"
+  },
+  "oracle/guardian-ai": {
+    "accuracy": 0.6,
+    "mrr": 0.22833333333333333,
+    "ndcg": 0.31788824814547206,
+    "total_examples": 10,
+    "correct_retrievals": 6,
+    "processed_at": "2025-08-07T19:29:20.860241"
+  },
+  "jiangjiechen/auction-arena": {
+    "accuracy": 0.5,
+    "mrr": 0.275,
+    "ndcg": 0.3323465818787765,
+    "total_examples": 10,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-07T19:32:24.936345"
+  },
+  "sakemin/cog-musicgen-chord": {
+    "accuracy": 0.5,
+    "mrr": 0.21666666666666665,
+    "ndcg": 0.28927892607143724,
+    "total_examples": 10,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-07T19:36:14.843451"
+  },
+  "lmb-freiburg/ldce": {
+    "accuracy": 0.8,
+    "mrr": 0.4699999999999999,
+    "ndcg": 0.5517782560805999,
+    "total_examples": 10,
+    "correct_retrievals": 8,
+    "processed_at": "2025-08-07T19:40:01.327808"
+  },
+  "EricGuo5513/momask-codes": {
+    "accuracy": 0.4,
+    "mrr": 0.2833333333333333,
+    "ndcg": 0.31309297535714575,
+    "total_examples": 10,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-07T19:46:23.308487"
+  },
+  "jongwooko/NASH-Pruning-Official": {
+    "accuracy": 0.5,
+    "mrr": 0.29000000000000004,
+    "ndcg": 0.3404635368040541,
+    "total_examples": 10,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-09T01:55:05.707520"
+  },
+  "DLYuanGod/TinyGPT-V": {
+    "accuracy": 0.1111111111111111,
+    "mrr": 0.05555555555555555,
+    "ndcg": 0.07010330595238418,
+    "total_examples": 9,
+    "correct_retrievals": 1,
+    "processed_at": "2025-08-10T01:02:50.894185"
+  },
+  "Con6924/SPM": {
+    "accuracy": 0.3333333333333333,
+    "mrr": 0.14814814814814814,
+    "ndcg": 0.1957621674603239,
+    "total_examples": 9,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T01:05:18.279368"
+  },
+  "i-super/Saleor": {
+    "accuracy": 0.4444444444444444,
+    "mrr": 0.35555555555555557,
+    "ndcg": 0.3763169785816157,
+    "total_examples": 9,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T01:23:48.596564"
+  },
+  "zju3dv/EasyVolcap": {
+    "accuracy": 0.3333333333333333,
+    "mrr": 0.12037037037037036,
+    "ndcg": 0.1735118124049834,
+    "total_examples": 9,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T01:28:04.416343"
+  },
+  "GXNU-ZhongLab/ODTrack": {
+    "accuracy": 0.0,
+    "mrr": 0.0,
+    "ndcg": 0.0,
+    "total_examples": 9,
+    "correct_retrievals": 0,
+    "processed_at": "2025-08-10T01:29:47.926977"
+  },
+  "Deltares/imod-python": {
+    "accuracy": 0.5555555555555556,
+    "mrr": 0.3611111111111111,
+    "ndcg": 0.4102817850240343,
+    "total_examples": 9,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T01:33:43.793270"
+  },
+  "open-mmlab/PIA": {
+    "accuracy": 0.8888888888888888,
+    "mrr": 0.5462962962962963,
+    "ndcg": 0.6325040072462564,
+    "total_examples": 9,
+    "correct_retrievals": 8,
+    "processed_at": "2025-08-10T01:36:27.130864"
+  },
+  "amazon-science/adaptive-in-context-learning": {
+    "accuracy": 0.4444444444444444,
+    "mrr": 0.2314814814814815,
+    "ndcg": 0.28462292351609453,
+    "total_examples": 9,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T01:38:39.265407"
+  },
+  "camenduru/FreeInit-hf": {
+    "accuracy": 1.0,
+    "mrr": 0.46666666666666656,
+    "ndcg": 0.5976817418836428,
+    "total_examples": 9,
+    "correct_retrievals": 9,
+    "processed_at": "2025-08-10T01:41:10.089431"
+  },
+  "NVlabs/EmerNeRF": {
+    "accuracy": 0.4444444444444444,
+    "mrr": 0.15185185185185182,
+    "ndcg": 0.22419806231177772,
+    "total_examples": 9,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T01:43:50.007584"
+  },
+  "LiYunfengLYF/LightFC": {
+    "accuracy": 0.6666666666666666,
+    "mrr": 0.35185185185185186,
+    "ndcg": 0.4325321400793747,
+    "total_examples": 9,
+    "correct_retrievals": 6,
+    "processed_at": "2025-08-10T01:46:46.577431"
+  },
+  "zbzhu99/madiff": {
+    "accuracy": 0.4444444444444444,
+    "mrr": 0.2592592592592593,
+    "ndcg": 0.306873278571435,
+    "total_examples": 9,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T01:50:10.695484"
+  },
+  "Significant-Gravitas/autostandup": {
+    "accuracy": 0.4444444444444444,
+    "mrr": 0.27222222222222225,
+    "ndcg": 0.3130588183675483,
+    "total_examples": 9,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T01:52:37.151854"
+  },
+  "Elfenreigen/UniChest": {
+    "accuracy": 0.3333333333333333,
+    "mrr": 0.16666666666666666,
+    "ndcg": 0.2103099178571525,
+    "total_examples": 9,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T01:55:24.460648"
+  },
+  "xmu-xiaoma666/X-Dreamer": {
+    "accuracy": 0.5555555555555556,
+    "mrr": 0.22037037037037036,
+    "ndcg": 0.3004869080602751,
+    "total_examples": 9,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T01:58:05.432414"
+  },
+  "DQiaole/FlowDiffusion_pytorch": {
+    "accuracy": 0.5555555555555556,
+    "mrr": 0.23518518518518514,
+    "ndcg": 0.3130588183675483,
+    "total_examples": 9,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T02:02:09.170459"
+  },
+  "aliyun/pai-python-sdk": {
+    "accuracy": 0.8888888888888888,
+    "mrr": 0.611111111111111,
+    "ndcg": 0.6812144170634953,
+    "total_examples": 9,
+    "correct_retrievals": 8,
+    "processed_at": "2025-08-10T02:07:58.570463"
+  },
+  "alexzhou907/DreamPropeller": {
+    "accuracy": 0.7777777777777778,
+    "mrr": 0.49444444444444446,
+    "ndcg": 0.5643765413834277,
+    "total_examples": 9,
+    "correct_retrievals": 7,
+    "processed_at": "2025-08-10T02:11:30.891580"
+  },
+  "jzmzhong/Automatic-Prosody-Annotator-with-SSWP-CLAP": {
+    "accuracy": 0.5555555555555556,
+    "mrr": 0.17592592592592593,
+    "ndcg": 0.2700751731192659,
+    "total_examples": 9,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T02:14:45.935520"
+  },
+  "Luo-Z13/pointobb": {
+    "accuracy": 0.4444444444444444,
+    "mrr": 0.3333333333333333,
+    "ndcg": 0.3624288341269906,
+    "total_examples": 9,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T02:20:15.693724"
+  },
+  "shercoo/RGDiffSR": {
+    "accuracy": 1.0,
+    "mrr": 0.6759259259259259,
+    "ndcg": 0.7581628687541963,
+    "total_examples": 9,
+    "correct_retrievals": 9,
+    "processed_at": "2025-08-10T02:24:06.786830"
+  },
+  "tylerlight071/Project-Cipher": {
+    "accuracy": 0.4444444444444444,
+    "mrr": 0.3333333333333333,
+    "ndcg": 0.3624288341269906,
+    "total_examples": 9,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T02:26:07.409599"
+  },
+  "xxlong0/Wonder3D": {
+    "accuracy": 0.6666666666666666,
+    "mrr": 0.6666666666666666,
+    "ndcg": 0.6666666666666666,
+    "total_examples": 9,
+    "correct_retrievals": 6,
+    "processed_at": "2025-08-10T02:28:46.688272"
+  },
+  "gardenifi/server": {
+    "accuracy": 0.875,
+    "mrr": 0.48958333333333337,
+    "ndcg": 0.5865670081520385,
+    "total_examples": 8,
+    "correct_retrievals": 7,
+    "processed_at": "2025-08-10T02:30:57.121910"
+  },
+  "shibing624/chatgpt-webui": {
+    "accuracy": 0.125,
+    "mrr": 0.0625,
+    "ndcg": 0.07886621919643219,
+    "total_examples": 8,
+    "correct_retrievals": 1,
+    "processed_at": "2025-08-10T02:33:07.872053"
+  },
+  "pkariz/grin-explorer": {
+    "accuracy": 0.625,
+    "mrr": 0.2916666666666667,
+    "ndcg": 0.37796487678572877,
+    "total_examples": 8,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T02:35:12.402343"
+  },
+  "BAAI-DCAI/SegVol": {
+    "accuracy": 0.75,
+    "mrr": 0.3583333333333333,
+    "ndcg": 0.45608903929718214,
+    "total_examples": 8,
+    "correct_retrievals": 6,
+    "processed_at": "2025-08-10T02:37:36.789168"
+  },
+  "ShipBit/wingman-ai": {
+    "accuracy": 0.875,
+    "mrr": 0.5833333333333334,
+    "ndcg": 0.6577324383928644,
+    "total_examples": 8,
+    "correct_retrievals": 7,
+    "processed_at": "2025-08-10T02:39:47.577149"
+  },
+  "zhang-tao-whu/DVIS_Plus": {
+    "accuracy": 0.75,
+    "mrr": 0.53125,
+    "ndcg": 0.5865670081520385,
+    "total_examples": 8,
+    "correct_retrievals": 6,
+    "processed_at": "2025-08-10T02:42:44.730158"
+  },
+  "TCLResearchEurope/torch-dag": {
+    "accuracy": 0.5,
+    "mrr": 0.24999999999999997,
+    "ndcg": 0.3125,
+    "total_examples": 8,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T02:45:20.489363"
+  },
+  "believethehype/nostrdvm": {
+    "accuracy": 0.375,
+    "mrr": 0.22916666666666666,
+    "ndcg": 0.2663662191964322,
+    "total_examples": 8,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T02:47:50.318920"
+  },
+  "RAIVNLab/MatFormer-OLMo": {
+    "accuracy": 0.375,
+    "mrr": 0.12916666666666665,
+    "ndcg": 0.1897228201007499,
+    "total_examples": 8,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T02:50:09.423492"
+  },
+  "1in-oos/ccplus": {
+    "accuracy": 0.5,
+    "mrr": 0.3541666666666667,
+    "ndcg": 0.3913662191964322,
+    "total_examples": 8,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T02:52:15.628293"
+  },
+  "L1bra1/WeakMotion": {
+    "accuracy": 1.0,
+    "mrr": 0.5729166666666667,
+    "ndcg": 0.681799446544903,
+    "total_examples": 8,
+    "correct_retrievals": 8,
+    "processed_at": "2025-08-10T02:55:13.200519"
+  },
+  "mohenghui/detectAuto_v8": {
+    "accuracy": 0.75,
+    "mrr": 0.4270833333333333,
+    "ndcg": 0.5077007889556063,
+    "total_examples": 8,
+    "correct_retrievals": 6,
+    "processed_at": "2025-08-10T02:58:15.809300"
+  },
+  "Aues6uen11Z/Zafkiel": {
+    "accuracy": 0.375,
+    "mrr": 0.1875,
+    "ndcg": 0.23659865758929657,
+    "total_examples": 8,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T03:00:08.019148"
+  },
+  "doodledood/chat-flock": {
+    "accuracy": 0.25,
+    "mrr": 0.09375,
+    "ndcg": 0.13270078895560633,
+    "total_examples": 8,
+    "correct_retrievals": 2,
+    "processed_at": "2025-08-10T03:02:19.243838"
+  },
+  "OpenBMB/XAgent": {
+    "accuracy": 0.75,
+    "mrr": 0.5833333333333334,
+    "ndcg": 0.625,
+    "total_examples": 8,
+    "correct_retrievals": 6,
+    "processed_at": "2025-08-10T03:04:58.771376"
+  },
+  "zju3dv/4K4D": {
+    "accuracy": 0.75,
+    "mrr": 0.4583333333333333,
+    "ndcg": 0.5327324383928644,
+    "total_examples": 8,
+    "correct_retrievals": 6,
+    "processed_at": "2025-08-10T03:08:59.952403"
+  },
+  "kylesargent/ZeroNVS": {
+    "accuracy": 0.875,
+    "mrr": 0.4791666666666667,
+    "ndcg": 0.5779015779112127,
+    "total_examples": 8,
+    "correct_retrievals": 7,
+    "processed_at": "2025-08-10T03:11:46.798856"
+  },
+  "princeton-nlp/LLM-Shearing": {
+    "accuracy": 0.875,
+    "mrr": 0.6666666666666666,
+    "ndcg": 0.7202324383928644,
+    "total_examples": 8,
+    "correct_retrievals": 7,
+    "processed_at": "2025-08-10T03:13:55.362862"
+  },
+  "jhejna/cpl": {
+    "accuracy": 0.375,
+    "mrr": 0.29166666666666663,
+    "ndcg": 0.3125,
+    "total_examples": 8,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T03:16:08.963372"
+  },
+  "uukuguy/multi_loras": {
+    "accuracy": 0.75,
+    "mrr": 0.4416666666666667,
+    "ndcg": 0.5185890392971821,
+    "total_examples": 8,
+    "correct_retrievals": 6,
+    "processed_at": "2025-08-10T03:18:29.836434"
+  },
+  "openvpi/SingingVocoders": {
+    "accuracy": 0.75,
+    "mrr": 0.3229166666666667,
+    "ndcg": 0.4288345697591741,
+    "total_examples": 8,
+    "correct_retrievals": 6,
+    "processed_at": "2025-08-10T03:21:14.693009"
+  },
+  "jianlanluo/SAQ": {
+    "accuracy": 0.25,
+    "mrr": 0.125,
+    "ndcg": 0.15773243839286438,
+    "total_examples": 8,
+    "correct_retrievals": 2,
+    "processed_at": "2025-08-10T03:23:45.571261"
+  },
+  "SLDGroup/G-CASCADE": {
+    "accuracy": 0.875,
+    "mrr": 0.6041666666666666,
+    "ndcg": 0.6740986575892967,
+    "total_examples": 8,
+    "correct_retrievals": 7,
+    "processed_at": "2025-08-10T03:27:46.829791"
+  },
+  "YefanZhou/TempBalance": {
+    "accuracy": 0.625,
+    "mrr": 0.5416666666666667,
+    "ndcg": 0.5625,
+    "total_examples": 8,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T03:30:59.534880"
+  },
+  "bytedance/ColTrack": {
+    "accuracy": 0.375,
+    "mrr": 0.2916666666666667,
+    "ndcg": 0.3125,
+    "total_examples": 8,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T03:34:20.947972"
+  },
+  "generative-skill-chaining/gsc-code": {
+    "accuracy": 0.125,
+    "mrr": 0.0625,
+    "ndcg": 0.07886621919643219,
+    "total_examples": 8,
+    "correct_retrievals": 1,
+    "processed_at": "2025-08-10T03:36:41.649641"
+  },
+  "xingchenshanyao/YOLOP-E": {
+    "accuracy": 0.5,
+    "mrr": 0.23958333333333331,
+    "ndcg": 0.3038345697591741,
+    "total_examples": 8,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T03:39:10.458454"
+  },
+  "BrianPugh/cyclopts": {
+    "accuracy": 0.0,
+    "mrr": 0.0,
+    "ndcg": 0.0,
+    "total_examples": 8,
+    "correct_retrievals": 0,
+    "processed_at": "2025-08-10T03:40:59.960201"
+  },
+  "pytorch-labs/ao": {
+    "accuracy": 0.75,
+    "mrr": 0.5625,
+    "ndcg": 0.6115986575892967,
+    "total_examples": 8,
+    "correct_retrievals": 6,
+    "processed_at": "2025-08-10T03:43:01.553100"
+  },
+  "google-research/semivl": {
+    "accuracy": 0.5,
+    "mrr": 0.35416666666666663,
+    "ndcg": 0.3913662191964322,
+    "total_examples": 8,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T03:45:04.116276"
+  },
+  "HKU-BAL/ClairS-TO": {
+    "accuracy": 0.25,
+    "mrr": 0.08333333333333333,
+    "ndcg": 0.125,
+    "total_examples": 8,
+    "correct_retrievals": 2,
+    "processed_at": "2025-08-10T03:47:43.477374"
+  },
+  "KAIST-AILab/palr": {
+    "accuracy": 0.75,
+    "mrr": 0.4270833333333333,
+    "ndcg": 0.5077007889556063,
+    "total_examples": 8,
+    "correct_retrievals": 6,
+    "processed_at": "2025-08-10T03:51:28.081209"
+  },
+  "ml4bio/RhoFold": {
+    "accuracy": 0.0,
+    "mrr": 0.0,
+    "ndcg": 0.0,
+    "total_examples": 8,
+    "correct_retrievals": 0,
+    "processed_at": "2025-08-10T03:53:32.887636"
+  },
+  "Harvard-Ophthalmology-AI-Lab/FairSeg": {
+    "accuracy": 0.0,
+    "mrr": 0.0,
+    "ndcg": 0.0,
+    "total_examples": 8,
+    "correct_retrievals": 0,
+    "processed_at": "2025-08-10T03:55:35.346721"
+  },
+  "Zjy0401/CoCoFormer": {
+    "accuracy": 0.625,
+    "mrr": 0.40625,
+    "ndcg": 0.46156700815203855,
+    "total_examples": 8,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T03:57:54.546825"
+  },
+  "tiendatnguyen-vision/Orbit-symmetrize": {
+    "accuracy": 0.75,
+    "mrr": 0.5416666666666667,
+    "ndcg": 0.5952324383928644,
+    "total_examples": 8,
+    "correct_retrievals": 6,
+    "processed_at": "2025-08-10T04:00:44.492099"
+  },
+  "awslabs/optimizing-multitask-training-through-dynamic-pipelines": {
+    "accuracy": 0.625,
+    "mrr": 0.3854166666666667,
+    "ndcg": 0.44520078895560633,
+    "total_examples": 8,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T04:02:56.192742"
+  },
+  "SqueezeAILab/LLMCompiler": {
+    "accuracy": 0.625,
+    "mrr": 0.5625,
+    "ndcg": 0.5788662191964322,
+    "total_examples": 8,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T04:04:55.488334"
+  },
+  "bytedance/ImageDream": {
+    "accuracy": 0.75,
+    "mrr": 0.5,
+    "ndcg": 0.5654648767857288,
+    "total_examples": 8,
+    "correct_retrievals": 6,
+    "processed_at": "2025-08-10T04:08:07.483816"
+  },
+  "octo-models/octo": {
+    "accuracy": 0.125,
+    "mrr": 0.0625,
+    "ndcg": 0.07886621919643219,
+    "total_examples": 8,
+    "correct_retrievals": 1,
+    "processed_at": "2025-08-10T04:10:16.390690"
+  },
+  "nox-410/tvm.tl": {
+    "accuracy": 0.75,
+    "mrr": 0.44791666666666663,
+    "ndcg": 0.5240670081520385,
+    "total_examples": 8,
+    "correct_retrievals": 6,
+    "processed_at": "2025-08-10T04:28:14.759579"
+  },
+  "ethanweber/nerfiller": {
+    "accuracy": 0.75,
+    "mrr": 0.4416666666666667,
+    "ndcg": 0.5185890392971821,
+    "total_examples": 8,
+    "correct_retrievals": 6,
+    "processed_at": "2025-08-10T04:31:34.204256"
+  },
+  "nnanhuang/Customize-it-3D": {
+    "accuracy": 0.875,
+    "mrr": 0.6875,
+    "ndcg": 0.7365986575892967,
+    "total_examples": 8,
+    "correct_retrievals": 7,
+    "processed_at": "2025-08-10T04:34:21.611115"
+  },
+  "SqueezeBits/owlite": {
+    "accuracy": 0.625,
+    "mrr": 0.3125,
+    "ndcg": 0.39040157791121266,
+    "total_examples": 8,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T04:36:37.474651"
+  },
+  "pan-x-c/EE-LLM": {
+    "accuracy": 0.25,
+    "mrr": 0.1875,
+    "ndcg": 0.2038662191964322,
+    "total_examples": 8,
+    "correct_retrievals": 2,
+    "processed_at": "2025-08-10T04:40:01.164272"
+  },
+  "tommy-xq/SA2VP": {
+    "accuracy": 0.75,
+    "mrr": 0.4,
+    "ndcg": 0.48489195961909815,
+    "total_examples": 8,
+    "correct_retrievals": 6,
+    "processed_at": "2025-08-10T04:43:06.675783"
+  },
+  "boweniac/autogan": {
+    "accuracy": 1.0,
+    "mrr": 0.875,
+    "ndcg": 0.9077324383928644,
+    "total_examples": 8,
+    "correct_retrievals": 8,
+    "processed_at": "2025-08-10T04:45:08.425836"
+  },
+  "merlresearch/PixPNet": {
+    "accuracy": 0.5,
+    "mrr": 0.2708333333333333,
+    "ndcg": 0.3288662191964322,
+    "total_examples": 8,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T04:47:26.077015"
+  },
+  "OPPOMKLab/u-LLaVA": {
+    "accuracy": 0.875,
+    "mrr": 0.65625,
+    "ndcg": 0.7115670081520385,
+    "total_examples": 8,
+    "correct_retrievals": 7,
+    "processed_at": "2025-08-10T04:50:00.687302"
+  },
+  "wangzhecheng/SkyScript": {
+    "accuracy": 0.5,
+    "mrr": 0.16041666666666665,
+    "ndcg": 0.24355738985992403,
+    "total_examples": 8,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T04:52:28.047525"
+  },
+  "RomGai/BrainVis": {
+    "accuracy": 0.875,
+    "mrr": 0.5208333333333333,
+    "ndcg": 0.6076691395183482,
+    "total_examples": 8,
+    "correct_retrievals": 7,
+    "processed_at": "2025-08-10T04:55:09.492801"
+  },
+  "zyrant/SPGroup3D": {
+    "accuracy": 0.625,
+    "mrr": 0.625,
+    "ndcg": 0.625,
+    "total_examples": 8,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T04:59:32.885434"
+  },
+  "v3ucn/Bert-vits2-V2.2": {
+    "accuracy": 0.25,
+    "mrr": 0.08333333333333333,
+    "ndcg": 0.125,
+    "total_examples": 8,
+    "correct_retrievals": 2,
+    "processed_at": "2025-08-10T05:02:39.180559"
+  },
+  "Angryrou/udao": {
+    "accuracy": 0.625,
+    "mrr": 0.21875,
+    "ndcg": 0.31923614767038677,
+    "total_examples": 8,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T05:05:16.006278"
+  },
+  "DataCanvasIO/LMS": {
+    "accuracy": 0.875,
+    "mrr": 0.3541666666666667,
+    "ndcg": 0.4826691395183482,
+    "total_examples": 8,
+    "correct_retrievals": 7,
+    "processed_at": "2025-08-10T05:08:08.534206"
+  },
+  "kraina-ai/quackosm": {
+    "accuracy": 0.5,
+    "mrr": 0.35416666666666663,
+    "ndcg": 0.3913662191964322,
+    "total_examples": 8,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T05:11:02.453917"
+  },
+  "city96/ComfyUI_ExtraModels": {
+    "accuracy": 0.875,
+    "mrr": 0.4625,
+    "ndcg": 0.5637581788155304,
+    "total_examples": 8,
+    "correct_retrievals": 7,
+    "processed_at": "2025-08-10T05:13:46.405382"
+  },
+  "alipay/PainlessInferenceAcceleration": {
+    "accuracy": 0.625,
+    "mrr": 0.5625,
+    "ndcg": 0.5788662191964322,
+    "total_examples": 8,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T05:16:24.900539"
+  },
+  "LiyaoTang/ERDA": {
+    "accuracy": 0.625,
+    "mrr": 0.3333333333333333,
+    "ndcg": 0.4077324383928644,
+    "total_examples": 8,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T05:19:19.863554"
+  },
+  "falesiani/torch_ga": {
+    "accuracy": 0.75,
+    "mrr": 0.6875,
+    "ndcg": 0.7038662191964322,
+    "total_examples": 8,
+    "correct_retrievals": 6,
+    "processed_at": "2025-08-10T05:21:37.973124"
+  },
+  "baaivision/GeoDream": {
+    "accuracy": 0.75,
+    "mrr": 0.4375,
+    "ndcg": 0.5154015779112127,
+    "total_examples": 8,
+    "correct_retrievals": 6,
+    "processed_at": "2025-08-10T05:26:13.824495"
+  },
+  "alvinliu0/HumanGaussian": {
+    "accuracy": 0.625,
+    "mrr": 0.40625,
+    "ndcg": 0.46156700815203855,
+    "total_examples": 8,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T05:29:20.732511"
+  },
+  "cambridgeltl/ClaPS": {
+    "accuracy": 0.625,
+    "mrr": 0.38541666666666663,
+    "ndcg": 0.44520078895560633,
+    "total_examples": 8,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T05:31:33.875871"
+  },
+  "Matrixeigs/UncertaintyManagementInteroperablePowerTransportationSystems": {
+    "accuracy": 0.25,
+    "mrr": 0.25,
+    "ndcg": 0.25,
+    "total_examples": 8,
+    "correct_retrievals": 2,
+    "processed_at": "2025-08-10T05:34:55.970868"
+  },
+  "HeliosZhao/Animate124": {
+    "accuracy": 0.875,
+    "mrr": 0.48958333333333337,
+    "ndcg": 0.5865670081520385,
+    "total_examples": 8,
+    "correct_retrievals": 7,
+    "processed_at": "2025-08-10T05:37:53.403297"
+  },
+  "danilonumeroso/conar": {
+    "accuracy": 1.0,
+    "mrr": 0.6916666666666667,
+    "ndcg": 0.7685890392971821,
+    "total_examples": 8,
+    "correct_retrievals": 8,
+    "processed_at": "2025-08-10T05:40:08.000631"
+  },
+  "skhu101/GauHuman": {
+    "accuracy": 0.625,
+    "mrr": 0.21874999999999997,
+    "ndcg": 0.32020078895560633,
+    "total_examples": 8,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T05:42:23.341538"
+  },
+  "girgle/DouZero_For_New_HLDDZ": {
+    "accuracy": 0.375,
+    "mrr": 0.375,
+    "ndcg": 0.375,
+    "total_examples": 8,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T05:44:47.716137"
+  },
+  "smonsays/modular-hyperteacher": {
+    "accuracy": 0.5714285714285714,
+    "mrr": 0.2619047619047619,
+    "ndcg": 0.3418270372449103,
+    "total_examples": 7,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T05:47:16.934690"
+  },
+  "dazhangyu123/ACMIL": {
+    "accuracy": 0.5714285714285714,
+    "mrr": 0.2785714285714286,
+    "ndcg": 0.34977987412562744,
+    "total_examples": 7,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T05:49:53.890239"
+  },
+  "medkit-lib/medkit": {
+    "accuracy": 0.5714285714285714,
+    "mrr": 0.40476190476190477,
+    "ndcg": 0.44727567908163685,
+    "total_examples": 7,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T05:52:45.238345"
+  },
+  "itzshukla/STRANGER-SPAM": {
+    "accuracy": 0.7142857142857143,
+    "mrr": 0.36904761904761907,
+    "ndcg": 0.45607658074518687,
+    "total_examples": 7,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T05:54:43.308621"
+  },
+  "CPES-Power-and-Energy-Systems/interoperable-recommender-tso": {
+    "accuracy": 1.0,
+    "mrr": 0.6547619047619048,
+    "ndcg": 0.7417908664594727,
+    "total_examples": 7,
+    "correct_retrievals": 7,
+    "processed_at": "2025-08-10T05:57:13.475155"
+  },
+  "nbasyl/LLM-FP4": {
+    "accuracy": 0.5714285714285714,
+    "mrr": 0.2857142857142857,
+    "ndcg": 0.3605312877551186,
+    "total_examples": 7,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T05:59:46.097281"
+  },
+  "apple/ml-nvas3d": {
+    "accuracy": 0.5714285714285714,
+    "mrr": 0.42857142857142855,
+    "ndcg": 0.4659799295918451,
+    "total_examples": 7,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T06:01:39.643243"
+  },
+  "RoboFlamingo/RoboFlamingo": {
+    "accuracy": 0.7142857142857143,
+    "mrr": 0.5714285714285714,
+    "ndcg": 0.6088370724489879,
+    "total_examples": 7,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T06:04:16.099072"
+  },
+  "Zaczero/openstreetmap-ng": {
+    "accuracy": 0.14285714285714285,
+    "mrr": 0.14285714285714285,
+    "ndcg": 0.14285714285714285,
+    "total_examples": 7,
+    "correct_retrievals": 1,
+    "processed_at": "2025-08-10T06:06:41.146684"
+  },
+  "ingra14m/Tensor4D-DNeRF": {
+    "accuracy": 0.42857142857142855,
+    "mrr": 0.2857142857142857,
+    "ndcg": 0.3231227867347021,
+    "total_examples": 7,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T06:09:22.899427"
+  },
+  "moonshot-admin/moonshot": {
+    "accuracy": 0.2857142857142857,
+    "mrr": 0.14285714285714285,
+    "ndcg": 0.1802656438775593,
+    "total_examples": 7,
+    "correct_retrievals": 2,
+    "processed_at": "2025-08-10T06:11:49.363441"
+  },
+  "DeepWok/mase": {
+    "accuracy": 1.0,
+    "mrr": 0.7619047619047619,
+    "ndcg": 0.8231227867347022,
+    "total_examples": 7,
+    "correct_retrievals": 7,
+    "processed_at": "2025-08-10T06:16:03.800772"
+  },
+  "tonnetonne814/PL-Bert-VITS2": {
+    "accuracy": 0.2857142857142857,
+    "mrr": 0.17142857142857143,
+    "ndcg": 0.19812182960493452,
+    "total_examples": 7,
+    "correct_retrievals": 2,
+    "processed_at": "2025-08-10T06:18:22.892274"
+  },
+  "XLearning-SCU/2023-TPAMI-SMILE": {
+    "accuracy": 0.2857142857142857,
+    "mrr": 0.17142857142857143,
+    "ndcg": 0.19812182960493452,
+    "total_examples": 7,
+    "correct_retrievals": 2,
+    "processed_at": "2025-08-10T06:20:28.134640"
+  },
+  "nv-tlabs/trace": {
+    "accuracy": 0.7142857142857143,
+    "mrr": 0.4404761904761905,
+    "ndcg": 0.5088009016635501,
+    "total_examples": 7,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T06:22:59.551091"
+  },
+  "chenxn2020/GOSE": {
+    "accuracy": 0.7142857142857143,
+    "mrr": 0.4571428571428572,
+    "ndcg": 0.5212446163396367,
+    "total_examples": 7,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T06:25:08.551926"
+  },
+  "tianhaowuhz/human-assisting-dex-grasp": {
+    "accuracy": 0.7142857142857143,
+    "mrr": 0.5476190476190476,
+    "ndcg": 0.5901328219387797,
+    "total_examples": 7,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T06:27:39.888358"
+  },
+  "choderalab/chiron": {
+    "accuracy": 1.0,
+    "mrr": 0.5833333333333333,
+    "ndcg": 0.6890665455411095,
+    "total_examples": 7,
+    "correct_retrievals": 7,
+    "processed_at": "2025-08-10T06:29:49.526088"
+  },
+  "WolfgangFahl/dcm": {
+    "accuracy": 0.5714285714285714,
+    "mrr": 0.4642857142857143,
+    "ndcg": 0.49009665115334183,
+    "total_examples": 7,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T06:31:39.578878"
+  },
+  "microsoft/PLEX": {
+    "accuracy": 0.42857142857142855,
+    "mrr": 0.2261904761904762,
+    "ndcg": 0.2758109368676276,
+    "total_examples": 7,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T06:33:58.957056"
+  },
+  "camenduru/MotionDirector-hf": {
+    "accuracy": 0.8571428571428571,
+    "mrr": 0.41666666666666663,
+    "ndcg": 0.5275051521737584,
+    "total_examples": 7,
+    "correct_retrievals": 6,
+    "processed_at": "2025-08-10T06:35:59.297022"
+  },
+  "xinghaochen/TinySAM": {
+    "accuracy": 0.5714285714285714,
+    "mrr": 0.4047619047619047,
+    "ndcg": 0.44727567908163685,
+    "total_examples": 7,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T06:38:00.770783"
+  },
+  "facebookresearch/minimax": {
+    "accuracy": 0.8571428571428571,
+    "mrr": 0.5476190476190477,
+    "ndcg": 0.6275413229591961,
+    "total_examples": 7,
+    "correct_retrievals": 6,
+    "processed_at": "2025-08-10T06:40:26.602872"
+  },
+  "microsoft/SoM": {
+    "accuracy": 0.7142857142857143,
+    "mrr": 0.5357142857142857,
+    "ndcg": 0.5802294730921215,
+    "total_examples": 7,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T06:42:40.874178"
+  },
+  "LukeForeverYoung/UReader": {
+    "accuracy": 0.5714285714285714,
+    "mrr": 0.3333333333333333,
+    "ndcg": 0.39455135816327364,
+    "total_examples": 7,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T06:45:00.724300"
+  },
+  "clessig/atmorep": {
+    "accuracy": 0.5714285714285714,
+    "mrr": 0.2857142857142857,
+    "ndcg": 0.35604040995974906,
+    "total_examples": 7,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T06:47:16.796968"
+  },
+  "eth-sri/language-model-arithmetic": {
+    "accuracy": 1.0,
+    "mrr": 0.7261904761904762,
+    "ndcg": 0.7945151873778358,
+    "total_examples": 7,
+    "correct_retrievals": 7,
+    "processed_at": "2025-08-10T06:49:20.274885"
+  },
+  "facebookresearch/ca_body": {
+    "accuracy": 0.5,
+    "mrr": 0.3055555555555555,
+    "ndcg": 0.3551549589285763,
+    "total_examples": 6,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T06:51:29.018166"
+  },
+  "daswer123/rvc-python": {
+    "accuracy": 0.8333333333333334,
+    "mrr": 0.7000000000000001,
+    "ndcg": 0.7311421345390903,
+    "total_examples": 6,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T06:53:34.800718"
+  },
+  "vitant-lang/CBAM-ASPP": {
+    "accuracy": 0.6666666666666666,
+    "mrr": 0.34722222222222215,
+    "ndcg": 0.4269343852741418,
+    "total_examples": 6,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T06:55:39.371538"
+  },
+  "stanford-oval/WikiChat": {
+    "accuracy": 0.6666666666666666,
+    "mrr": 0.4166666666666667,
+    "ndcg": 0.4821315434523954,
+    "total_examples": 6,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T06:58:04.067919"
+  },
+  "Glasgow-AI4BioMed/GenKIE": {
+    "accuracy": 0.6666666666666666,
+    "mrr": 0.34722222222222215,
+    "ndcg": 0.4269343852741418,
+    "total_examples": 6,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T07:04:21.903452"
+  },
+  "timapage/pyqt6-yolov8": {
+    "accuracy": 1.0,
+    "mrr": 0.45,
+    "ndcg": 0.5862970934676666,
+    "total_examples": 6,
+    "correct_retrievals": 6,
+    "processed_at": "2025-08-10T07:06:11.141007"
+  },
+  "bigai-nlco/langsuite": {
+    "accuracy": 0.5,
+    "mrr": 0.2916666666666667,
+    "ndcg": 0.3436010519408084,
+    "total_examples": 6,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T07:08:37.807527"
+  },
+  "the-siesta-group/edfio": {
+    "accuracy": 1.0,
+    "mrr": 0.9166666666666666,
+    "ndcg": 0.9384882922619097,
+    "total_examples": 6,
+    "correct_retrievals": 6,
+    "processed_at": "2025-08-10T07:10:27.178857"
+  },
+  "ApolloAuto/apollo-model-centerpoint": {
+    "accuracy": 0.5,
+    "mrr": 0.2222222222222222,
+    "ndcg": 0.29364325119048584,
+    "total_examples": 6,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T07:16:28.690813"
+  },
+  "AsuradaYuci/TF-CLIP": {
+    "accuracy": 0.6666666666666666,
+    "mrr": 0.33888888888888885,
+    "ndcg": 0.4196304268009999,
+    "total_examples": 6,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T07:18:28.329454"
+  },
+  "lbcb-sci/GNNome": {
+    "accuracy": 0.8333333333333334,
+    "mrr": 0.6666666666666666,
+    "ndcg": 0.7103099178571526,
+    "total_examples": 6,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T07:20:33.727851"
+  },
+  "serengil/LightPHE": {
+    "accuracy": 0.0,
+    "mrr": 0.0,
+    "ndcg": 0.0,
+    "total_examples": 6,
+    "correct_retrievals": 0,
+    "processed_at": "2025-08-10T07:22:58.679731"
+  },
+  "TheCompAce/ShellSpeak": {
+    "accuracy": 0.8333333333333334,
+    "mrr": 0.5750000000000001,
+    "ndcg": 0.6362548942179891,
+    "total_examples": 6,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T07:24:53.521369"
+  },
+  "qym7/SparseDiff": {
+    "accuracy": 0.8333333333333334,
+    "mrr": 0.625,
+    "ndcg": 0.6769343852741417,
+    "total_examples": 6,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T07:27:05.235109"
+  },
+  "akekic/causal-component-analysis": {
+    "accuracy": 0.5,
+    "mrr": 0.3055555555555555,
+    "ndcg": 0.3551549589285763,
+    "total_examples": 6,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T07:29:07.147276"
+  },
+  "BurgerBurgerBurger/AA": {
+    "accuracy": 0.5,
+    "mrr": 0.3666666666666667,
+    "ndcg": 0.39780880120575696,
+    "total_examples": 6,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T07:30:56.613234"
+  },
+  "tonnetonne814/MB-iSTFT-BERT-VITS2-44100-Ja": {
+    "accuracy": 0.3333333333333333,
+    "mrr": 0.125,
+    "ndcg": 0.17693438527414176,
+    "total_examples": 6,
+    "correct_retrievals": 2,
+    "processed_at": "2025-08-10T07:33:17.870904"
+  },
+  "Artiprocher/DiffSynth-Studio": {
+    "accuracy": 0.3333333333333333,
+    "mrr": 0.16666666666666666,
+    "ndcg": 0.2103099178571525,
+    "total_examples": 6,
+    "correct_retrievals": 2,
+    "processed_at": "2025-08-10T07:35:12.429886"
+  },
+  "MobileLLM/AutoDroid": {
+    "accuracy": 0.3333333333333333,
+    "mrr": 0.20833333333333334,
+    "ndcg": 0.23844609301223219,
+    "total_examples": 6,
+    "correct_retrievals": 2,
+    "processed_at": "2025-08-10T07:37:45.462083"
+  },
+  "sb-ai-lab/HypEx": {
+    "accuracy": 0.5,
+    "mrr": 0.375,
+    "ndcg": 0.4051127596788988,
+    "total_examples": 6,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T07:39:38.562144"
+  },
+  "pytabular-ai/auto-scikit-dl": {
+    "accuracy": 0.5,
+    "mrr": 0.2833333333333333,
+    "ndcg": 0.33629709346766656,
+    "total_examples": 6,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T07:41:45.042234"
+  },
+  "AMAAI-Lab/Video2Music": {
+    "accuracy": 0.3333333333333333,
+    "mrr": 0.3333333333333333,
+    "ndcg": 0.3333333333333333,
+    "total_examples": 6,
+    "correct_retrievals": 2,
+    "processed_at": "2025-08-10T07:44:25.902603"
+  },
+  "MachinePerceptionLab/Attentive_DFPrior": {
+    "accuracy": 0.8333333333333334,
+    "mrr": 0.33888888888888885,
+    "ndcg": 0.46327367799148567,
+    "total_examples": 6,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T07:47:20.344835"
+  },
+  "ModelTC/EasyLLM": {
+    "accuracy": 0.6666666666666666,
+    "mrr": 0.47222222222222215,
+    "ndcg": 0.5218216255952429,
+    "total_examples": 6,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T07:50:19.106312"
+  },
+  "Jacob-Zhou/gecdi": {
+    "accuracy": 0.3333333333333333,
+    "mrr": 0.16666666666666666,
+    "ndcg": 0.2103099178571525,
+    "total_examples": 6,
+    "correct_retrievals": 2,
+    "processed_at": "2025-08-10T07:52:41.152159"
+  },
+  "iKala/ievals": {
+    "accuracy": 0.3333333333333333,
+    "mrr": 0.09722222222222221,
+    "ndcg": 0.15511275967889884,
+    "total_examples": 6,
+    "correct_retrievals": 2,
+    "processed_at": "2025-08-10T07:54:53.401803"
+  },
+  "ali-vilab/dreamtalk": {
+    "accuracy": 0.8,
+    "mrr": 0.39,
+    "ndcg": 0.48969182377587844,
+    "total_examples": 5,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T07:56:39.936845"
+  },
+  "jesenzhang/ComfyUI_StreamDiffusion": {
+    "accuracy": 0.6,
+    "mrr": 0.6,
+    "ndcg": 0.6,
+    "total_examples": 5,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T07:58:24.231298"
+  },
+  "neobundy/MLX-Stable-Diffusion-WebUI": {
+    "accuracy": 0.6,
+    "mrr": 0.33999999999999997,
+    "ndcg": 0.40355651216119987,
+    "total_examples": 5,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T08:00:03.819960"
+  },
+  "willfinnigan/RetroBioCat_2": {
+    "accuracy": 0.4,
+    "mrr": 0.26666666666666666,
+    "ndcg": 0.3,
+    "total_examples": 5,
+    "correct_retrievals": 2,
+    "processed_at": "2025-08-10T08:02:04.864795"
+  },
+  "DerwenAI/textgraphs": {
+    "accuracy": 0.8,
+    "mrr": 0.6,
+    "ndcg": 0.652371901428583,
+    "total_examples": 5,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T08:03:43.151848"
+  },
+  "datrocity/pond": {
+    "accuracy": 0.6,
+    "mrr": 0.45,
+    "ndcg": 0.4861353116146786,
+    "total_examples": 5,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T08:05:24.925179"
+  },
+  "lchen1019/Image_Cropper": {
+    "accuracy": 1.0,
+    "mrr": 0.7,
+    "ndcg": 0.7785578521428744,
+    "total_examples": 5,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T08:07:11.645278"
+  },
+  "khabbazan/Mattermost-Subscriptions": {
+    "accuracy": 0.8,
+    "mrr": 0.6666666666666666,
+    "ndcg": 0.7,
+    "total_examples": 5,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T08:08:52.904760"
+  },
+  "Hatins/DEOE": {
+    "accuracy": 0.6,
+    "mrr": 0.3333333333333333,
+    "ndcg": 0.4,
+    "total_examples": 5,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T08:11:38.045103"
+  },
+  "Wangyuhao06/2022-adhoc": {
+    "accuracy": 0.8,
+    "mrr": 0.65,
+    "ndcg": 0.6861353116146786,
+    "total_examples": 5,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T08:13:27.826333"
+  },
+  "camenduru/MotionCtrl-hf": {
+    "accuracy": 0.8,
+    "mrr": 0.5,
+    "ndcg": 0.5785578521428745,
+    "total_examples": 5,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T08:15:25.820734"
+  },
+  "0x00wolf/hkrsAI": {
+    "accuracy": 0.2,
+    "mrr": 0.04,
+    "ndcg": 0.07737056144690832,
+    "total_examples": 5,
+    "correct_retrievals": 1,
+    "processed_at": "2025-08-10T08:17:03.153218"
+  },
+  "banodoco/Steerable-Motion": {
+    "accuracy": 1.0,
+    "mrr": 0.7666666666666666,
+    "ndcg": 0.8261859507142916,
+    "total_examples": 5,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T08:18:54.282575"
+  },
+  "Zaloog/kanban-python": {
+    "accuracy": 0.2,
+    "mrr": 0.1,
+    "ndcg": 0.1261859507142915,
+    "total_examples": 5,
+    "correct_retrievals": 1,
+    "processed_at": "2025-08-10T08:20:31.434800"
+  },
+  "basnijholt/unidep": {
+    "accuracy": 0.8,
+    "mrr": 0.3466666666666666,
+    "ndcg": 0.45474112289381663,
+    "total_examples": 5,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T08:22:19.042179"
+  },
+  "xk-huang/segment-caption-anything": {
+    "accuracy": 0.6,
+    "mrr": 0.6,
+    "ndcg": 0.6,
+    "total_examples": 5,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T08:25:09.532333"
+  },
+  "theroyallab/tabbyAPI": {
+    "accuracy": 0.6,
+    "mrr": 0.24,
+    "ndcg": 0.32974246287549136,
+    "total_examples": 5,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T08:26:58.806117"
+  },
+  "chaiNNer-org/spandrel": {
+    "accuracy": 0.8,
+    "mrr": 0.4800000000000001,
+    "ndcg": 0.5547411228938166,
+    "total_examples": 5,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T08:29:54.682044"
+  },
+  "embrake/Aquilify": {
+    "accuracy": 0.6,
+    "mrr": 0.29,
+    "ndcg": 0.36350587306158694,
+    "total_examples": 5,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T08:32:15.295657"
+  },
+  "gunderson-dettmer/CE2OCF": {
+    "accuracy": 0.8,
+    "mrr": 0.38,
+    "ndcg": 0.4809270736081082,
+    "total_examples": 5,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T08:34:02.094983"
+  },
+  "WindowsSov8forUs/bestdori_api": {
+    "accuracy": 0.8,
+    "mrr": 0.7,
+    "ndcg": 0.7261859507142916,
+    "total_examples": 5,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T08:35:45.718262"
+  },
+  "dataaug/open-interpreter-free": {
+    "accuracy": 1.0,
+    "mrr": 0.75,
+    "ndcg": 0.8123212623289702,
+    "total_examples": 5,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T08:37:33.548553"
+  },
+  "PKU-YuanGroup/Video-LLaVA": {
+    "accuracy": 0.8,
+    "mrr": 0.4,
+    "ndcg": 0.49845657394364873,
+    "total_examples": 5,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T08:39:57.353672"
+  },
+  "codefuse-ai/Test-Agent": {
+    "accuracy": 0.2,
+    "mrr": 0.1,
+    "ndcg": 0.1261859507142915,
+    "total_examples": 5,
+    "correct_retrievals": 1,
+    "processed_at": "2025-08-10T08:42:01.766945"
+  },
+  "thuml/iTransformer": {
+    "accuracy": 0.6,
+    "mrr": 0.44000000000000006,
+    "ndcg": 0.4773705614469083,
+    "total_examples": 5,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T08:43:58.136047"
+  },
+  "MolecularAI/REINVENT4": {
+    "accuracy": 0.4,
+    "mrr": 0.16666666666666666,
+    "ndcg": 0.2261859507142915,
+    "total_examples": 5,
+    "correct_retrievals": 2,
+    "processed_at": "2025-08-10T08:47:47.179181"
+  },
+  "Qualcomm-AI-research/geometric-algebra-transformer": {
+    "accuracy": 1.0,
+    "mrr": 0.5166666666666666,
+    "ndcg": 0.6385072130432616,
+    "total_examples": 5,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T08:49:52.084174"
+  },
+  "blackgold3/SemanticBoost": {
+    "accuracy": 0.8,
+    "mrr": 0.39999999999999997,
+    "ndcg": 0.5,
+    "total_examples": 5,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T08:52:13.231262"
+  },
+  "pythonlessons/FinRock": {
+    "accuracy": 0.2,
+    "mrr": 0.06666666666666667,
+    "ndcg": 0.1,
+    "total_examples": 5,
+    "correct_retrievals": 1,
+    "processed_at": "2025-08-10T08:53:50.271112"
+  },
+  "hitlic/deepepochs": {
+    "accuracy": 0.8,
+    "mrr": 0.6666666666666666,
+    "ndcg": 0.7,
+    "total_examples": 5,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T08:55:52.872735"
+  },
+  "StackTipsLab/bloggy": {
+    "accuracy": 0.0,
+    "mrr": 0.0,
+    "ndcg": 0.0,
+    "total_examples": 5,
+    "correct_retrievals": 0,
+    "processed_at": "2025-08-10T08:58:00.667313"
+  },
+  "zabbix/python-zabbix-utils": {
+    "accuracy": 0.2,
+    "mrr": 0.1,
+    "ndcg": 0.1261859507142915,
+    "total_examples": 5,
+    "correct_retrievals": 1,
+    "processed_at": "2025-08-10T08:59:47.615505"
+  },
+  "CuriseJia/FreeStyleRet": {
+    "accuracy": 0.4,
+    "mrr": 0.3,
+    "ndcg": 0.3261859507142915,
+    "total_examples": 5,
+    "correct_retrievals": 2,
+    "processed_at": "2025-08-10T09:05:10.591950"
+  },
+  "f0uriest/quadax": {
+    "accuracy": 0.6,
+    "mrr": 0.25,
+    "ndcg": 0.33850721304326165,
+    "total_examples": 5,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T09:07:03.515233"
+  },
+  "upiterbarg/hihack": {
+    "accuracy": 1.0,
+    "mrr": 0.64,
+    "ndcg": 0.7297424628754914,
+    "total_examples": 5,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T09:08:54.832578"
+  },
+  "t-ega/whatsapp-cloud-sdk": {
+    "accuracy": 1.0,
+    "mrr": 0.7666666666666667,
+    "ndcg": 0.8261859507142916,
+    "total_examples": 5,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T09:10:45.448156"
+  },
+  "OpenBMB/ProAgent": {
+    "accuracy": 0.4,
+    "mrr": 0.25,
+    "ndcg": 0.28613531161467864,
+    "total_examples": 5,
+    "correct_retrievals": 2,
+    "processed_at": "2025-08-10T09:12:33.201196"
+  },
+  "LLaVA-VL/LLaVA-Plus-Codebase": {
+    "accuracy": 0.8,
+    "mrr": 0.54,
+    "ndcg": 0.6035565121611999,
+    "total_examples": 5,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T09:14:47.526905"
+  },
+  "zamaniamin/fastapi-shop": {
+    "accuracy": 0.8,
+    "mrr": 0.7,
+    "ndcg": 0.7261859507142916,
+    "total_examples": 5,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T09:16:43.930873"
+  },
+  "jkulhanek/nerfbaselines": {
+    "accuracy": 0.4,
+    "mrr": 0.2,
+    "ndcg": 0.252371901428583,
+    "total_examples": 5,
+    "correct_retrievals": 2,
+    "processed_at": "2025-08-10T09:18:57.593404"
+  },
+  "mileswyn/SAMIHS": {
+    "accuracy": 0.2,
+    "mrr": 0.06666666666666667,
+    "ndcg": 0.1,
+    "total_examples": 5,
+    "correct_retrievals": 1,
+    "processed_at": "2025-08-10T09:20:59.551288"
+  },
+  "gchada/ROAM": {
+    "accuracy": 0.4,
+    "mrr": 0.13999999999999999,
+    "ndcg": 0.20355651216119983,
+    "total_examples": 5,
+    "correct_retrievals": 2,
+    "processed_at": "2025-08-10T09:24:25.786821"
+  },
+  "UMass-Foundation-Model/genome": {
+    "accuracy": 0.8,
+    "mrr": 0.64,
+    "ndcg": 0.6773705614469083,
+    "total_examples": 5,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T09:26:34.525796"
+  },
+  "NVlabs/M2T2": {
+    "accuracy": 1.0,
+    "mrr": 0.45666666666666667,
+    "ndcg": 0.5896918237758785,
+    "total_examples": 5,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T09:28:32.717922"
+  },
+  "Rishit-dagli/Astroformer": {
+    "accuracy": 0.8,
+    "mrr": 0.5066666666666667,
+    "ndcg": 0.5773705614469083,
+    "total_examples": 5,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T09:32:57.664206"
+  },
+  "ilur98/DGQ": {
+    "accuracy": 0.4,
+    "mrr": 0.16666666666666666,
+    "ndcg": 0.2261859507142915,
+    "total_examples": 5,
+    "correct_retrievals": 2,
+    "processed_at": "2025-08-10T09:34:42.654248"
+  },
+  "m4rkw/monzo-utils": {
+    "accuracy": 0.6,
+    "mrr": 0.6,
+    "ndcg": 0.6,
+    "total_examples": 5,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T09:36:16.658186"
+  },
+  "fortelex/hiveline": {
+    "accuracy": 0.4,
+    "mrr": 0.15,
+    "ndcg": 0.21232126232897014,
+    "total_examples": 5,
+    "correct_retrievals": 2,
+    "processed_at": "2025-08-10T09:38:02.388318"
+  },
+  "uhppoted/uhppoted-app-home-assistant": {
+    "accuracy": 0.4,
+    "mrr": 0.2,
+    "ndcg": 0.252371901428583,
+    "total_examples": 5,
+    "correct_retrievals": 2,
+    "processed_at": "2025-08-10T09:39:39.148901"
+  },
+  "Fsoft-AIC/LSDM": {
+    "accuracy": 0.6,
+    "mrr": 0.35,
+    "ndcg": 0.41232126232897015,
+    "total_examples": 5,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T09:42:01.786858"
+  },
+  "serl-robot/serl": {
+    "accuracy": 0.8,
+    "mrr": 0.3,
+    "ndcg": 0.42618595071429155,
+    "total_examples": 5,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T09:44:03.231938"
+  },
+  "ndiamant/spice": {
+    "accuracy": 0.8,
+    "mrr": 0.5666666666666667,
+    "ndcg": 0.6261859507142915,
+    "total_examples": 5,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T09:45:49.382116"
+  },
+  "nik-sm/com-hom-emg": {
+    "accuracy": 0.8,
+    "mrr": 0.3733333333333333,
+    "ndcg": 0.4773705614469083,
+    "total_examples": 5,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T09:47:46.479465"
+  },
+  "TencentARC/MotionCtrl": {
+    "accuracy": 0.6,
+    "mrr": 0.3,
+    "ndcg": 0.3785578521428745,
+    "total_examples": 5,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T09:49:55.986536"
+  },
+  "FrozenBurning/PrimDiffusion": {
+    "accuracy": 0.6,
+    "mrr": 0.36666666666666664,
+    "ndcg": 0.42618595071429155,
+    "total_examples": 5,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T09:51:49.290527"
+  },
+  "Open-All-Scale-Causal-Engine/OpenASCE": {
+    "accuracy": 0.2,
+    "mrr": 0.2,
+    "ndcg": 0.2,
+    "total_examples": 5,
+    "correct_retrievals": 1,
+    "processed_at": "2025-08-10T09:53:53.988944"
+  },
+  "TaoHuang13/diffusion_reward": {
+    "accuracy": 0.6,
+    "mrr": 0.3333333333333333,
+    "ndcg": 0.4,
+    "total_examples": 5,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T09:56:01.128794"
+  },
+  "Chat-3D/Chat-3D-v2": {
+    "accuracy": 0.4,
+    "mrr": 0.15,
+    "ndcg": 0.21232126232897014,
+    "total_examples": 5,
+    "correct_retrievals": 2,
+    "processed_at": "2025-08-10T09:57:57.835685"
+  },
+  "bolna-ai/bolna": {
+    "accuracy": 0.8,
+    "mrr": 0.5666666666666667,
+    "ndcg": 0.6261859507142915,
+    "total_examples": 5,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T09:59:43.007457"
+  },
+  "AdaCheng/EgoThink": {
+    "accuracy": 0.6,
+    "mrr": 0.35,
+    "ndcg": 0.41232126232897015,
+    "total_examples": 5,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T10:03:07.891464"
+  },
+  "modelscope/llmuses": {
+    "accuracy": 0.4,
+    "mrr": 0.3,
+    "ndcg": 0.3261859507142915,
+    "total_examples": 5,
+    "correct_retrievals": 2,
+    "processed_at": "2025-08-10T10:04:57.436453"
+  },
+  "mitrefireline/simharness": {
+    "accuracy": 0.6,
+    "mrr": 0.5,
+    "ndcg": 0.5261859507142915,
+    "total_examples": 5,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T10:06:48.705048"
+  },
+  "racinette/querky": {
+    "accuracy": 0.6,
+    "mrr": 0.45,
+    "ndcg": 0.4861353116146786,
+    "total_examples": 5,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T10:08:36.155147"
+  },
+  "Jack24658735/FedLGT": {
+    "accuracy": 1.0,
+    "mrr": 0.6666666666666666,
+    "ndcg": 0.7523719014285831,
+    "total_examples": 5,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T10:10:26.474471"
+  },
+  "Tlntin/booking_simulator": {
+    "accuracy": 0.8,
+    "mrr": 0.35666666666666663,
+    "ndcg": 0.4635058730615869,
+    "total_examples": 5,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T10:12:41.529314"
+  },
+  "JingHao99/IDR-Ingredients-oriented-Degradation-Reformulation": {
+    "accuracy": 0.6,
+    "mrr": 0.45,
+    "ndcg": 0.4861353116146786,
+    "total_examples": 5,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T10:18:01.392294"
+  },
+  "TACJu/Compositor": {
+    "accuracy": 0.4,
+    "mrr": 0.16666666666666666,
+    "ndcg": 0.2261859507142915,
+    "total_examples": 5,
+    "correct_retrievals": 2,
+    "processed_at": "2025-08-10T10:20:27.016239"
+  },
+  "Dong142857/Live3DPortrait": {
+    "accuracy": 0.6,
+    "mrr": 0.35,
+    "ndcg": 0.41232126232897015,
+    "total_examples": 5,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T10:22:27.294076"
+  },
+  "Opt-Mucca/PySCIPOpt-ML": {
+    "accuracy": 0.0,
+    "mrr": 0.0,
+    "ndcg": 0.0,
+    "total_examples": 5,
+    "correct_retrievals": 0,
+    "processed_at": "2025-08-10T10:24:05.797167"
+  },
+  "Theia-4869/MoSA": {
+    "accuracy": 0.4,
+    "mrr": 0.24,
+    "ndcg": 0.2773705614469083,
+    "total_examples": 5,
+    "correct_retrievals": 2,
+    "processed_at": "2025-08-10T10:26:10.505640"
+  },
+  "nickruggeri/hypergraph-message-passing": {
+    "accuracy": 0.8,
+    "mrr": 0.5,
+    "ndcg": 0.5785578521428745,
+    "total_examples": 5,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T10:28:02.266234"
+  },
+  "dvmazur/mixtral-offloading": {
+    "accuracy": 0.6,
+    "mrr": 0.4,
+    "ndcg": 0.452371901428583,
+    "total_examples": 5,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T10:29:43.138293"
+  },
+  "dcharatan/pixelsplat": {
+    "accuracy": 0.8,
+    "mrr": 0.3333333333333333,
+    "ndcg": 0.452371901428583,
+    "total_examples": 5,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T10:31:47.392056"
+  },
+  "SHI-Labs/VCoder": {
+    "accuracy": 0.4,
+    "mrr": 0.11666666666666665,
+    "ndcg": 0.1861353116146786,
+    "total_examples": 5,
+    "correct_retrievals": 2,
+    "processed_at": "2025-08-10T10:33:43.132660"
+  },
+  "byeongjun-park/HarmonyView": {
+    "accuracy": 1.0,
+    "mrr": 0.9,
+    "ndcg": 0.9261859507142916,
+    "total_examples": 5,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T10:36:04.175113"
+  },
+  "worm128/AI-YinMei": {
+    "accuracy": 0.0,
+    "mrr": 0.0,
+    "ndcg": 0.0,
+    "total_examples": 5,
+    "correct_retrievals": 0,
+    "processed_at": "2025-08-10T10:38:08.478827"
+  },
+  "huahuahuage/Bert-VITS2-Speech": {
+    "accuracy": 0.2,
+    "mrr": 0.2,
+    "ndcg": 0.2,
+    "total_examples": 5,
+    "correct_retrievals": 1,
+    "processed_at": "2025-08-10T10:39:46.840910"
+  },
+  "YyzHarry/shortcut-ood-fairness": {
+    "accuracy": 0.4,
+    "mrr": 0.3,
+    "ndcg": 0.3261859507142915,
+    "total_examples": 5,
+    "correct_retrievals": 2,
+    "processed_at": "2025-08-10T10:41:44.680968"
+  },
+  "exislow/tidal-dl-ng": {
+    "accuracy": 0.2,
+    "mrr": 0.1,
+    "ndcg": 0.1261859507142915,
+    "total_examples": 5,
+    "correct_retrievals": 1,
+    "processed_at": "2025-08-10T10:43:32.887507"
+  },
+  "jdejaegh/irm-kmi-ha": {
+    "accuracy": 0.6,
+    "mrr": 0.3,
+    "ndcg": 0.3722706232293572,
+    "total_examples": 5,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T10:45:14.893005"
+  },
+  "alibaba/u2mot": {
+    "accuracy": 1.0,
+    "mrr": 0.74,
+    "ndcg": 0.8035565121611998,
+    "total_examples": 5,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T10:47:45.710439"
+  },
+  "mjavadpur/Sadtalker_LongVideos": {
+    "accuracy": 0.8,
+    "mrr": 0.3733333333333333,
+    "ndcg": 0.4773705614469083,
+    "total_examples": 5,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T10:50:14.158316"
+  },
+  "liebrandapps/FindMyGUI": {
+    "accuracy": 0.6,
+    "mrr": 0.6,
+    "ndcg": 0.6,
+    "total_examples": 5,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T10:51:59.147016"
+  },
+  "Genesis-Embodied-AI/RoboGen": {
+    "accuracy": 0.6,
+    "mrr": 0.5,
+    "ndcg": 0.5261859507142915,
+    "total_examples": 5,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T10:54:18.014521"
+  },
+  "KoeAI/LLVC": {
+    "accuracy": 0.6,
+    "mrr": 0.4666666666666667,
+    "ndcg": 0.5,
+    "total_examples": 5,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T10:56:23.736623"
+  },
+  "baaivision/JudgeLM": {
+    "accuracy": 0.2,
+    "mrr": 0.2,
+    "ndcg": 0.2,
+    "total_examples": 5,
+    "correct_retrievals": 1,
+    "processed_at": "2025-08-10T10:58:30.500849"
+  },
+  "zyang1580/CoLLM": {
+    "accuracy": 0.6,
+    "mrr": 0.3,
+    "ndcg": 0.3785578521428745,
+    "total_examples": 5,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T11:00:34.197924"
+  },
+  "endo-yuki-t/MAG": {
+    "accuracy": 0.8,
+    "mrr": 0.31666666666666665,
+    "ndcg": 0.4385072130432617,
+    "total_examples": 5,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T11:02:40.780667"
+  },
+  "tyang816/ProtSSN": {
+    "accuracy": 1.0,
+    "mrr": 0.9,
+    "ndcg": 0.9261859507142916,
+    "total_examples": 5,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T11:04:39.915019"
+  },
+  "raphaelreme/koft": {
+    "accuracy": 0.8,
+    "mrr": 0.45,
+    "ndcg": 0.5385072130432617,
+    "total_examples": 5,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T11:06:32.656259"
+  },
+  "CmosWolf1/Code_implementation_for_paper_SKZC": {
+    "accuracy": 0.8,
+    "mrr": 0.55,
+    "ndcg": 0.6123212623289701,
+    "total_examples": 5,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T11:08:23.648250"
+  },
+  "lipku/metahuman-stream": {
+    "accuracy": 0.6,
+    "mrr": 0.33999999999999997,
+    "ndcg": 0.40355651216119987,
+    "total_examples": 5,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T11:10:34.426435"
+  },
+  "LIU-Yuxin/SyncMVD": {
+    "accuracy": 1.0,
+    "mrr": 0.5900000000000001,
+    "ndcg": 0.6896918237758785,
+    "total_examples": 5,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T11:12:26.495000"
+  },
+  "Trustworthy-AI-Group/TransferAttack": {
+    "accuracy": 0.0,
+    "mrr": 0.0,
+    "ndcg": 0.0,
+    "total_examples": 5,
+    "correct_retrievals": 0,
+    "processed_at": "2025-08-10T11:14:30.831512"
+  },
+  "Weitheskmt/WeiDMD": {
+    "accuracy": 0.8,
+    "mrr": 0.6,
+    "ndcg": 0.652371901428583,
+    "total_examples": 5,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T11:16:19.462271"
+  },
+  "Gene-Weaver/VoucherVision": {
+    "accuracy": 0.8,
+    "mrr": 0.30666666666666664,
+    "ndcg": 0.42974246287549134,
+    "total_examples": 5,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T11:18:54.884727"
+  },
+  "hsma-programme/Teaching_DES_Concepts_Streamlit": {
+    "accuracy": 0.0,
+    "mrr": 0.0,
+    "ndcg": 0.0,
+    "total_examples": 5,
+    "correct_retrievals": 0,
+    "processed_at": "2025-08-10T11:20:42.078260"
+  },
+  "samholt/ActiveObservingInContinuous-timeControl": {
+    "accuracy": 0.6,
+    "mrr": 0.5,
+    "ndcg": 0.5261859507142915,
+    "total_examples": 5,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T11:22:53.141719"
+  },
+  "s1tools/s1-etad": {
+    "accuracy": 0.4,
+    "mrr": 0.09,
+    "ndcg": 0.16350587306158695,
+    "total_examples": 5,
+    "correct_retrievals": 2,
+    "processed_at": "2025-08-10T11:24:44.636131"
+  },
+  "Eclectic-Sheep/sheeprlhf": {
+    "accuracy": 0.0,
+    "mrr": 0.0,
+    "ndcg": 0.0,
+    "total_examples": 5,
+    "correct_retrievals": 0,
+    "processed_at": "2025-08-10T11:26:42.146886"
+  },
+  "showlab/MotionDirector": {
+    "accuracy": 1.0,
+    "mrr": 0.4833333333333333,
+    "ndcg": 0.6123212623289701,
+    "total_examples": 5,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T11:28:30.697747"
+  },
+  "longzw1997/Open-GroundingDino": {
+    "accuracy": 0.2,
+    "mrr": 0.05,
+    "ndcg": 0.0861353116146786,
+    "total_examples": 5,
+    "correct_retrievals": 1,
+    "processed_at": "2025-08-10T11:30:49.588060"
+  },
+  "Texaser/MTN": {
+    "accuracy": 0.8,
+    "mrr": 0.5666666666666667,
+    "ndcg": 0.6261859507142915,
+    "total_examples": 5,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T11:33:15.656081"
+  },
+  "SH1ROd/Bert-VITS2-Integration-train-txt-infer": {
+    "accuracy": 0.4,
+    "mrr": 0.13333333333333333,
+    "ndcg": 0.2,
+    "total_examples": 5,
+    "correct_retrievals": 2,
+    "processed_at": "2025-08-10T11:35:13.340427"
+  },
+  "ThomasMrY/DisDiff": {
+    "accuracy": 1.0,
+    "mrr": 0.6166666666666666,
+    "ndcg": 0.7123212623289701,
+    "total_examples": 5,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T11:37:44.326225"
+  },
+  "YingqingHe/ScaleCrafter-ptl": {
+    "accuracy": 0.8,
+    "mrr": 0.65,
+    "ndcg": 0.6861353116146786,
+    "total_examples": 5,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T11:40:15.468708"
+  },
+  "Jacoo-ai/HIC-Yolov5": {
+    "accuracy": 0.6,
+    "mrr": 0.4666666666666667,
+    "ndcg": 0.5,
+    "total_examples": 5,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T11:42:34.622276"
+  },
+  "OmicsML/scDiff": {
+    "accuracy": 0.8,
+    "mrr": 0.4333333333333333,
+    "ndcg": 0.5261859507142915,
+    "total_examples": 5,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T11:44:45.475162"
+  },
+  "NKI-AI/ahcore": {
+    "accuracy": 0.4,
+    "mrr": 0.3,
+    "ndcg": 0.3261859507142915,
+    "total_examples": 5,
+    "correct_retrievals": 2,
+    "processed_at": "2025-08-10T11:46:36.236171"
+  },
+  "grainseed/monitask": {
+    "accuracy": 0.8,
+    "mrr": 0.35,
+    "ndcg": 0.4584059348440358,
+    "total_examples": 5,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T11:48:59.205930"
+  },
+  "wilhelmagren/finq": {
+    "accuracy": 0.6,
+    "mrr": 0.36666666666666664,
+    "ndcg": 0.42618595071429155,
+    "total_examples": 5,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T11:50:37.565888"
+  },
+  "sherwinbahmani/4dfy": {
+    "accuracy": 0.2,
+    "mrr": 0.2,
+    "ndcg": 0.2,
+    "total_examples": 5,
+    "correct_retrievals": 1,
+    "processed_at": "2025-08-10T11:52:42.851526"
+  },
+  "rlawjdghek/StableVITON": {
+    "accuracy": 0.8,
+    "mrr": 0.2833333333333333,
+    "ndcg": 0.41232126232897015,
+    "total_examples": 5,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T11:55:17.498583"
+  },
+  "AIFSH/NativeSpeaker": {
+    "accuracy": 0.8,
+    "mrr": 0.35,
+    "ndcg": 0.46469316375755315,
+    "total_examples": 5,
+    "correct_retrievals": 4,
+    "processed_at": "2025-08-10T11:57:46.107698"
+  },
+  "yolain/ComfyUI-Easy-Use": {
+    "accuracy": 1.0,
+    "mrr": 0.7166666666666667,
+    "ndcg": 0.7861353116146785,
+    "total_examples": 5,
+    "correct_retrievals": 5,
+    "processed_at": "2025-08-10T11:59:50.519450"
+  },
+  "liujin112/PortraitDiffusion": {
+    "accuracy": 0.4,
+    "mrr": 0.26666666666666666,
+    "ndcg": 0.3,
+    "total_examples": 5,
+    "correct_retrievals": 2,
+    "processed_at": "2025-08-10T12:01:53.760190"
+  },
+  "UX-Decoder/LLaVA-Grounding": {
+    "accuracy": 0.2,
+    "mrr": 0.2,
+    "ndcg": 0.2,
+    "total_examples": 5,
+    "correct_retrievals": 1,
+    "processed_at": "2025-08-10T12:04:49.910916"
+  },
+  "wangermeng2021/llm-webui": {
+    "accuracy": 0.6,
+    "mrr": 0.4666666666666666,
+    "ndcg": 0.5,
+    "total_examples": 5,
+    "correct_retrievals": 3,
+    "processed_at": "2025-08-10T12:06:49.758004"
+  }
+}

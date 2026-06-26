@@ -1,0 +1,2714 @@
+{
+  "hq0709-Depth-NeuS-49d93d4": {
+    "exact_match_rate": 0.2619047619047619,
+    "average_edit_similarity": 0.6890818962989854,
+    "total_examples": 42,
+    "processed_at": "2025-08-05T06:42:55.156216"
+  },
+  "graphcore-PopTransformer-1314598": {
+    "exact_match_rate": 0.375,
+    "average_edit_similarity": 0.7257447949661706,
+    "total_examples": 40,
+    "processed_at": "2025-08-05T06:53:35.487223"
+  },
+  "briandelmsft-STAT-Function-f91d421": {
+    "exact_match_rate": 0.2564102564102564,
+    "average_edit_similarity": 0.7062660249272247,
+    "total_examples": 39,
+    "processed_at": "2025-08-05T07:05:39.109359"
+  },
+  "ortursucceeh-Project-PhotoShare-1942d61": {
+    "exact_match_rate": 0.6842105263157895,
+    "average_edit_similarity": 0.9256527508924374,
+    "total_examples": 38,
+    "processed_at": "2025-08-05T07:16:59.697933"
+  },
+  "Quantomatic-zxlive-c7b5c28": {
+    "exact_match_rate": 0.2702702702702703,
+    "average_edit_similarity": 0.6398786596137379,
+    "total_examples": 37,
+    "processed_at": "2025-08-05T07:27:52.312869"
+  },
+  "pygfx-gfxmorph-0a3a9d9": {
+    "exact_match_rate": 0.2962962962962963,
+    "average_edit_similarity": 0.5892227193926362,
+    "total_examples": 27,
+    "processed_at": "2025-08-05T07:35:10.319814"
+  },
+  "datasig-ac-uk-RoughPy-fbd9016": {
+    "exact_match_rate": 0.07692307692307693,
+    "average_edit_similarity": 0.6794346986876694,
+    "total_examples": 26,
+    "processed_at": "2025-08-05T07:42:01.646081"
+  },
+  "turboderp-exllama-a544085": {
+    "exact_match_rate": 0.16666666666666666,
+    "average_edit_similarity": 0.5998870719992596,
+    "total_examples": 24,
+    "processed_at": "2025-08-05T07:49:17.366686"
+  },
+  "vladkens-twscrape-4f2ee7f": {
+    "exact_match_rate": 0.2916666666666667,
+    "average_edit_similarity": 0.5970265919227582,
+    "total_examples": 24,
+    "processed_at": "2025-08-05T07:56:20.706976"
+  },
+  "amd-Open-Field-Health-Check-415e8a6": {
+    "exact_match_rate": 0.2916666666666667,
+    "average_edit_similarity": 0.6183501547529425,
+    "total_examples": 24,
+    "processed_at": "2025-08-05T08:02:58.006658"
+  },
+  "nccgroup-libslub-7732a54": {
+    "exact_match_rate": 0.34782608695652173,
+    "average_edit_similarity": 0.7862407979103146,
+    "total_examples": 23,
+    "processed_at": "2025-08-05T08:08:51.929620"
+  },
+  "wolfhoundgelert-xman-1da4d2d": {
+    "exact_match_rate": 0.34782608695652173,
+    "average_edit_similarity": 0.6725665885761314,
+    "total_examples": 23,
+    "processed_at": "2025-08-05T08:15:49.006898"
+  },
+  "devchat-ai-devchat-a8c53d2": {
+    "exact_match_rate": 0.22727272727272727,
+    "average_edit_similarity": 0.545862993531714,
+    "total_examples": 22,
+    "processed_at": "2025-08-05T08:21:49.199936"
+  },
+  "slewie-HypONIC-5b95063": {
+    "exact_match_rate": 0.22727272727272727,
+    "average_edit_similarity": 0.5372384212179189,
+    "total_examples": 22,
+    "processed_at": "2025-08-05T08:28:16.717035"
+  },
+  "Zhendong-Wang-Patch-Diffusion-929b0c0": {
+    "exact_match_rate": 0.14285714285714285,
+    "average_edit_similarity": 0.5170763043460938,
+    "total_examples": 21,
+    "processed_at": "2025-08-05T08:40:04.588757"
+  },
+  "yuyujunjun-RSMT-Realtime-Stylized-Motion-Transition-67c65b7": {
+    "exact_match_rate": 0.25,
+    "average_edit_similarity": 0.6360272265763472,
+    "total_examples": 20,
+    "processed_at": "2025-08-05T08:47:28.990597"
+  },
+  "eloimoliner-BABE-777b624": {
+    "exact_match_rate": 0.25,
+    "average_edit_similarity": 0.8035375162129184,
+    "total_examples": 20,
+    "processed_at": "2025-08-05T08:56:57.642068"
+  },
+  "pawelkn-xapi-python-788a721": {
+    "exact_match_rate": 0.35,
+    "average_edit_similarity": 0.8297830242932855,
+    "total_examples": 20,
+    "processed_at": "2025-08-05T09:02:29.831922"
+  },
+  "last-war-photoshare-fastapi-67888ff": {
+    "exact_match_rate": 0.631578947368421,
+    "average_edit_similarity": 0.9194476209919102,
+    "total_examples": 19,
+    "processed_at": "2025-08-05T09:08:14.734000"
+  },
+  "callowayproject-bump-my-version-0cf1cb5": {
+    "exact_match_rate": 0.3684210526315789,
+    "average_edit_similarity": 0.6633986365808273,
+    "total_examples": 19,
+    "processed_at": "2025-08-05T09:13:06.321090"
+  },
+  "tongyuantongyu-cycmunet-3c34dbe": {
+    "exact_match_rate": 0.16666666666666666,
+    "average_edit_similarity": 0.6719244929603782,
+    "total_examples": 18,
+    "processed_at": "2025-08-05T09:18:35.814357"
+  },
+  "Materials-Data-Science-and-Informatics-somesy-a47ca93": {
+    "exact_match_rate": 0.4117647058823529,
+    "average_edit_similarity": 0.7638163826128944,
+    "total_examples": 17,
+    "processed_at": "2025-08-05T09:23:17.670831"
+  },
+  "apple-ml-tract-ad25296": {
+    "exact_match_rate": 0.23529411764705882,
+    "average_edit_similarity": 0.6096077974241333,
+    "total_examples": 17,
+    "processed_at": "2025-08-05T09:28:18.194208"
+  },
+  "vsiegel-thoughttree-84b1498": {
+    "exact_match_rate": 0.25,
+    "average_edit_similarity": 0.568344901892646,
+    "total_examples": 16,
+    "processed_at": "2025-08-05T09:32:37.822827"
+  },
+  "Adam-Vandervorst-PyBHV-ff5dcca": {
+    "exact_match_rate": 0.1875,
+    "average_edit_similarity": 0.5939729891824788,
+    "total_examples": 16,
+    "processed_at": "2025-08-05T09:36:54.656326"
+  },
+  "iuiaoin-wechat-gptbot-b379085": {
+    "exact_match_rate": 0.25,
+    "average_edit_similarity": 0.6560434470914216,
+    "total_examples": 16,
+    "processed_at": "2025-08-05T09:41:13.680901"
+  },
+  "satyapravin-Deribit-Option-Arb-c6fead7": {
+    "exact_match_rate": 0.3125,
+    "average_edit_similarity": 0.6912556941968707,
+    "total_examples": 16,
+    "processed_at": "2025-08-05T09:46:19.116634"
+  },
+  "speedb-io-log-parser-d600b0e": {
+    "exact_match_rate": 0.3125,
+    "average_edit_similarity": 0.6835175271358905,
+    "total_examples": 16,
+    "processed_at": "2025-08-05T09:50:40.029650"
+  },
+  "griffinbholt-decisionmaking-code-py-e08645e": {
+    "exact_match_rate": 0.3333333333333333,
+    "average_edit_similarity": 0.8245160019655446,
+    "total_examples": 15,
+    "processed_at": "2025-08-05T09:55:53.646541"
+  },
+  "Adeon18-Mori-Bazius-Backend-f33b8ba": {
+    "exact_match_rate": 0.8666666666666667,
+    "average_edit_similarity": 0.938706896551724,
+    "total_examples": 15,
+    "processed_at": "2025-08-05T09:59:54.368197"
+  },
+  "vectara-vectara-ingest-0a867f1": {
+    "exact_match_rate": 0.3333333333333333,
+    "average_edit_similarity": 0.8602631217925336,
+    "total_examples": 15,
+    "processed_at": "2025-08-05T10:04:04.346705"
+  },
+  "facebookresearch-AudioDec-9b49838": {
+    "exact_match_rate": 0.5333333333333333,
+    "average_edit_similarity": 0.7775751519841354,
+    "total_examples": 15,
+    "processed_at": "2025-08-05T10:08:06.372664"
+  },
+  "bxdoan-venom-auto-da0fcfa": {
+    "exact_match_rate": 0.06666666666666667,
+    "average_edit_similarity": 0.5303261363448901,
+    "total_examples": 15,
+    "processed_at": "2025-08-05T10:12:21.463396"
+  },
+  "v-mikhaylov-tfold-release-e2bae1f": {
+    "exact_match_rate": 0.3333333333333333,
+    "average_edit_similarity": 0.6724060771976496,
+    "total_examples": 15,
+    "processed_at": "2025-08-05T10:16:57.378040"
+  },
+  "mp3guy-SymE3-445731e": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.4050772601511391,
+    "total_examples": 15,
+    "processed_at": "2025-08-05T10:21:40.538002"
+  },
+  "jfamestad-TexasHoldemAgents-a171a13": {
+    "exact_match_rate": 0.14285714285714285,
+    "average_edit_similarity": 0.542722814487581,
+    "total_examples": 14,
+    "processed_at": "2025-08-05T10:25:41.160581"
+  },
+  "BlueBrain-Currentscape-29753e8": {
+    "exact_match_rate": 0.2857142857142857,
+    "average_edit_similarity": 0.7482094934680514,
+    "total_examples": 14,
+    "processed_at": "2025-08-05T10:29:06.830960"
+  },
+  "StigLidu-AutoTruss-ffb5707": {
+    "exact_match_rate": 0.14285714285714285,
+    "average_edit_similarity": 0.5572059994606261,
+    "total_examples": 14,
+    "processed_at": "2025-08-05T10:34:32.596420"
+  },
+  "jdum-asciinema-scene-82f586d": {
+    "exact_match_rate": 0.21428571428571427,
+    "average_edit_similarity": 0.6958248860468832,
+    "total_examples": 14,
+    "processed_at": "2025-08-05T10:37:56.018581"
+  },
+  "lucmos-powermanim-1bcf62a": {
+    "exact_match_rate": 0.2857142857142857,
+    "average_edit_similarity": 0.6096491228070177,
+    "total_examples": 14,
+    "processed_at": "2025-08-05T10:41:21.376123"
+  },
+  "N00Bception-AI-Powered-5G-OpenRAN-Optimizer-a0eac7b": {
+    "exact_match_rate": 0.35714285714285715,
+    "average_edit_similarity": 0.7241842909409625,
+    "total_examples": 14,
+    "processed_at": "2025-08-05T10:45:10.616976"
+  },
+  "kit-cel-mokka-8a555d9": {
+    "exact_match_rate": 0.14285714285714285,
+    "average_edit_similarity": 0.5734909688242255,
+    "total_examples": 14,
+    "processed_at": "2025-08-05T10:48:37.021886"
+  },
+  "Mattie-chatsnack-94305b2": {
+    "exact_match_rate": 0.21428571428571427,
+    "average_edit_similarity": 0.5251011829132055,
+    "total_examples": 14,
+    "processed_at": "2025-08-05T10:52:07.293754"
+  },
+  "imaginationtech-constrainedrandom-db5b49a": {
+    "exact_match_rate": 0.3076923076923077,
+    "average_edit_similarity": 0.8182973491482417,
+    "total_examples": 13,
+    "processed_at": "2025-08-05T10:55:25.832791"
+  },
+  "colindecourt-darod-ab4878e": {
+    "exact_match_rate": 0.46153846153846156,
+    "average_edit_similarity": 0.7848533695493518,
+    "total_examples": 13,
+    "processed_at": "2025-08-05T11:00:16.310688"
+  },
+  "Spawning-Inc-datadiligence-9e949d2": {
+    "exact_match_rate": 0.6666666666666666,
+    "average_edit_similarity": 0.842052626606198,
+    "total_examples": 12,
+    "processed_at": "2025-08-05T11:03:34.753279"
+  },
+  "pnkraemer-matfree-9b88279": {
+    "exact_match_rate": 0.3333333333333333,
+    "average_edit_similarity": 0.7239038160240846,
+    "total_examples": 12,
+    "processed_at": "2025-08-05T11:07:02.271575"
+  },
+  "hyperliquid-dex-hyperliquid-python-sdk-6ddfbfb": {
+    "exact_match_rate": 0.4166666666666667,
+    "average_edit_similarity": 0.8196740299881217,
+    "total_examples": 12,
+    "processed_at": "2025-08-05T11:09:56.127993"
+  },
+  "xbpeng-rl_assignments-cdb92a8": {
+    "exact_match_rate": 0.9166666666666666,
+    "average_edit_similarity": 0.9731182795698925,
+    "total_examples": 12,
+    "processed_at": "2025-08-05T11:13:22.846027"
+  },
+  "ingra14m-mipnerf360-pytorch-bfc1e77": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.431847705236397,
+    "total_examples": 12,
+    "processed_at": "2025-08-05T11:16:54.636610"
+  },
+  "leandl-wvalidate-8cb9603": {
+    "exact_match_rate": 0.75,
+    "average_edit_similarity": 0.9564063083240014,
+    "total_examples": 12,
+    "processed_at": "2025-08-05T11:19:41.977809"
+  },
+  "Stevenic-promptrix-py-6ed7059": {
+    "exact_match_rate": 0.6666666666666666,
+    "average_edit_similarity": 0.8407651072124757,
+    "total_examples": 12,
+    "processed_at": "2025-08-05T11:23:11.318939"
+  },
+  "melMass-comfy_mtb-3b07984": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.5406295468595278,
+    "total_examples": 12,
+    "processed_at": "2025-08-05T11:26:24.009475"
+  },
+  "CMU-MultiComp-Lab-CMU-MultimodalSDK-3e27d37": {
+    "exact_match_rate": 0.08333333333333333,
+    "average_edit_similarity": 0.5874014501564208,
+    "total_examples": 12,
+    "processed_at": "2025-08-05T11:29:31.387435"
+  },
+  "adrienbrignon-mkdocs-exporter-bdbd7b5": {
+    "exact_match_rate": 0.25,
+    "average_edit_similarity": 0.541550937368847,
+    "total_examples": 12,
+    "processed_at": "2025-08-05T11:32:47.342196"
+  },
+  "remixer-dec-botality-ii-f8402d5": {
+    "exact_match_rate": 0.16666666666666666,
+    "average_edit_similarity": 0.5285508622212638,
+    "total_examples": 12,
+    "processed_at": "2025-08-05T11:36:23.428910"
+  },
+  "ches-001-metatune-278c315": {
+    "exact_match_rate": 0.9166666666666666,
+    "average_edit_similarity": 0.9404761904761904,
+    "total_examples": 12,
+    "processed_at": "2025-08-05T11:40:02.364078"
+  },
+  "ryongithub-GatedPromptTuning-1de14b5": {
+    "exact_match_rate": 0.6666666666666666,
+    "average_edit_similarity": 0.8325329184704184,
+    "total_examples": 12,
+    "processed_at": "2025-08-05T11:44:04.665693"
+  },
+  "prophecy-io-spark-ai-fd52ad1": {
+    "exact_match_rate": 0.36363636363636365,
+    "average_edit_similarity": 0.6817419373159008,
+    "total_examples": 11,
+    "processed_at": "2025-08-05T11:47:04.056986"
+  },
+  "aiplan4eu-UP4ROS-59c1358": {
+    "exact_match_rate": 0.7272727272727273,
+    "average_edit_similarity": 0.9304856869086117,
+    "total_examples": 11,
+    "processed_at": "2025-08-05T11:50:01.072684"
+  },
+  "ZhengPeng7-CoSOD_fps_collection-bee3764": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.260395745707585,
+    "total_examples": 11,
+    "processed_at": "2025-08-05T11:54:46.965160"
+  },
+  "hugofloresgarcia-vampnet-6de4eeb": {
+    "exact_match_rate": 0.2727272727272727,
+    "average_edit_similarity": 0.5812511235303579,
+    "total_examples": 11,
+    "processed_at": "2025-08-05T11:58:19.006741"
+  },
+  "epfml-landmark-attention-111ee30": {
+    "exact_match_rate": 0.09090909090909091,
+    "average_edit_similarity": 0.4157218017784233,
+    "total_examples": 11,
+    "processed_at": "2025-08-05T12:01:29.911793"
+  },
+  "mboot-github-WhoisDomain-0b5dbb3": {
+    "exact_match_rate": 0.5454545454545454,
+    "average_edit_similarity": 0.7815119580722164,
+    "total_examples": 11,
+    "processed_at": "2025-08-05T12:04:23.099983"
+  },
+  "open-mmlab-Multimodal-GPT-9c73e47": {
+    "exact_match_rate": 0.3,
+    "average_edit_similarity": 0.7181774491381783,
+    "total_examples": 10,
+    "processed_at": "2025-08-05T12:07:28.702673"
+  },
+  "Cybereason-eztw-94a0ae9": {
+    "exact_match_rate": 0.4,
+    "average_edit_similarity": 0.7620720782485487,
+    "total_examples": 10,
+    "processed_at": "2025-08-05T12:10:39.799128"
+  },
+  "bufbuild-protovalidate-python-2eee9ba": {
+    "exact_match_rate": 0.3,
+    "average_edit_similarity": 0.6204765121172431,
+    "total_examples": 10,
+    "processed_at": "2025-08-05T12:13:12.159831"
+  },
+  "edarchimbaud-systematic-trading-a9fec02": {
+    "exact_match_rate": 0.4,
+    "average_edit_similarity": 0.6550684565551326,
+    "total_examples": 10,
+    "processed_at": "2025-08-05T12:16:15.316272"
+  },
+  "RobertoCorti-gptravel-bcf49dd": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.44971964678854964,
+    "total_examples": 10,
+    "processed_at": "2025-08-05T12:18:58.616919"
+  },
+  "Priesemann-Group-nninfo-8289154": {
+    "exact_match_rate": 0.1,
+    "average_edit_similarity": 0.6149468072246618,
+    "total_examples": 10,
+    "processed_at": "2025-08-05T12:24:44.717096"
+  },
+  "GChristensen-deepfloyd_if_lab-4644b93": {
+    "exact_match_rate": 0.2,
+    "average_edit_similarity": 0.5086986591219591,
+    "total_examples": 10,
+    "processed_at": "2025-08-05T12:27:29.262764"
+  },
+  "kaiokendev-superbig-be5500b": {
+    "exact_match_rate": 0.6,
+    "average_edit_similarity": 0.8417553941522333,
+    "total_examples": 10,
+    "processed_at": "2025-08-05T12:30:39.475548"
+  },
+  "Zhang-Zhiyuan-zzy-hotpot-3a13089": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.5878486168038406,
+    "total_examples": 9,
+    "processed_at": "2025-08-05T12:33:06.578797"
+  },
+  "Kubenew-ChaosGPT-2c40353": {
+    "exact_match_rate": 0.4444444444444444,
+    "average_edit_similarity": 0.8792774429871204,
+    "total_examples": 9,
+    "processed_at": "2025-08-05T12:35:24.380653"
+  },
+  "tarsil-databasez-01b23b0": {
+    "exact_match_rate": 0.5555555555555556,
+    "average_edit_similarity": 0.7288499025341131,
+    "total_examples": 9,
+    "processed_at": "2025-08-05T12:37:35.260300"
+  },
+  "canpool-QxRibbon-4bbd7f5": {
+    "exact_match_rate": 0.1111111111111111,
+    "average_edit_similarity": 0.3999545238456165,
+    "total_examples": 9,
+    "processed_at": "2025-08-05T12:40:45.938989"
+  },
+  "Jackory-RPBT-dbf3696": {
+    "exact_match_rate": 0.1111111111111111,
+    "average_edit_similarity": 0.5842172961267339,
+    "total_examples": 9,
+    "processed_at": "2025-08-05T12:43:30.855194"
+  },
+  "tricktreat-DiffusionNER-cb095cd": {
+    "exact_match_rate": 0.5555555555555556,
+    "average_edit_similarity": 0.7781876796582679,
+    "total_examples": 9,
+    "processed_at": "2025-08-05T12:46:57.958450"
+  },
+  "davisyoshida-qax-34f0905": {
+    "exact_match_rate": 0.1111111111111111,
+    "average_edit_similarity": 0.6216249798706937,
+    "total_examples": 9,
+    "processed_at": "2025-08-05T12:49:46.630537"
+  },
+  "pimoroni-badger2040-24d6eb6": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.547503874726097,
+    "total_examples": 9,
+    "processed_at": "2025-08-05T12:52:17.801172"
+  },
+  "bond-anton-BDPotentiometer-872a7e2": {
+    "exact_match_rate": 0.3333333333333333,
+    "average_edit_similarity": 0.8137760387760387,
+    "total_examples": 9,
+    "processed_at": "2025-08-05T12:54:23.056019"
+  },
+  "paulromano-endf-python-745bbb5": {
+    "exact_match_rate": 0.4444444444444444,
+    "average_edit_similarity": 0.7169074669074669,
+    "total_examples": 9,
+    "processed_at": "2025-08-05T12:57:59.972492"
+  },
+  "quarkslab-tritondse-9805288": {
+    "exact_match_rate": 0.125,
+    "average_edit_similarity": 0.7209558395314396,
+    "total_examples": 8,
+    "processed_at": "2025-08-05T13:00:39.244104"
+  },
+  "salesforce-AuditNLG-c473044": {
+    "exact_match_rate": 0.25,
+    "average_edit_similarity": 0.6508539290660034,
+    "total_examples": 8,
+    "processed_at": "2025-08-05T13:02:58.602566"
+  },
+  "CERT-EDF-generaptor-e71eb4c": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.6769659127089853,
+    "total_examples": 8,
+    "processed_at": "2025-08-05T13:05:06.601777"
+  },
+  "Cerlancism-faster-whisper-webui-884f5fd": {
+    "exact_match_rate": 0.25,
+    "average_edit_similarity": 0.6541751328924692,
+    "total_examples": 8,
+    "processed_at": "2025-08-05T13:07:35.001260"
+  },
+  "gabacode-chatGPDP-4701532": {
+    "exact_match_rate": 0.375,
+    "average_edit_similarity": 0.8221249558037478,
+    "total_examples": 8,
+    "processed_at": "2025-08-05T13:09:41.408645"
+  },
+  "kaiko-ai-typedspark-cf5bc65": {
+    "exact_match_rate": 0.25,
+    "average_edit_similarity": 0.49831202619470527,
+    "total_examples": 8,
+    "processed_at": "2025-08-05T13:12:12.297345"
+  },
+  "microsoft-seqrecord-55c8d91": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.7486546101256466,
+    "total_examples": 8,
+    "processed_at": "2025-08-05T13:14:18.021955"
+  },
+  "ycc140-fastapi_messaging-bed8c86": {
+    "exact_match_rate": 0.875,
+    "average_edit_similarity": 0.9490740740740741,
+    "total_examples": 8,
+    "processed_at": "2025-08-05T13:16:23.313005"
+  },
+  "FizzleDorf-AIT-ad34668": {
+    "exact_match_rate": 0.625,
+    "average_edit_similarity": 0.9019607843137255,
+    "total_examples": 8,
+    "processed_at": "2025-08-05T13:19:09.102066"
+  },
+  "NREL-BuildingsBench-cc4b03d": {
+    "exact_match_rate": 0.375,
+    "average_edit_similarity": 0.7325132700586632,
+    "total_examples": 8,
+    "processed_at": "2025-08-05T13:21:25.047082"
+  },
+  "javiber-scrat-748926a": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.7368441670415355,
+    "total_examples": 8,
+    "processed_at": "2025-08-05T13:23:33.777618"
+  },
+  "reko-beep-hsr-data-c73208a": {
+    "exact_match_rate": 0.14285714285714285,
+    "average_edit_similarity": 0.41733761014064913,
+    "total_examples": 7,
+    "processed_at": "2025-08-05T13:25:34.797898"
+  },
+  "geoffwhittington-meshtastic-matrix-relay-ffe969f": {
+    "exact_match_rate": 0.5714285714285714,
+    "average_edit_similarity": 0.7689243813467417,
+    "total_examples": 7,
+    "processed_at": "2025-08-05T13:27:39.204227"
+  },
+  "virtualzx-nad-easy_llm_agents-8a29505": {
+    "exact_match_rate": 0.2857142857142857,
+    "average_edit_similarity": 0.6386570276065139,
+    "total_examples": 7,
+    "processed_at": "2025-08-05T13:29:48.306736"
+  },
+  "JunbongJang-contour-tracking-1219b66": {
+    "exact_match_rate": 0.42857142857142855,
+    "average_edit_similarity": 0.6453774819366218,
+    "total_examples": 7,
+    "processed_at": "2025-08-05T13:32:41.894958"
+  },
+  "deep-diver-TFX-WandB-05c63c4": {
+    "exact_match_rate": 0.2857142857142857,
+    "average_edit_similarity": 0.5196340064352487,
+    "total_examples": 7,
+    "processed_at": "2025-08-05T13:34:49.203622"
+  },
+  "knexer-ai-storyteller-86da1d3": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.5163297020439878,
+    "total_examples": 7,
+    "processed_at": "2025-08-05T13:36:36.034867"
+  },
+  "build-aau-lcabyg_web_api_doc-b001c5d": {
+    "exact_match_rate": 0.5714285714285714,
+    "average_edit_similarity": 0.9173805954165773,
+    "total_examples": 7,
+    "processed_at": "2025-08-05T13:38:36.745246"
+  },
+  "Thetacz-nautobot-plugin-device-resources-4caef01": {
+    "exact_match_rate": 0.14285714285714285,
+    "average_edit_similarity": 0.47824267032543677,
+    "total_examples": 7,
+    "processed_at": "2025-08-05T13:40:50.500082"
+  },
+  "KimmiShi-TorchDistPackage-cc385cc": {
+    "exact_match_rate": 0.2857142857142857,
+    "average_edit_similarity": 0.731086350462065,
+    "total_examples": 7,
+    "processed_at": "2025-08-05T13:42:53.547332"
+  },
+  "dmlc-tl2cgen-9d135f4": {
+    "exact_match_rate": 0.5714285714285714,
+    "average_edit_similarity": 0.7024699341785351,
+    "total_examples": 7,
+    "processed_at": "2025-08-05T13:44:50.942906"
+  },
+  "yairl-r1xbot-5323f61": {
+    "exact_match_rate": 0.14285714285714285,
+    "average_edit_similarity": 0.500020996364821,
+    "total_examples": 7,
+    "processed_at": "2025-08-05T13:46:33.390570"
+  },
+  "SAIC-iSmart-API-saic-python-client-29b99ad": {
+    "exact_match_rate": 0.7142857142857143,
+    "average_edit_similarity": 0.9364701211038317,
+    "total_examples": 7,
+    "processed_at": "2025-08-05T13:49:24.647170"
+  },
+  "jannerm-ddpo-f0b6ca7": {
+    "exact_match_rate": 0.2857142857142857,
+    "average_edit_similarity": 0.770931449502878,
+    "total_examples": 7,
+    "processed_at": "2025-08-05T13:51:19.803040"
+  },
+  "Mikanwolfe-Kuro-55d0744": {
+    "exact_match_rate": 0.2857142857142857,
+    "average_edit_similarity": 0.7080104303362144,
+    "total_examples": 7,
+    "processed_at": "2025-08-05T13:53:44.113019"
+  },
+  "entangled-entangled.py-4dcbb63": {
+    "exact_match_rate": 0.14285714285714285,
+    "average_edit_similarity": 0.49806439092153376,
+    "total_examples": 7,
+    "processed_at": "2025-08-05T13:55:35.394601"
+  },
+  "AlexGidiotis-gpt-light-ae75a5e": {
+    "exact_match_rate": 0.7142857142857143,
+    "average_edit_similarity": 0.8504369030684821,
+    "total_examples": 7,
+    "processed_at": "2025-08-05T13:57:15.190927"
+  },
+  "knrdl-acme-ca-server-53598ad": {
+    "exact_match_rate": 0.42857142857142855,
+    "average_edit_similarity": 0.694438214846378,
+    "total_examples": 7,
+    "processed_at": "2025-08-05T13:59:05.041586"
+  },
+  "JuniusLuo-VecLucene-8a47c91": {
+    "exact_match_rate": 0.42857142857142855,
+    "average_edit_similarity": 0.7082301733464523,
+    "total_examples": 7,
+    "processed_at": "2025-08-05T14:01:03.441773"
+  },
+  "dbt-labs-dbt-meshify-a11e507": {
+    "exact_match_rate": 0.42857142857142855,
+    "average_edit_similarity": 0.7461276818419675,
+    "total_examples": 7,
+    "processed_at": "2025-08-05T14:03:09.347234"
+  },
+  "AICPS-RS2G-b4e985f": {
+    "exact_match_rate": 0.14285714285714285,
+    "average_edit_similarity": 0.4951383395122052,
+    "total_examples": 7,
+    "processed_at": "2025-08-05T14:05:20.387490"
+  },
+  "appsignal-appsignal-python-5a0cfa9": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.7257703081232494,
+    "total_examples": 6,
+    "processed_at": "2025-08-05T14:06:59.500298"
+  },
+  "traas-stack-holoinsight-ai-b235643": {
+    "exact_match_rate": 0.3333333333333333,
+    "average_edit_similarity": 0.8065701884246251,
+    "total_examples": 6,
+    "processed_at": "2025-08-05T14:08:36.042701"
+  },
+  "philtabor-ProtoRL-31f81e7": {
+    "exact_match_rate": 0.3333333333333333,
+    "average_edit_similarity": 0.765302953625322,
+    "total_examples": 6,
+    "processed_at": "2025-08-05T14:10:16.617636"
+  },
+  "ini-multigrid-01ee811": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.6771892655367232,
+    "total_examples": 6,
+    "processed_at": "2025-08-05T14:12:08.013325"
+  },
+  "EmbedInAI-EmbedInDB-b2d7852": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.7487627964773113,
+    "total_examples": 6,
+    "processed_at": "2025-08-05T14:13:44.219109"
+  },
+  "taptorestart-forms-40b1a91": {
+    "exact_match_rate": 0.16666666666666666,
+    "average_edit_similarity": 0.4840484971081986,
+    "total_examples": 6,
+    "processed_at": "2025-08-05T14:15:12.605117"
+  },
+  "BrianPugh-tamp-85634f4": {
+    "exact_match_rate": 0.6666666666666666,
+    "average_edit_similarity": 0.7706256921373199,
+    "total_examples": 6,
+    "processed_at": "2025-08-05T14:17:09.701268"
+  },
+  "diptanu-indexify-216ecf2": {
+    "exact_match_rate": 0.3333333333333333,
+    "average_edit_similarity": 0.8406425891181989,
+    "total_examples": 6,
+    "processed_at": "2025-08-05T14:18:39.465711"
+  },
+  "irgolic-AutoPR-10e2891": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.740714237034008,
+    "total_examples": 6,
+    "processed_at": "2025-08-05T14:20:45.541975"
+  },
+  "iryna-kondr-scikit-llm-38ad5e9": {
+    "exact_match_rate": 0.3333333333333333,
+    "average_edit_similarity": 0.6979747305834262,
+    "total_examples": 6,
+    "processed_at": "2025-08-05T14:22:35.664049"
+  },
+  "doccano-doccano-mini-0ef6c33": {
+    "exact_match_rate": 0.8333333333333334,
+    "average_edit_similarity": 0.9481481481481482,
+    "total_examples": 6,
+    "processed_at": "2025-08-05T14:24:21.267842"
+  },
+  "Ying1123-llm-caching-multiplexing-2dc7e69": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.6536519195220175,
+    "total_examples": 6,
+    "processed_at": "2025-08-05T14:26:03.481231"
+  },
+  "pycob-pyvibe-1c1c138": {
+    "exact_match_rate": 0.3333333333333333,
+    "average_edit_similarity": 0.7262206091540456,
+    "total_examples": 6,
+    "processed_at": "2025-08-05T14:27:39.029166"
+  },
+  "marcpage-pylavi-90a3e81": {
+    "exact_match_rate": 0.16666666666666666,
+    "average_edit_similarity": 0.38878501958997314,
+    "total_examples": 6,
+    "processed_at": "2025-08-05T14:29:00.856506"
+  },
+  "fuzzylabs-matcha-examples-c780c2e": {
+    "exact_match_rate": 0.6666666666666666,
+    "average_edit_similarity": 0.9047348484848485,
+    "total_examples": 6,
+    "processed_at": "2025-08-05T14:30:52.568994"
+  },
+  "tungduongbk-airflow-custom-plugins-f0f571d": {
+    "exact_match_rate": 0.3333333333333333,
+    "average_edit_similarity": 0.6450357535753576,
+    "total_examples": 6,
+    "processed_at": "2025-08-05T14:32:51.149367"
+  },
+  "Innocentsax-AirBnB_clone-a48e44b": {
+    "exact_match_rate": 0.8333333333333334,
+    "average_edit_similarity": 0.9066666666666666,
+    "total_examples": 6,
+    "processed_at": "2025-08-05T14:34:36.447726"
+  },
+  "danilonumeroso-dar-64e8631": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.7403361344537815,
+    "total_examples": 6,
+    "processed_at": "2025-08-05T14:36:30.728944"
+  },
+  "liuzuxin-OSRL-6ede2c2": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 6,
+    "processed_at": "2025-08-05T14:38:43.009976"
+  },
+  "david-stan-dagfed-chain-0a60a23": {
+    "exact_match_rate": 0.3333333333333333,
+    "average_edit_similarity": 0.7939603993793428,
+    "total_examples": 6,
+    "processed_at": "2025-08-05T14:40:29.128689"
+  },
+  "google-lineax-4e8a44a": {
+    "exact_match_rate": 0.3333333333333333,
+    "average_edit_similarity": 0.6980688264987044,
+    "total_examples": 6,
+    "processed_at": "2025-08-05T14:42:10.176433"
+  },
+  "uripeled2-llm-client-sdk-66af541": {
+    "exact_match_rate": 0.3333333333333333,
+    "average_edit_similarity": 0.730202602517111,
+    "total_examples": 6,
+    "processed_at": "2025-08-05T14:43:58.458197"
+  },
+  "SKbarbon-swoopyui-a4fb25d": {
+    "exact_match_rate": 0.16666666666666666,
+    "average_edit_similarity": 0.6290962621607782,
+    "total_examples": 6,
+    "processed_at": "2025-08-05T14:45:43.825222"
+  },
+  "scottjiao-SlotGAT_ICML23-4aa4583": {
+    "exact_match_rate": 0.3333333333333333,
+    "average_edit_similarity": 0.5369400121722104,
+    "total_examples": 6,
+    "processed_at": "2025-08-05T14:48:24.800174"
+  },
+  "Genentech-walk-jump-3cfaa37": {
+    "exact_match_rate": 0.3333333333333333,
+    "average_edit_similarity": 0.7543064574314574,
+    "total_examples": 6,
+    "processed_at": "2025-08-05T14:50:06.232875"
+  },
+  "mihirh19-todo_web_app-fed9043": {
+    "exact_match_rate": 0.6666666666666666,
+    "average_edit_similarity": 0.798132183908046,
+    "total_examples": 6,
+    "processed_at": "2025-08-05T14:51:36.857789"
+  },
+  "kabeer11000-autollm-53e7404": {
+    "exact_match_rate": 0.6,
+    "average_edit_similarity": 0.8296317606444189,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T14:52:59.500570"
+  },
+  "ddPn08-rvc-webui-c4a12a8": {
+    "exact_match_rate": 0.6,
+    "average_edit_similarity": 0.6814495254529767,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T14:54:31.236524"
+  },
+  "davidmaamoaix-singleline-311d35f": {
+    "exact_match_rate": 0.6,
+    "average_edit_similarity": 0.7061627906976744,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T14:55:43.105271"
+  },
+  "microsoft-DPSDA-79f0868": {
+    "exact_match_rate": 0.2,
+    "average_edit_similarity": 0.5531940902863932,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T14:57:08.403767"
+  },
+  "lskyset-priconne-asset-extractor-3d54812": {
+    "exact_match_rate": 0.4,
+    "average_edit_similarity": 0.8457071377127479,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T14:58:38.007982"
+  },
+  "fbdp1202-tts_data_engine-02353ab": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.7182857048449832,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T15:00:22.575132"
+  },
+  "continuum-llms-acad-gpt-9513178": {
+    "exact_match_rate": 0.6,
+    "average_edit_similarity": 0.8675,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T15:01:52.017981"
+  },
+  "ml-research-SLASH-8d0f42d": {
+    "exact_match_rate": 0.4,
+    "average_edit_similarity": 0.8437118437118439,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T15:03:40.147880"
+  },
+  "camenduru-minigpt4-439e050": {
+    "exact_match_rate": 0.6,
+    "average_edit_similarity": 0.8155597722960153,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T15:05:46.537647"
+  },
+  "log10-io-log10-d605f37": {
+    "exact_match_rate": 0.2,
+    "average_edit_similarity": 0.5754530754530756,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T15:07:09.728210"
+  },
+  "swan-utokyo-deir-385d351": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.5417118665648077,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T15:08:34.276891"
+  },
+  "opensean-kedro-graphql-75c7dae": {
+    "exact_match_rate": 0.6,
+    "average_edit_similarity": 0.7760488176964151,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T15:09:55.095990"
+  },
+  "krishnaik06-Chicken-Disease-Classification-Projects-d0f5e13": {
+    "exact_match_rate": 0.8,
+    "average_edit_similarity": 0.946031746031746,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T15:11:10.992817"
+  },
+  "adobe-aepp-0e23c55": {
+    "exact_match_rate": 0.2,
+    "average_edit_similarity": 0.611456628477905,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T15:13:02.530023"
+  },
+  "SindiLab-scANNA-b65b3d8": {
+    "exact_match_rate": 0.2,
+    "average_edit_similarity": 0.6979566788421507,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T15:14:29.357959"
+  },
+  "yangbang18-ZeroNLG-bbd3f33": {
+    "exact_match_rate": 0.4,
+    "average_edit_similarity": 0.8701544831979614,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T15:18:43.206770"
+  },
+  "ZhangJD-ong-MoSID-Breast-Tumor-Segmentation-from-Multi-parametric-MRI-e826e12": {
+    "exact_match_rate": 0.6,
+    "average_edit_similarity": 0.9672727272727272,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T15:20:18.751682"
+  },
+  "viper-framework-viper2-bd8aa34": {
+    "exact_match_rate": 0.2,
+    "average_edit_similarity": 0.5455556870635578,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T15:21:32.379635"
+  },
+  "metalbobinou-python-ListComparator-00b6794": {
+    "exact_match_rate": 0.6,
+    "average_edit_similarity": 0.8642857142857142,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T15:23:03.706723"
+  },
+  "kabachuha-sd-webui-text2video-20ead10": {
+    "exact_match_rate": 0.2,
+    "average_edit_similarity": 0.6113713337397548,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T15:25:09.712378"
+  },
+  "lhenault-simpleAI-1ac4954": {
+    "exact_match_rate": 0.6,
+    "average_edit_similarity": 0.8357142857142857,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T15:26:40.605016"
+  },
+  "evalplus-evalplus-8b713cd": {
+    "exact_match_rate": 0.4,
+    "average_edit_similarity": 0.6491289198606272,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T15:28:14.372979"
+  },
+  "chrisdewa-ardilla-312a373": {
+    "exact_match_rate": 0.2,
+    "average_edit_similarity": 0.5935786435786436,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T15:29:40.289756"
+  },
+  "RobinSchfr-Lightning-control-for-Nanoleaf-dedf122": {
+    "exact_match_rate": 0.6,
+    "average_edit_similarity": 0.885284280936455,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T15:30:58.851553"
+  },
+  "francoismdj-netbox-kea-dhcp-f53d9df": {
+    "exact_match_rate": 0.4,
+    "average_edit_similarity": 0.93937343358396,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T15:32:34.930021"
+  },
+  "inWeb3ai-chatWeb3-cf1c933": {
+    "exact_match_rate": 0.2,
+    "average_edit_similarity": 0.810145585176782,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T15:34:00.177857"
+  },
+  "kadirnar-segment-anything-video-039392c": {
+    "exact_match_rate": 0.8,
+    "average_edit_similarity": 0.8565217391304347,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T15:35:41.146210"
+  },
+  "hbqjzx-wxxiaozhi-dfc4a65": {
+    "exact_match_rate": 0.6,
+    "average_edit_similarity": 0.8881155127730469,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T15:37:05.741355"
+  },
+  "EleutherAI-concept-erasure-0d4dbcb": {
+    "exact_match_rate": 0.4,
+    "average_edit_similarity": 0.7832887303003272,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T15:38:48.461183"
+  },
+  "light1726-BetaVAE_VC-08902f2": {
+    "exact_match_rate": 0.4,
+    "average_edit_similarity": 0.957017982017982,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T15:40:15.432993"
+  },
+  "paulpanwang-Cas6D-245489d": {
+    "exact_match_rate": 0.2,
+    "average_edit_similarity": 0.4798020050125314,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T15:42:30.881648"
+  },
+  "IntelLabs-GraVi-T-08d95be": {
+    "exact_match_rate": 0.4,
+    "average_edit_similarity": 0.6893048128342245,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T15:44:04.589647"
+  },
+  "janghyuk-choi-slot-attention-lightning-2993443": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.40097040052263927,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T15:45:32.142904"
+  },
+  "anarchy-ai-LLM-VM-83da960": {
+    "exact_match_rate": 0.2,
+    "average_edit_similarity": 0.7684920634920636,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T15:47:06.555164"
+  },
+  "czczup-GPTrans-1f6f651": {
+    "exact_match_rate": 0.2,
+    "average_edit_similarity": 0.5105528973950026,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T15:48:47.767246"
+  },
+  "SEIAROTg-autobean-format-2a51179": {
+    "exact_match_rate": 0.6,
+    "average_edit_similarity": 0.8951566951566952,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T15:50:41.748687"
+  },
+  "quarkslab-pastis-d790def": {
+    "exact_match_rate": 0.4,
+    "average_edit_similarity": 0.684134295227525,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T15:52:20.641243"
+  },
+  "argus-hdps-rico-426daa0": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.559278708430029,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T15:53:56.041022"
+  },
+  "thuliu-yt16-dualvector-e5ae56e": {
+    "exact_match_rate": 0.4,
+    "average_edit_similarity": 0.687740360414779,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T15:55:45.297665"
+  },
+  "slonogram-slonogram-9f86552": {
+    "exact_match_rate": 0.8,
+    "average_edit_similarity": 0.8800000000000001,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T15:57:10.931985"
+  },
+  "tricktreat-PromptNER-3857235": {
+    "exact_match_rate": 0.4,
+    "average_edit_similarity": 0.73777195260107,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T15:59:38.233699"
+  },
+  "rosemary666-chatgpt-3adfb2d": {
+    "exact_match_rate": 0.4,
+    "average_edit_similarity": 0.5389701783723523,
+    "total_examples": 5,
+    "processed_at": "2025-08-05T16:00:52.835274"
+  },
+  "rmihaylov-falcontune-6bd029e": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.49526376401376404,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:02:26.531685"
+  },
+  "probcomp-LLaMPPL-56ef219": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.7743055555555556,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:03:42.268792"
+  },
+  "isayahc-Semi-Automated-Youtube-Channel-80b0201": {
+    "exact_match_rate": 0.25,
+    "average_edit_similarity": 0.8889404818531186,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:04:57.438773"
+  },
+  "manoskary-vocsep_ijcai2023-ae7bef9": {
+    "exact_match_rate": 0.25,
+    "average_edit_similarity": 0.7186324041811847,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:06:43.188943"
+  },
+  "neo4j-NaLLM-ca04662": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.76875,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:07:46.007131"
+  },
+  "obahamonde-aiofauna-67993d2": {
+    "exact_match_rate": 0.25,
+    "average_edit_similarity": 0.6942902967121091,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:08:53.482558"
+  },
+  "K024-chatglm-q-eab6472": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.9571428571428572,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:10:02.405511"
+  },
+  "jiggy-ai-jiggybase-068b82b": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.7194002601040416,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:11:21.392196"
+  },
+  "Donkie-Spoolman-2fcfc38": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.3953464723824225,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:12:39.861192"
+  },
+  "GoogleCloudPlatform-alloydb-python-connector-a397ea7": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.5172926975558554,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:13:43.884433"
+  },
+  "bazingagin-npc_gzip-928659e": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.0713098404255319,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:14:50.596138"
+  },
+  "omron-sinicx-action-constrained-RL-benchmark-47b85fb": {
+    "exact_match_rate": 0.25,
+    "average_edit_similarity": 0.7118181818181819,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:16:13.715941"
+  },
+  "roboflow-cvevals-4d29537": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.6036414565826331,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:17:25.802340"
+  },
+  "s41m0n-enid-227634a": {
+    "exact_match_rate": 0.25,
+    "average_edit_similarity": 0.5105606758832565,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:18:54.314605"
+  },
+  "cupidbow20000-cosmos20000-049e193": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:20:06.958301"
+  },
+  "nyaarium-blender-nyaatools-4fc69af": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.7398989898989898,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:21:16.859757"
+  },
+  "line-Meta-AI-Video-Similarity-Challenge-3rd-Place-Solution-b8cf098": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.8102701606958573,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:22:36.075422"
+  },
+  "ZX-Yin-ms-nerf-9009137": {
+    "exact_match_rate": 0.25,
+    "average_edit_similarity": 0.7158352702783242,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:23:50.839046"
+  },
+  "thismlguy-code-genie-58f789c": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.3550208067338157,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:24:59.793870"
+  },
+  "blurgyy-jaxngp-adbe49e": {
+    "exact_match_rate": 0.25,
+    "average_edit_similarity": 0.8754655169749509,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:26:43.620716"
+  },
+  "jborean93-dpapi-ng-57143c3": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.6549495586380834,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:28:02.866945"
+  },
+  "ironwoodcall-TagTracker-bb1e3d9": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.8591142490372272,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:31:58.724138"
+  },
+  "google-research-precondition-861d2da": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.3521602257924446,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:33:12.515116"
+  },
+  "patio-python-patio-f65bd65": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.7410714285714286,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:34:14.564840"
+  },
+  "RTIInternational-teehr-2bd727d": {
+    "exact_match_rate": 0.25,
+    "average_edit_similarity": 0.5132298634336677,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:35:18.476764"
+  },
+  "maxvanspengler-hyperbolic_learning_library-f6cfca3": {
+    "exact_match_rate": 0.25,
+    "average_edit_similarity": 0.5366071428571428,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:36:28.299268"
+  },
+  "odtuyzt-chrono-kit-923b505": {
+    "exact_match_rate": 0.25,
+    "average_edit_similarity": 0.6383823529411765,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:37:56.191971"
+  },
+  "OpenGSL-OpenGSL-b40738c": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.5589031339031338,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:42:15.855075"
+  },
+  "yoheinakajima-babyagi-d10b08c": {
+    "exact_match_rate": 0.75,
+    "average_edit_similarity": 0.95,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:43:46.872153"
+  },
+  "ergodicio-adept-2c7eee5": {
+    "exact_match_rate": 0.25,
+    "average_edit_similarity": 0.6190191387559808,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:45:00.120226"
+  },
+  "edsaav-nail-64acdc6": {
+    "exact_match_rate": 0.75,
+    "average_edit_similarity": 0.8012820512820513,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:46:09.877209"
+  },
+  "dichem-django-excel-report-686e1da": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.49767200304936154,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:47:19.463430"
+  },
+  "sprite-neu-SPREAD-API-a2ee03a": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.9454580745341615,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:48:32.130127"
+  },
+  "cibere-kick.py-03541c0": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.7527056277056277,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:49:46.527109"
+  },
+  "egrinstein-gnn_ssl-74c7b5a": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.5284443466684717,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:51:00.569936"
+  },
+  "somaonishi-MTR-33b87b3": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.7401360544217687,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:52:23.718920"
+  },
+  "ZJUM3-LLMEval_RCC-a731888": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.9088827838827839,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:53:35.785858"
+  },
+  "solo-spice-sospice-64c941b": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.7869465209890742,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:54:42.895562"
+  },
+  "eugenos-programos-Own-language-with-LLVM-lite-c8b9e08": {
+    "exact_match_rate": 0.25,
+    "average_edit_similarity": 0.48736709197235517,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:56:42.668884"
+  },
+  "xsfa-pointstorm-ede28ec": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.6705246913580247,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:57:35.961334"
+  },
+  "llmapi-io-llmapi-server-cdae9ca": {
+    "exact_match_rate": 0.25,
+    "average_edit_similarity": 0.693040293040293,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T16:58:53.091930"
+  },
+  "DFilyushin-habr-project-inn-0465f4f": {
+    "exact_match_rate": 0.25,
+    "average_edit_similarity": 0.6439664502164502,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T17:00:12.277302"
+  },
+  "teelinsan-parallel-decoding-b16a009": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.7613636363636364,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T17:01:33.425975"
+  },
+  "run-llama-llama-lab-3364c9e": {
+    "exact_match_rate": 0.25,
+    "average_edit_similarity": 0.721213709254795,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T17:02:36.432647"
+  },
+  "Facico-Chinese-Vicuna-1c4cbfc": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.786679292929293,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T17:04:04.555033"
+  },
+  "tmori-generative-agents-81cabfd": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.8142857142857143,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T17:05:13.508614"
+  },
+  "esnya-lm-talkbot-f072b85": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.4194799658994033,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T17:06:19.234225"
+  },
+  "jfc43-stratified-adv-rej-bfdc043": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T17:07:49.584922"
+  },
+  "kiran94-prfiesta-c37e012": {
+    "exact_match_rate": 0.25,
+    "average_edit_similarity": 0.634097706879362,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T17:09:00.565650"
+  },
+  "Kamilfo-Developer-alice-sleepy-helper-skill-febf9f7": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.6352751372826357,
+    "total_examples": 4,
+    "processed_at": "2025-08-05T17:10:06.221113"
+  },
+  "smpanaro-more-ane-transformers-d5aec6f": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.36459369392463464,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:11:09.753407"
+  },
+  "microsoft-deep-language-networks-e7accd0": {
+    "exact_match_rate": 0.3333333333333333,
+    "average_edit_similarity": 0.6280834914611005,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:12:03.966615"
+  },
+  "xrcyz-dpg-swisscontrols-9412ad4": {
+    "exact_match_rate": 0.3333333333333333,
+    "average_edit_similarity": 0.8191856452726017,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:12:50.977783"
+  },
+  "shijiuchen-Nodens-5589567": {
+    "exact_match_rate": 0.3333333333333333,
+    "average_edit_similarity": 0.8829365079365079,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:14:02.406960"
+  },
+  "nobu-g-JGLUE-evaluation-scripts-2a39b31": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.2064749608763693,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:14:53.185485"
+  },
+  "zmzhang2000-HybRank-b68bd2f": {
+    "exact_match_rate": 0.3333333333333333,
+    "average_edit_similarity": 0.6443798449612403,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:15:44.853521"
+  },
+  "techonomydev-django-crispy-tableselect-e2e7016": {
+    "exact_match_rate": 0.3333333333333333,
+    "average_edit_similarity": 0.6131907308377896,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:16:34.849582"
+  },
+  "OHDSI-Apollo-57fa612": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:17:47.500936"
+  },
+  "maybelinot-yamx-5e304a5": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:18:41.313601"
+  },
+  "amazon-science-ope-learn-action-embeddings-4ff26bf": {
+    "exact_match_rate": 0.3333333333333333,
+    "average_edit_similarity": 0.5075006356470887,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:19:35.007734"
+  },
+  "heshuting555-PAP-FZS3D-e3fc6cb": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.656475598369429,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:20:39.843473"
+  },
+  "FabienRoger-concistency-lenses-6500b44": {
+    "exact_match_rate": 0.6666666666666666,
+    "average_edit_similarity": 0.7368421052631579,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:21:37.700690"
+  },
+  "UMEssen-matrix-scala-bd97a56": {
+    "exact_match_rate": 0.6666666666666666,
+    "average_edit_similarity": 0.7586206896551725,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:22:24.423791"
+  },
+  "ChuloAI-BrainChulo-cacf3ac": {
+    "exact_match_rate": 0.6666666666666666,
+    "average_edit_similarity": 0.7631578947368421,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:23:26.668738"
+  },
+  "Stardust-hyx-Instruction_Tuning-62e36d0": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.5249999999999999,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:24:32.506780"
+  },
+  "tigrisdata-tigris-client-python-667d484": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:25:32.819663"
+  },
+  "kraemer-lab-GRAPEVNE-1d241a8": {
+    "exact_match_rate": 0.6666666666666666,
+    "average_edit_similarity": 0.8823529411764706,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:26:34.931342"
+  },
+  "AdaptChat-adapt.py-9e079c0": {
+    "exact_match_rate": 0.6666666666666666,
+    "average_edit_similarity": 0.9833333333333334,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:27:51.434411"
+  },
+  "langchain-ai-kork-3ff7137": {
+    "exact_match_rate": 0.6666666666666666,
+    "average_edit_similarity": 0.9523809523809524,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:28:44.524258"
+  },
+  "SuperpoweredAI-task-tree-agent-45b0a49": {
+    "exact_match_rate": 0.6666666666666666,
+    "average_edit_similarity": 0.9478458049886621,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:29:34.734664"
+  },
+  "YangXiaocui1215-GMP-d3cb04f": {
+    "exact_match_rate": 0.6666666666666666,
+    "average_edit_similarity": 0.8194444444444445,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:30:49.520150"
+  },
+  "dpasse-extr-f695d3c": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:31:48.322298"
+  },
+  "BioMag-mtbi_meeg-b757aa8": {
+    "exact_match_rate": 0.3333333333333333,
+    "average_edit_similarity": 0.7215007215007215,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:32:37.740961"
+  },
+  "lxjmaster-ja3requests-90a33e6": {
+    "exact_match_rate": 0.3333333333333333,
+    "average_edit_similarity": 0.7261904761904763,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:33:35.147321"
+  },
+  "Lightning-AI-lit-llama-da71ade": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.26499565343378734,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:34:32.777222"
+  },
+  "microsoft-gpt-review-b0b9842": {
+    "exact_match_rate": 0.6666666666666666,
+    "average_edit_similarity": 0.8518518518518517,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:35:43.443133"
+  },
+  "Arbol-Project-gridded-etl-tools-320efc1": {
+    "exact_match_rate": 0.3333333333333333,
+    "average_edit_similarity": 0.6185897435897436,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:36:37.042635"
+  },
+  "Gage-Technologies-embedding-server-6b66d47": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.6368819892629416,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:37:29.332253"
+  },
+  "DAMO-NLP-SG-MT-LLaMA-c72f7db": {
+    "exact_match_rate": 0.3333333333333333,
+    "average_edit_similarity": 0.6226053639846744,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:38:36.952337"
+  },
+  "brdav-cma-fdae11a": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.30727272727272725,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:39:43.857868"
+  },
+  "congtuong-docile-44e4fce": {
+    "exact_match_rate": 0.3333333333333333,
+    "average_edit_similarity": 0.5892857142857143,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:40:40.946616"
+  },
+  "doublewinter0-auto-dns-d9e3a40": {
+    "exact_match_rate": 0.3333333333333333,
+    "average_edit_similarity": 0.6083333333333333,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:41:29.437951"
+  },
+  "yangalan123-Amortized-Interpretability-13e3500": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.5776512784912646,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:42:35.479174"
+  },
+  "graphcore-research-unit-scaling-demo-9d9daed": {
+    "exact_match_rate": 0.3333333333333333,
+    "average_edit_similarity": 0.7599681020733652,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:43:32.172704"
+  },
+  "piercefreeman-vectordb-orm-0b7fe7d": {
+    "exact_match_rate": 0.3333333333333333,
+    "average_edit_similarity": 0.8838905775075988,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:45:02.052612"
+  },
+  "mlfoundations-dataset2metadata-a673a83": {
+    "exact_match_rate": 0.6666666666666666,
+    "average_edit_similarity": 0.7416666666666667,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:46:16.118002"
+  },
+  "sweetice-PEER-CVPR23-142442f": {
+    "exact_match_rate": 0.6666666666666666,
+    "average_edit_similarity": 0.9466666666666667,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:47:19.072211"
+  },
+  "Sygil-Dev-muse-maskgit-pytorch-7d7c00c": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.566931216931217,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:48:20.736197"
+  },
+  "IBM-domain-adaptive-attribution-robustness-b4c2bee": {
+    "exact_match_rate": 0.3333333333333333,
+    "average_edit_similarity": 0.6490694674774277,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:49:16.925697"
+  },
+  "medley56-space_packet_parser-d94290c": {
+    "exact_match_rate": 0.6666666666666666,
+    "average_edit_similarity": 0.7598039215686274,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:50:08.777777"
+  },
+  "shug2k-content-review-tool-93305bb": {
+    "exact_match_rate": 0.6666666666666666,
+    "average_edit_similarity": 0.9666666666666667,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:50:55.360165"
+  },
+  "SolarisNeko-suger-python-67383eb": {
+    "exact_match_rate": 0.6666666666666666,
+    "average_edit_similarity": 0.9019607843137255,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:51:42.221949"
+  },
+  "libsql-libsql-client-py-484c7d3": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.8632060974860164,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:52:55.452445"
+  },
+  "JohnnyIrvin-shell-craft-26a7af7": {
+    "exact_match_rate": 0.3333333333333333,
+    "average_edit_similarity": 0.5120708748615725,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:53:45.388322"
+  },
+  "utiasDSL-fmpc_socp-de13764": {
+    "exact_match_rate": 0.3333333333333333,
+    "average_edit_similarity": 0.8805555555555555,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:54:52.239978"
+  },
+  "elementsinteractive-twyn-4517d87": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.5934275368237633,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:55:53.652491"
+  },
+  "celluloseai-sdk-9bb71fb": {
+    "exact_match_rate": 0.3333333333333333,
+    "average_edit_similarity": 0.7492753623188406,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:56:47.634099"
+  },
+  "chunmeifeng-FedPR-f5c3e67": {
+    "exact_match_rate": 0.3333333333333333,
+    "average_edit_similarity": 0.6789743589743589,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:57:59.686761"
+  },
+  "ycyy-faster-whisper-webui-fe432f8": {
+    "exact_match_rate": 0.3333333333333333,
+    "average_edit_similarity": 0.6275946275946277,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T17:59:04.598813"
+  },
+  "mecene-studio-debugGpt-20e9b61": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.2985754985754986,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T18:00:11.338287"
+  },
+  "LLukas22-llm-rs-python-90e5e70": {
+    "exact_match_rate": 0.3333333333333333,
+    "average_edit_similarity": 0.9632748538011695,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T18:01:12.414255"
+  },
+  "alteryx-locust-grasshopper-632db06": {
+    "exact_match_rate": 0.3333333333333333,
+    "average_edit_similarity": 0.7251063829787233,
+    "total_examples": 3,
+    "processed_at": "2025-08-05T18:02:04.721982"
+  },
+  "hynnsk-HP-cd48934": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.6630434782608696,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:02:51.008908"
+  },
+  "filipporomani-whatsapp-b2c7ba4": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:03:25.951831"
+  },
+  "yarrow-id-diagrams-9cbd653": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.7391304347826086,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:04:04.088142"
+  },
+  "OUIsolutions-CWebStudio-633d7c6": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.9821428571428572,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:04:44.539435"
+  },
+  "jiangjiechen-uncommongen-7d1c76e": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.32974910394265233,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:05:22.867657"
+  },
+  "ashi-ta-speechGLUE-724cf40": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.1375862068965517,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:06:03.887490"
+  },
+  "peach-db-peachdb-0fb089b": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.6256038647342995,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:06:53.911644"
+  },
+  "SilicalNZ-TapTitans2py-0d5409d": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.8571428571428572,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:07:32.617409"
+  },
+  "gorarakelyan-langchain-chatbot-72a8678": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.9302325581395349,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:08:04.735205"
+  },
+  "HelsinkiUniCollab-WeatherBasedRecommender-cfd21fd": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.6014646464646465,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:08:44.606614"
+  },
+  "EdwardLeeLPZ-PowerBEV-7ead4ce": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.5284090909090908,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:09:28.968749"
+  },
+  "PatrickKalkman-python-di-2230ea4": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.8372549019607843,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:10:01.575103"
+  },
+  "KyGao-ABGNN-1832ca7": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.35185185185185186,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:10:57.314719"
+  },
+  "3dlg-hcvc-M3DRef-CLIP-420419e": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.9337349397590362,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:11:38.397305"
+  },
+  "alex-zaikman-fastapi-postgres-tmpl-cc200aa": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.7655223880597015,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:12:13.944448"
+  },
+  "Panzer-Jack-ChatGLM_VITS_For_QQ-Rob-5b11f0a": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.5442326490713587,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:13:07.850319"
+  },
+  "JerryYLi-svitt-c8806b3": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:14:00.001823"
+  },
+  "chainstacklabs-chainbench-177c49e": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.29317111459968603,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:14:36.086427"
+  },
+  "freddyaboulton-gradio-tools-f0297df": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.5075174825174825,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:15:14.525868"
+  },
+  "usecakework-async-backend-c288d0b": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.7352941176470589,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:15:49.014689"
+  },
+  "NVIDIA-ISAAC-ROS-ros2_benchmark-d7725da": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.5314685314685315,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:16:29.484236"
+  },
+  "theneonwhale-frt-photo-share-6659afb": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.818426724137931,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:17:06.679692"
+  },
+  "awslabs-decode-answer-logical-form-08d5790": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.5818181818181818,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:17:45.154376"
+  },
+  "eimenhmdt-autoresearcher-5235ee7": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:18:19.941920"
+  },
+  "husisy-arxiv-gpt-ef98efb": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.6973684210526316,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:19:02.613245"
+  },
+  "Textualize-frogmouth-965b92e": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.7450110864745011,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:19:43.753735"
+  },
+  "HiPer0-HiPer-48a2f6e": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:20:25.702796"
+  },
+  "rgbkrk-chatlab-c126c9f": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.8088235294117647,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:21:08.412812"
+  },
+  "ch3njust1n-generative-api-a2ac928": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.8055555555555556,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:21:43.439328"
+  },
+  "livekit-client-sdk-python-b14fa6c": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:22:24.040440"
+  },
+  "radar-research-lab-MFGLib-7f12f9d": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:23:00.104784"
+  },
+  "Donnype-xtdb-py-fc89588": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.5824175824175823,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:23:45.058494"
+  },
+  "TheStageAI-TorchIntegral-baf578b": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.2344809598330725,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:24:20.823604"
+  },
+  "CircuitSacul-io-775ac7c": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.6136363636363636,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:24:50.197064"
+  },
+  "iqmo-org-magic_duckdb-62e6fcc": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.8275862068965517,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:25:25.932562"
+  },
+  "RangiLyu-llama.mmengine-1887d56": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:26:07.319712"
+  },
+  "continue-revolution-sd-webui-segment-anything-5df716b": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.34710144927536235,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:27:01.781697"
+  },
+  "ZikangXiong-STL-Mobile-Robot-eecd396": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.4288537549407115,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:27:59.164890"
+  },
+  "happen2me-subgraph-retrieval-toolkit-5655cb3": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.7209090909090909,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:28:41.385771"
+  },
+  "operand-agency-07b1076": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.559375,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:29:20.212866"
+  },
+  "pp-mo-ncdata-555ff35": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.78125,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:29:52.998052"
+  },
+  "penvm-penvm-1846b0f": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.6663708961845608,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:30:34.947363"
+  },
+  "voneiden-ocp-freecad-cam-4813dc9": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.7097495527728086,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:31:18.226106"
+  },
+  "orsinium-labs-pytypest-80c40ed": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.7058823529411764,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:31:56.125023"
+  },
+  "ppoitier-sign-language-tools-46eadf9": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.5569620253164558,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:32:47.781148"
+  },
+  "chunbolang-R2Net-856e1cc": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:33:27.060959"
+  },
+  "continuum-llms-chatgpt-memory-ee08ccc": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.5371148459383753,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:34:03.545492"
+  },
+  "opticore-netbox-celery-553cbe6": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.5078125,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:34:42.500151"
+  },
+  "chrisrude-oobabot-fa234d6": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.6041666666666667,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:35:35.543633"
+  },
+  "uezo-aiavatarkit-37d28f7": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.73,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:36:13.194922"
+  },
+  "AntonOsika-gpt-engineer-fc80507": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.7002635046113307,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:36:48.149806"
+  },
+  "IntelligenzaArtificiale-Free-Auto-GPT-095e991": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.4067204301075269,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:37:34.342319"
+  },
+  "eurobios-scb-acrocord-94aeb5e": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:38:07.764078"
+  },
+  "pomponchik-instld-1df14ba": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.3563636363636363,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:38:39.324324"
+  },
+  "blurry-dev-blurry-1d20aad": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.6057692307692308,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:39:10.433957"
+  },
+  "dmemsys-SMART-dc4de6f": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.7091076169083113,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:39:53.530517"
+  },
+  "steklyashka33-Minecraft-Mod-Translator-92de64d": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.6515151515151515,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:40:29.614514"
+  },
+  "Significant-Gravitas-Auto-GPT-Plugins-3975893": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.6360153256704981,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:41:14.285561"
+  },
+  "lambrou-SemTerm-b57ef90": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.85,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:41:46.378105"
+  },
+  "yuvalkirstain-PickScore-5fa69e8": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:42:32.542898"
+  },
+  "hyp3rd-telegram-discord-bridge-24fa2fb": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.29689298043728424,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:43:09.728846"
+  },
+  "chatnoir-eu-web-content-extraction-benchmark-221b650": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.9444444444444444,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:46:44.847151"
+  },
+  "lwb2099-stable_diffusion_pytorch-dbdb663": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.8194444444444444,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:47:30.354138"
+  },
+  "valentingol-cliconfig-c772180": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.6428571428571428,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:48:07.100034"
+  },
+  "mraniki-dxsp-71b0c1e": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.9134615384615384,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:48:39.584051"
+  },
+  "wxian3-NeuroLens-380d68c": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.46924603174603174,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:49:15.503398"
+  },
+  "havenhq-haven-fa692f2": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.8841215726098941,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:49:51.123082"
+  },
+  "axelmunch-laser-tag-38f6fc0": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.84,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:50:32.377141"
+  },
+  "LineIndent-material_design_flet-bca5bd8": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.7777777777777778,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:51:05.538330"
+  },
+  "slawekradzyminski-personal-ai-assistant-2736d10": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.7169117647058824,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:51:44.187230"
+  },
+  "PatrickKalkman-python-eda-e98886c": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.6714285714285715,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:52:16.907052"
+  },
+  "Hxyou-IdealGPT-54f5acf": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.7888888888888889,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:52:56.476972"
+  },
+  "yotakayama-STLCCP-edcfad4": {
+    "exact_match_rate": 0.5,
+    "average_edit_similarity": 0.6799999999999999,
+    "total_examples": 2,
+    "processed_at": "2025-08-05T18:53:38.900825"
+  },
+  "diohabara-pychd-b1d0a38": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.6333333333333333,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T18:53:56.586844"
+  },
+  "Jason-Qiu-MultiSum_model-c4c58dd": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T18:54:24.314285"
+  },
+  "beidongjiedeguang-openai-forward-c2c2757": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.65,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T18:54:41.078765"
+  },
+  "amazon-science-random-tma-43df305": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.75,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T18:55:20.468772"
+  },
+  "jtext-103-jddb-077b729": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.39682539682539686,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T18:55:43.471952"
+  },
+  "gitguesser-gitguesser-297d633": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T18:56:02.870177"
+  },
+  "babylm-baseline-pretraining-43acf2a": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.4864864864864865,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T18:56:24.121254"
+  },
+  "FrancescoSaverioZuppichini-LinkedInGPT-e0c1552": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.31818181818181823,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T18:56:45.250484"
+  },
+  "thb1314-maskrcnn-tensorrt-1bafff6": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T18:57:10.865417"
+  },
+  "finopsfoundation-focus-spec-validator-7efbac5": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T18:57:34.176619"
+  },
+  "sshh12-llm_oracle-79c8b59": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.47916666666666663,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T18:57:54.738896"
+  },
+  "OpenGVLab-VideoMAEv2-9492db0": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T18:58:31.143818"
+  },
+  "aws-samples-amazon-codewhisperer-immersion-day-7b3dc66": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.7714285714285715,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T18:58:50.987007"
+  },
+  "heng840-All_pipeline_Information_Extraction-e94dd96": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.6956521739130435,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T18:59:17.212324"
+  },
+  "david-a-jetter-pydantic-dynamo-ff0aa6d": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.9333333333333333,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T18:59:45.048304"
+  },
+  "oriyor-reasoning-on-cots-9ae01ce": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.7291666666666667,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:00:16.218062"
+  },
+  "minyoungg-vqtorch-d0022ea": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:00:38.163176"
+  },
+  "Josh-XT-AGiXT-828a01d": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.7727272727272727,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:01:09.170873"
+  },
+  "OvO1111-EfficientSubclassLearning-afdd90e": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.7631578947368421,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:01:40.321900"
+  },
+  "dSupertramp-PubGPT-253ec52": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:02:00.337221"
+  },
+  "Fsoft-AIC-Class-Based-Influence-Functions-b957b78": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.78,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:02:26.832614"
+  },
+  "flatironinstitute-mountainsort5-3e85076": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.9393939393939394,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:02:48.651522"
+  },
+  "crypto-jobs-fyi-crawler-b0596e6": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.6857142857142857,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:03:12.330367"
+  },
+  "UKPLab-nlpeer-f81f4bb": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.5833333333333333,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:03:40.643172"
+  },
+  "memew1se-OpenRSS-f7b766b": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.5,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:07:10.828471"
+  },
+  "IBM-auto-contrastive-generation-4874a25": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:07:31.856267"
+  },
+  "OpenAccess-AI-Collective-axolotl-2c37bf6": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.4363636363636364,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:08:02.523339"
+  },
+  "mobarski-aidapter-48fd7a8": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.375,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:08:19.761713"
+  },
+  "deepmatterltd-rdfreader-a811645": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.5882352941176471,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:08:39.517229"
+  },
+  "dropreg-ChatMLM-273477a": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.42307692307692313,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:09:13.242408"
+  },
+  "pro470-Live-Save-for-Blender-3b5c1c2": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:09:35.214323"
+  },
+  "Typing-Monkeys-complex-network-link-prediction-cf69190": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:09:53.694042"
+  },
+  "algorand-conduit-bcb54fd": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.45999999999999996,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:10:13.854630"
+  },
+  "ieasybooks-tafrigh-4aece79": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.8260869565217391,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:10:32.128465"
+  },
+  "CPJKU-paow-c8ead3d": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.9411764705882353,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:10:59.290036"
+  },
+  "ezhang7423-language-control-diffusion-63cdafb": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.7692307692307692,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:11:39.942511"
+  },
+  "krishnaik06-Text-Summarization-NLP-Project-3308112": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.9016393442622951,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:11:57.814877"
+  },
+  "nvidia-holoscan-holoscan-test-suite-e7a809d": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.6521739130434783,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:12:20.607442"
+  },
+  "brown-ivl-Cafi-Net-6171499": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.736842105263158,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:13:00.518562"
+  },
+  "Srameo-DNF-974080a": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.13953488372093026,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:13:35.879486"
+  },
+  "0xDebabrata-citrus-3621143": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.9375,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:13:55.725295"
+  },
+  "bytedance-uss-0c15a08": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.1515151515151515,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:14:26.450496"
+  },
+  "stac-utils-stac-asset-a83c660": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.625,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:14:47.481626"
+  },
+  "vetka925-llms-lora-8bit-4bit-finetuning-lit-eb1b149": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.8035714285714286,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:15:12.626210"
+  },
+  "Herta-villa-Herta-villa-SDK-c862c3b": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.368421052631579,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:15:40.095299"
+  },
+  "f-inc-dynamic-e4036a7": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:16:06.006152"
+  },
+  "celyes-checkr-dabd705": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.475,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:16:23.295337"
+  },
+  "hcmlab-GANonymization-a917aba": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.6153846153846154,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:16:51.623294"
+  },
+  "fritzsedlazeck-Spectre-01b8ed5": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.07692307692307687,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:17:20.670060"
+  },
+  "twopointone-stripe-integrations-ec992eb": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:17:43.046860"
+  },
+  "jamescalam-ask-lex-plugin-3769174": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.3157894736842105,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:18:08.169849"
+  },
+  "wheretrue-biobear-5be051c": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.32258064516129037,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:18:27.890254"
+  },
+  "weaweawe01-luajit_decompile-2b32d4b": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:18:58.534557"
+  },
+  "gabrielmbmb-kaflow-1c5ec86": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:19:23.023512"
+  },
+  "huanranchen-EnergyBasedGenerativeModel-ad5989a": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.4736842105263158,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:19:54.677155"
+  },
+  "snu-mllab-Efficient-CNN-Depth-Compression-2828ae8": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.2068965517241379,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:20:18.990455"
+  },
+  "leggedrobotics-rayen-2ac7086": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.6346153846153846,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:20:41.954249"
+  },
+  "sonic-net-sonic-platform-vpp-e8483f4": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.38888888888888884,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:21:02.750340"
+  },
+  "gdsfactory-gf180-3407e7a": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.17647058823529416,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:21:32.087120"
+  },
+  "KTH-FlowAI-DeepReinforcementLearning_RayleighBenard2D_Control-d1a8dd6": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.5,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:22:01.869908"
+  },
+  "opticore-netbox-nornir-3cd275e": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.2676056338028169,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:22:31.014722"
+  },
+  "Tlntin-ChatGLM2-6B-TensorRT-bd55117": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.7586206896551724,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:23:03.781972"
+  },
+  "phac-nml-rebar-aef5b97": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.8214285714285714,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:23:26.904666"
+  },
+  "yanqingmen-ask-api-69926aa": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:23:46.794285"
+  },
+  "LeoMo-27-FastAPI-template-f19c7aa": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:24:06.940010"
+  },
+  "profcomff-social-api-d0b645b": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.75,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:24:26.006359"
+  },
+  "chrisli-kw-AutoTradingPlatform-e59fcfe": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.9523809523809523,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:24:57.543781"
+  },
+  "entbappy-cnnClassifier-acadb8a": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:25:17.114976"
+  },
+  "gdsfactory-kplugins-7a5f7b4": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.27586206896551724,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:25:44.564226"
+  },
+  "drubinstein-python-compose-f3ab44c": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:26:03.912669"
+  },
+  "NoFish-528-encodec-pytorch-9c2f4a0": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:26:30.376960"
+  },
+  "clear-nus-NCDSSM-7212bba": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.6976744186046512,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:27:02.249844"
+  },
+  "decodableco-dbt-decodable-8ef941c": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:27:25.457930"
+  },
+  "deadblue-py115-ecdcb93": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.4390243902439024,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:27:47.612419"
+  },
+  "34j-boost-loss-ff08630": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:28:11.619769"
+  },
+  "AlphaDinosaur89-glang-de75a3e": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.7543859649122807,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:28:35.150842"
+  },
+  "NKI-AI-STAPLER-bf072e9": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:28:56.643608"
+  },
+  "leonelhs-face-shine-8f21b90": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:29:19.226479"
+  },
+  "tconbeer-textual-textarea-24fab5a": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:29:37.905665"
+  },
+  "kyegomez-Blockwise-Parallel-Transformer-f849b04": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:30:08.301415"
+  },
+  "stn-tap-jquants-336373c": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:30:28.080088"
+  },
+  "questdb-questdb-connect-459ecb6": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.2727272727272727,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:30:47.500154"
+  },
+  "deep-diver-PingPong-7ace26b": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:31:12.487568"
+  },
+  "MatteoSalvatori-INCE-23e589c": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:31:32.451930"
+  },
+  "danyi1212-celery-insights-a742653": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:31:57.105514"
+  },
+  "airdot-io-airdot-deployer-4897777": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.5135135135135135,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:32:18.743131"
+  },
+  "sebastienrousseau-pain001-86a271f": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:32:57.042005"
+  },
+  "kumitterer-matrix-gptbot-d2c6682": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.7333333333333334,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:33:18.383836"
+  },
+  "dory111111-Pengenuity-297d9ee": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.8085106382978724,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:33:38.724535"
+  },
+  "CassioML-cassio-7953897": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.06349206349206349,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:34:02.717748"
+  },
+  "gnbonney-SymLogos-08a26af": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:35:03.527650"
+  },
+  "caniko-pydantic-numpy-abcfd59": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:35:28.557468"
+  },
+  "DMSintalor-OJ-Be-f04ae6e": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.8076923076923077,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:35:45.295164"
+  },
+  "motherofcoconuts-async-dramatiq-b9512a1": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.2857142857142857,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:36:04.000095"
+  },
+  "janvarev-OneRingTranslator-e4dab8d": {
+    "exact_match_rate": 1.0,
+    "average_edit_similarity": 1.0,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:36:28.138586"
+  },
+  "meh9-game-of-life-8767f07": {
+    "exact_match_rate": 0.0,
+    "average_edit_similarity": 0.9696969696969697,
+    "total_examples": 1,
+    "processed_at": "2025-08-05T19:36:51.225694"
+  }
+}

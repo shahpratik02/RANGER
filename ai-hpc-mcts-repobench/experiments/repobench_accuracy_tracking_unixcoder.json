@@ -1,0 +1,58 @@
+{
+  "mpenning/ciscoconfparse2": {
+    "accuracy": 0.0,
+    "mrr": 0.0,
+    "ndcg": 0.0,
+    "total_examples": 86,
+    "correct_retrievals": 0,
+    "processed_at": "2025-07-20T10:37:10.871380"
+  },
+  "MarilynKeller/aitviewer-skel": {
+    "accuracy": 0.0,
+    "mrr": 0.0,
+    "ndcg": 0.0,
+    "total_examples": 64,
+    "correct_retrievals": 0,
+    "processed_at": "2025-07-20T10:38:16.147755"
+  },
+  "Jisshubot/JISSHU_BOT": {
+    "accuracy": 0.0,
+    "mrr": 0.0,
+    "ndcg": 0.0,
+    "total_examples": 63,
+    "correct_retrievals": 0,
+    "processed_at": "2025-07-20T10:38:40.828619"
+  },
+  "KosinskiLab/pyTME": {
+    "accuracy": 0.0,
+    "mrr": 0.0,
+    "ndcg": 0.0,
+    "total_examples": 58,
+    "correct_retrievals": 0,
+    "processed_at": "2025-07-20T10:39:31.473578"
+  },
+  "IBM/VillanDiffusion": {
+    "accuracy": 0.0,
+    "mrr": 0.0,
+    "ndcg": 0.0,
+    "total_examples": 48,
+    "correct_retrievals": 0,
+    "processed_at": "2025-07-20T11:12:53.128839"
+  },
+  "ahayler/s4c": {
+    "accuracy": 0.0,
+    "mrr": 0.0,
+    "ndcg": 0.0,
+    "total_examples": 46,
+    "correct_retrievals": 0,
+    "processed_at": "2025-07-20T11:14:11.316357"
+  },
+  "MTgeophysics/mtpy-v2": {
+    "accuracy": 0.0,
+    "mrr": 0.0,
+    "ndcg": 0.0,
+    "total_examples": 46,
+    "correct_retrievals": 0,
+    "processed_at": "2025-07-20T11:16:06.405792"
+  }
+}

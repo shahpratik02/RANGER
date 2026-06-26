@@ -1,0 +1,1508 @@
+{
+  "repositories": {
+    "apache/airflow": {
+      "repo_name": "apache/airflow",
+      "total_graph_nodes": 1321,
+      "queries": {
+        "6": {
+          "query_text": "postgresql connection",
+          "ndcg_10": 0.2890648263178879,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 251
+        },
+        "55": {
+          "query_text": "how to get database table name",
+          "ndcg_10": 0.5380028809497279,
+          "recall_10": 1.0,
+          "total_relevant": 3,
+          "relevant_retrieved": 3,
+          "mcts_tree_nodes": 229
+        },
+        "82": {
+          "query_text": "convert a utc time to epoch",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 249
+        }
+      },
+      "repo_stats": {
+        "total_queries": 4,
+        "avg_ndcg_10": 0.6090225690892053,
+        "avg_recall_10": 1.0
+      }
+    },
+    "spyder-ide/spyder": {
+      "repo_name": "spyder-ide/spyder",
+      "total_graph_nodes": 2867,
+      "queries": {
+        "48": {
+          "query_text": "copy to clipboard",
+          "ndcg_10": 0.27541155237618664,
+          "recall_10": 0.5,
+          "total_relevant": 2,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 255
+        },
+        "59": {
+          "query_text": "regex case insensitive",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 362
+        },
+        "8": {
+          "query_text": "set working directory",
+          "ndcg_10": 0.7074887171046738,
+          "recall_10": 1.0,
+          "total_relevant": 2,
+          "relevant_retrieved": 2,
+          "mcts_tree_nodes": 238
+        },
+        "28": {
+          "query_text": "read text file line by line",
+          "ndcg_10": 0.0,
+          "recall_10": 0.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 0,
+          "mcts_tree_nodes": 371
+        }
+      },
+      "repo_stats": {
+        "total_queries": 4,
+        "avg_ndcg_10": 0.4957250673702151,
+        "avg_recall_10": 0.625
+      }
+    },
+    "log2timeline/plaso": {
+      "repo_name": "log2timeline/plaso",
+      "total_graph_nodes": 2735,
+      "queries": {
+        "13": {
+          "query_text": "socket recv timeout",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 194
+        },
+        "3": {
+          "query_text": "string to date",
+          "ndcg_10": 0.0,
+          "recall_10": 0.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 0,
+          "mcts_tree_nodes": 234
+        }
+      },
+      "repo_stats": {
+        "total_queries": 5,
+        "avg_ndcg_10": 0.5,
+        "avg_recall_10": 0.5
+      }
+    },
+    "aloetesting/aloe_webdriver": {
+      "repo_name": "aloetesting/aloe_webdriver",
+      "total_graph_nodes": 7,
+      "queries": {},
+      "repo_stats": {
+        "total_queries": 2,
+        "avg_ndcg_10": 0.0,
+        "avg_recall_10": 0.0
+      }
+    },
+    "nickmckay/LiPD-utilities": {
+      "repo_name": "nickmckay/LiPD-utilities",
+      "total_graph_nodes": 157,
+      "queries": {
+        "18": {
+          "query_text": "convert json to csv",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 180
+        },
+        "61": {
+          "query_text": "how to determine a string is a valid word",
+          "ndcg_10": 0.3333333333333333,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 240
+        },
+        "84": {
+          "query_text": "extract latitude and longitude from given input",
+          "ndcg_10": 0.6309297535714575,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 259
+        }
+      },
+      "repo_stats": {
+        "total_queries": 4,
+        "avg_ndcg_10": 0.6547543623015969,
+        "avg_recall_10": 1.0
+      }
+    },
+    "materialsproject/pymatgen": {
+      "repo_name": "materialsproject/pymatgen",
+      "total_graph_nodes": 3807,
+      "queries": {
+        "8": {
+          "query_text": "set working directory",
+          "ndcg_10": 0.8175295903539445,
+          "recall_10": 1.0,
+          "total_relevant": 2,
+          "relevant_retrieved": 2,
+          "mcts_tree_nodes": 223
+        }
+      },
+      "repo_stats": {
+        "total_queries": 1,
+        "avg_ndcg_10": 0.8175295903539445,
+        "avg_recall_10": 1.0
+      }
+    },
+    "RudolfCardinal/pythonlib": {
+      "repo_name": "RudolfCardinal/pythonlib",
+      "total_graph_nodes": 391,
+      "queries": {},
+      "repo_stats": {
+        "total_queries": 3,
+        "avg_ndcg_10": 0.0,
+        "avg_recall_10": 0.0
+      }
+    },
+    "chemlab/chemlab": {
+      "repo_name": "chemlab/chemlab",
+      "total_graph_nodes": 167,
+      "queries": {
+        "10": {
+          "query_text": "binomial distribution",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 267
+        }
+      },
+      "repo_stats": {
+        "total_queries": 1,
+        "avg_ndcg_10": 1.0,
+        "avg_recall_10": 1.0
+      }
+    },
+    "readbeyond/aeneas": {
+      "repo_name": "readbeyond/aeneas",
+      "total_graph_nodes": 583,
+      "queries": {
+        "47": {
+          "query_text": "read properties file",
+          "ndcg_10": 0.6309297535714575,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 249
+        },
+        "4": {
+          "query_text": "sort string list",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 242
+        },
+        "98": {
+          "query_text": "output to html file",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 217
+        }
+      },
+      "repo_stats": {
+        "total_queries": 3,
+        "avg_ndcg_10": 0.8769765845238192,
+        "avg_recall_10": 1.0
+      }
+    },
+    "google/mobly": {
+      "repo_name": "google/mobly",
+      "total_graph_nodes": 249,
+      "queries": {
+        "82": {
+          "query_text": "convert a utc time to epoch",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 174
+        },
+        "91": {
+          "query_text": "extracting data from a text file",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 189
+        }
+      },
+      "repo_stats": {
+        "total_queries": 3,
+        "avg_ndcg_10": 1.0,
+        "avg_recall_10": 1.0
+      }
+    },
+    "neherlab/treetime": {
+      "repo_name": "neherlab/treetime",
+      "total_graph_nodes": 227,
+      "queries": {
+        "94": {
+          "query_text": "deducting the median from each column",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 148
+        }
+      },
+      "repo_stats": {
+        "total_queries": 3,
+        "avg_ndcg_10": 1.0,
+        "avg_recall_10": 1.0
+      }
+    },
+    "pandas-dev/pandas": {
+      "repo_name": "pandas-dev/pandas",
+      "total_graph_nodes": 2075,
+      "queries": {},
+      "repo_stats": {
+        "total_queries": 3,
+        "avg_ndcg_10": 0.0,
+        "avg_recall_10": 0.0
+      }
+    },
+    "apache/spark": {
+      "repo_name": "apache/spark",
+      "total_graph_nodes": 1049,
+      "queries": {
+        "65": {
+          "query_text": "string similarity levenshtein",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 383
+        },
+        "69": {
+          "query_text": "matrix multiply",
+          "ndcg_10": 0.9134015924715543,
+          "recall_10": 1.0,
+          "total_relevant": 2,
+          "relevant_retrieved": 2,
+          "mcts_tree_nodes": 316
+        }
+      },
+      "repo_stats": {
+        "total_queries": 2,
+        "avg_ndcg_10": 0.9567007962357772,
+        "avg_recall_10": 1.0
+      }
+    },
+    "tamasgal/km3pipe": {
+      "repo_name": "tamasgal/km3pipe",
+      "total_graph_nodes": 245,
+      "queries": {
+        "28": {
+          "query_text": "read text file line by line",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 240
+        },
+        "94": {
+          "query_text": "deducting the median from each column",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 231
+        }
+      },
+      "repo_stats": {
+        "total_queries": 3,
+        "avg_ndcg_10": 1.0,
+        "avg_recall_10": 1.0
+      }
+    },
+    "cggh/scikit-allel": {
+      "repo_name": "cggh/scikit-allel",
+      "total_graph_nodes": 135,
+      "queries": {
+        "54": {
+          "query_text": "hash set for counting distinct elements",
+          "ndcg_10": 0.0,
+          "recall_10": 0.0,
+          "total_relevant": 2,
+          "relevant_retrieved": 0,
+          "mcts_tree_nodes": 178
+        }
+      },
+      "repo_stats": {
+        "total_queries": 1,
+        "avg_ndcg_10": 0.0,
+        "avg_recall_10": 0.0
+      }
+    },
+    "miyakogi/wdom": {
+      "repo_name": "miyakogi/wdom",
+      "total_graph_nodes": 183,
+      "queries": {
+        "31": {
+          "query_text": "get inner html",
+          "ndcg_10": 0.8885994691336017,
+          "recall_10": 1.0,
+          "total_relevant": 3,
+          "relevant_retrieved": 3,
+          "mcts_tree_nodes": 133
+        }
+      },
+      "repo_stats": {
+        "total_queries": 1,
+        "avg_ndcg_10": 0.8885994691336017,
+        "avg_recall_10": 1.0
+      }
+    },
+    "turicas/rows": {
+      "repo_name": "turicas/rows",
+      "total_graph_nodes": 7,
+      "queries": {
+        "16": {
+          "query_text": "export to excel",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 81
+        },
+        "93": {
+          "query_text": "reading element from html - <td>",
+          "ndcg_10": 0.6309297535714575,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 77
+        }
+      },
+      "repo_stats": {
+        "total_queries": 2,
+        "avg_ndcg_10": 0.8154648767857288,
+        "avg_recall_10": 1.0
+      }
+    },
+    "ulf1/oxyba": {
+      "repo_name": "ulf1/oxyba",
+      "total_graph_nodes": 1,
+      "queries": {
+        "53": {
+          "query_text": "nelder mead optimize",
+          "ndcg_10": 0.0,
+          "recall_10": 0.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 0,
+          "mcts_tree_nodes": 0
+        },
+        "12": {
+          "query_text": "linear regression",
+          "ndcg_10": 0.0,
+          "recall_10": 0.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 0,
+          "mcts_tree_nodes": 0
+        }
+      },
+      "repo_stats": {
+        "total_queries": 2,
+        "avg_ndcg_10": 0.0,
+        "avg_recall_10": 0.0
+      }
+    },
+    "gem/oq-engine": {
+      "repo_name": "gem/oq-engine",
+      "total_graph_nodes": 2205,
+      "queries": {
+        "14": {
+          "query_text": "write csv",
+          "ndcg_10": 0.5,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 253
+        }
+      },
+      "repo_stats": {
+        "total_queries": 2,
+        "avg_ndcg_10": 0.5,
+        "avg_recall_10": 1.0
+      }
+    },
+    "pypa/pipenv": {
+      "repo_name": "pypa/pipenv",
+      "total_graph_nodes": 1923,
+      "queries": {
+        "81": {
+          "query_text": "convert a date string into yyyymmdd",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 323
+        },
+        "29": {
+          "query_text": "get executable path",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 242
+        },
+        "41": {
+          "query_text": "create cookie",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 338
+        }
+      },
+      "repo_stats": {
+        "total_queries": 3,
+        "avg_ndcg_10": 1.0,
+        "avg_recall_10": 1.0
+      }
+    },
+    "Erotemic/utool": {
+      "repo_name": "Erotemic/utool",
+      "total_graph_nodes": 139,
+      "queries": {
+        "80": {
+          "query_text": "randomly extract x items from a list",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 2,
+          "relevant_retrieved": 2,
+          "mcts_tree_nodes": 420
+        }
+      },
+      "repo_stats": {
+        "total_queries": 2,
+        "avg_ndcg_10": 1.0,
+        "avg_recall_10": 1.0
+      }
+    },
+    "KelSolaar/Umbra": {
+      "repo_name": "KelSolaar/Umbra",
+      "total_graph_nodes": 983,
+      "queries": {
+        "63": {
+          "query_text": "set file attrib hidden",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 379
+        },
+        "31": {
+          "query_text": "get inner html",
+          "ndcg_10": 0.6309297535714575,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 374
+        }
+      },
+      "repo_stats": {
+        "total_queries": 2,
+        "avg_ndcg_10": 0.8154648767857288,
+        "avg_recall_10": 1.0
+      }
+    },
+    "hollenstein/maspy": {
+      "repo_name": "hollenstein/maspy",
+      "total_graph_nodes": 145,
+      "queries": {
+        "94": {
+          "query_text": "deducting the median from each column",
+          "ndcg_10": 0.6309297535714575,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 161
+        },
+        "92": {
+          "query_text": "positions of substrings in string",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 165
+        }
+      },
+      "repo_stats": {
+        "total_queries": 2,
+        "avg_ndcg_10": 0.8154648767857288,
+        "avg_recall_10": 1.0
+      }
+    },
+    "radjkarl/imgProcessor": {
+      "repo_name": "radjkarl/imgProcessor",
+      "total_graph_nodes": 131,
+      "queries": {
+        "86": {
+          "query_text": "converting uint8 array to image",
+          "ndcg_10": 0.4744352910551497,
+          "recall_10": 1.0,
+          "total_relevant": 2,
+          "relevant_retrieved": 2,
+          "mcts_tree_nodes": 190
+        }
+      },
+      "repo_stats": {
+        "total_queries": 1,
+        "avg_ndcg_10": 0.4744352910551497,
+        "avg_recall_10": 1.0
+      }
+    },
+    "mushkevych/scheduler": {
+      "repo_name": "mushkevych/scheduler",
+      "total_graph_nodes": 275,
+      "queries": {
+        "2": {
+          "query_text": "priority queue",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 239
+        },
+        "81": {
+          "query_text": "convert a date string into yyyymmdd",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 231
+        }
+      },
+      "repo_stats": {
+        "total_queries": 2,
+        "avg_ndcg_10": 1.0,
+        "avg_recall_10": 1.0
+      }
+    },
+    "kgori/treeCl": {
+      "repo_name": "kgori/treeCl",
+      "total_graph_nodes": 213,
+      "queries": {
+        "73": {
+          "query_text": "heatmap from 3d coordinates",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 2,
+          "relevant_retrieved": 2,
+          "mcts_tree_nodes": 195
+        },
+        "29": {
+          "query_text": "get executable path",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 181
+        }
+      },
+      "repo_stats": {
+        "total_queries": 2,
+        "avg_ndcg_10": 1.0,
+        "avg_recall_10": 1.0
+      }
+    },
+    "oscarbranson/latools": {
+      "repo_name": "oscarbranson/latools",
+      "total_graph_nodes": 197,
+      "queries": {
+        "21": {
+          "query_text": "k means clustering",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 157
+        },
+        "75": {
+          "query_text": "how to extract zip file recursively",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 146
+        }
+      },
+      "repo_stats": {
+        "total_queries": 3,
+        "avg_ndcg_10": 1.0,
+        "avg_recall_10": 1.0
+      }
+    },
+    "SheffieldML/GPyOpt": {
+      "repo_name": "SheffieldML/GPyOpt",
+      "total_graph_nodes": 209,
+      "queries": {
+        "53": {
+          "query_text": "nelder mead optimize",
+          "ndcg_10": 0.13539213147917573,
+          "recall_10": 0.5,
+          "total_relevant": 2,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 179
+        }
+      },
+      "repo_stats": {
+        "total_queries": 1,
+        "avg_ndcg_10": 0.13539213147917573,
+        "avg_recall_10": 0.5
+      }
+    },
+    "OLC-Bioinformatics/sipprverse": {
+      "repo_name": "OLC-Bioinformatics/sipprverse",
+      "total_graph_nodes": 185,
+      "queries": {
+        "77": {
+          "query_text": "unzipping large files",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 157
+        },
+        "78": {
+          "query_text": "copying a file to a path",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 147
+        }
+      },
+      "repo_stats": {
+        "total_queries": 2,
+        "avg_ndcg_10": 1.0,
+        "avg_recall_10": 1.0
+      }
+    },
+    "Shapeways/coyote_framework": {
+      "repo_name": "Shapeways/coyote_framework",
+      "total_graph_nodes": 209,
+      "queries": {},
+      "repo_stats": {
+        "total_queries": 2,
+        "avg_ndcg_10": 0.0,
+        "avg_recall_10": 0.0
+      }
+    },
+    "thomasdelaet/python-velbus": {
+      "repo_name": "thomasdelaet/python-velbus",
+      "total_graph_nodes": 187,
+      "queries": {
+        "90": {
+          "query_text": "sending binary data over a serial connection",
+          "ndcg_10": 0.5714285040141098,
+          "recall_10": 1.0,
+          "total_relevant": 2,
+          "relevant_retrieved": 2,
+          "mcts_tree_nodes": 141
+        }
+      },
+      "repo_stats": {
+        "total_queries": 1,
+        "avg_ndcg_10": 0.5714285040141098,
+        "avg_recall_10": 1.0
+      }
+    },
+    "AshleySetter/optoanalysis": {
+      "repo_name": "AshleySetter/optoanalysis",
+      "total_graph_nodes": 47,
+      "queries": {
+        "45": {
+          "query_text": "initializing array",
+          "ndcg_10": 0.0,
+          "recall_10": 0.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 0,
+          "mcts_tree_nodes": 165
+        }
+      },
+      "repo_stats": {
+        "total_queries": 1,
+        "avg_ndcg_10": 0.0,
+        "avg_recall_10": 0.0
+      }
+    },
+    "aws/aws-xray-sdk-python": {
+      "repo_name": "aws/aws-xray-sdk-python",
+      "total_graph_nodes": 125,
+      "queries": {
+        "82": {
+          "query_text": "convert a utc time to epoch",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 143
+        }
+      },
+      "repo_stats": {
+        "total_queries": 1,
+        "avg_ndcg_10": 1.0,
+        "avg_recall_10": 1.0
+      }
+    },
+    "mosesschwartz/scrypture": {
+      "repo_name": "mosesschwartz/scrypture",
+      "total_graph_nodes": 5,
+      "queries": {},
+      "repo_stats": {
+        "total_queries": 2,
+        "avg_ndcg_10": 0.0,
+        "avg_recall_10": 0.0
+      }
+    },
+    "loverajoel/sqlalchemy-elasticquery": {
+      "repo_name": "loverajoel/sqlalchemy-elasticquery",
+      "total_graph_nodes": 11,
+      "queries": {},
+      "repo_stats": {
+        "total_queries": 2,
+        "avg_ndcg_10": 0.0,
+        "avg_recall_10": 0.0
+      }
+    },
+    "tensorflow/tensor2tensor": {
+      "repo_name": "tensorflow/tensor2tensor",
+      "total_graph_nodes": 545,
+      "queries": {
+        "36": {
+          "query_text": "map to json",
+          "ndcg_10": 0.0,
+          "recall_10": 0.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 0,
+          "mcts_tree_nodes": 478
+        }
+      },
+      "repo_stats": {
+        "total_queries": 2,
+        "avg_ndcg_10": 0.0,
+        "avg_recall_10": 0.0
+      }
+    },
+    "bitesofcode/projexui": {
+      "repo_name": "bitesofcode/projexui",
+      "total_graph_nodes": 3319,
+      "queries": {
+        "76": {
+          "query_text": "underline text in label widget",
+          "ndcg_10": 0.0,
+          "recall_10": 0.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 0,
+          "mcts_tree_nodes": 243
+        },
+        "48": {
+          "query_text": "copy to clipboard",
+          "ndcg_10": 0.0,
+          "recall_10": 0.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 0,
+          "mcts_tree_nodes": 212
+        }
+      },
+      "repo_stats": {
+        "total_queries": 2,
+        "avg_ndcg_10": 0.0,
+        "avg_recall_10": 0.0
+      }
+    },
+    "senaite/senaite.core": {
+      "repo_name": "senaite/senaite.core",
+      "total_graph_nodes": 1535,
+      "queries": {
+        "49": {
+          "query_text": "convert html to pdf",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 318
+        }
+      },
+      "repo_stats": {
+        "total_queries": 1,
+        "avg_ndcg_10": 1.0,
+        "avg_recall_10": 1.0
+      }
+    },
+    "fabioz/PyDev.Debugger": {
+      "repo_name": "fabioz/PyDev.Debugger",
+      "total_graph_nodes": 1513,
+      "queries": {
+        "15": {
+          "query_text": "convert decimal to hex",
+          "ndcg_10": 0.3333333333333333,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 207
+        },
+        "58": {
+          "query_text": "get current process id",
+          "ndcg_10": 0.3010299956639812,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 268
+        }
+      },
+      "repo_stats": {
+        "total_queries": 2,
+        "avg_ndcg_10": 0.31718166449865726,
+        "avg_recall_10": 1.0
+      }
+    },
+    "wummel/linkchecker": {
+      "repo_name": "wummel/linkchecker",
+      "total_graph_nodes": 907,
+      "queries": {
+        "95": {
+          "query_text": "concatenate several file remove header lines",
+          "ndcg_10": 0.6309297535714575,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 396
+        }
+      },
+      "repo_stats": {
+        "total_queries": 2,
+        "avg_ndcg_10": 0.6309297535714575,
+        "avg_recall_10": 1.0
+      }
+    },
+    "boriel/zxbasic": {
+      "repo_name": "boriel/zxbasic",
+      "total_graph_nodes": 355,
+      "queries": {
+        "27": {
+          "query_text": "convert int to bool",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 291
+        }
+      },
+      "repo_stats": {
+        "total_queries": 2,
+        "avg_ndcg_10": 1.0,
+        "avg_recall_10": 1.0
+      }
+    },
+    "quantopian/zipline": {
+      "repo_name": "quantopian/zipline",
+      "total_graph_nodes": 671,
+      "queries": {
+        "12": {
+          "query_text": "linear regression",
+          "ndcg_10": 0.0,
+          "recall_10": 0.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 0,
+          "mcts_tree_nodes": 384
+        },
+        "14": {
+          "query_text": "write csv",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 385
+        }
+      },
+      "repo_stats": {
+        "total_queries": 2,
+        "avg_ndcg_10": 0.5,
+        "avg_recall_10": 0.5
+      }
+    },
+    "ThreatConnect-Inc/tcex": {
+      "repo_name": "ThreatConnect-Inc/tcex",
+      "total_graph_nodes": 1013,
+      "queries": {},
+      "repo_stats": {
+        "total_queries": 2,
+        "avg_ndcg_10": 0.0,
+        "avg_recall_10": 0.0
+      }
+    },
+    "pybel/pybel": {
+      "repo_name": "pybel/pybel",
+      "total_graph_nodes": 437,
+      "queries": {},
+      "repo_stats": {
+        "total_queries": 1,
+        "avg_ndcg_10": 0.0,
+        "avg_recall_10": 0.0
+      }
+    },
+    "h2oai/h2o-3": {
+      "repo_name": "h2oai/h2o-3",
+      "total_graph_nodes": 549,
+      "queries": {
+        "7": {
+          "query_text": "confusion matrix",
+          "ndcg_10": 0.3562071871080222,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 210
+        },
+        "70": {
+          "query_text": "print model summary",
+          "ndcg_10": 0.0,
+          "recall_10": 0.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 0,
+          "mcts_tree_nodes": 305
+        }
+      },
+      "repo_stats": {
+        "total_queries": 2,
+        "avg_ndcg_10": 0.1781035935540111,
+        "avg_recall_10": 0.5
+      }
+    },
+    "MillionIntegrals/vel": {
+      "repo_name": "MillionIntegrals/vel",
+      "total_graph_nodes": 461,
+      "queries": {
+        "70": {
+          "query_text": "print model summary",
+          "ndcg_10": 0.6509209298071326,
+          "recall_10": 1.0,
+          "total_relevant": 2,
+          "relevant_retrieved": 2,
+          "mcts_tree_nodes": 254
+        }
+      },
+      "repo_stats": {
+        "total_queries": 1,
+        "avg_ndcg_10": 0.6509209298071326,
+        "avg_recall_10": 1.0
+      }
+    },
+    "markovmodel/PyEMMA": {
+      "repo_name": "markovmodel/PyEMMA",
+      "total_graph_nodes": 277,
+      "queries": {
+        "21": {
+          "query_text": "k means clustering",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 2,
+          "relevant_retrieved": 2,
+          "mcts_tree_nodes": 294
+        }
+      },
+      "repo_stats": {
+        "total_queries": 1,
+        "avg_ndcg_10": 1.0,
+        "avg_recall_10": 1.0
+      }
+    },
+    "ibis-project/ibis": {
+      "repo_name": "ibis-project/ibis",
+      "total_graph_nodes": 235,
+      "queries": {
+        "92": {
+          "query_text": "positions of substrings in string",
+          "ndcg_10": 0.6309297535714575,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 246
+        }
+      },
+      "repo_stats": {
+        "total_queries": 2,
+        "avg_ndcg_10": 0.6309297535714575,
+        "avg_recall_10": 1.0
+      }
+    },
+    "klahnakoski/pyLibrary": {
+      "repo_name": "klahnakoski/pyLibrary",
+      "total_graph_nodes": 241,
+      "queries": {
+        "4": {
+          "query_text": "sort string list",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 273
+        },
+        "74": {
+          "query_text": "get all parents of xml node",
+          "ndcg_10": 0.38685280723454163,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 285
+        }
+      },
+      "repo_stats": {
+        "total_queries": 2,
+        "avg_ndcg_10": 0.6934264036172708,
+        "avg_recall_10": 1.0
+      }
+    },
+    "mabuchilab/QNET": {
+      "repo_name": "mabuchilab/QNET",
+      "total_graph_nodes": 251,
+      "queries": {
+        "83": {
+          "query_text": "all permutations of a list",
+          "ndcg_10": 0.0,
+          "recall_10": 0.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 0,
+          "mcts_tree_nodes": 250
+        }
+      },
+      "repo_stats": {
+        "total_queries": 1,
+        "avg_ndcg_10": 0.0,
+        "avg_recall_10": 0.0
+      }
+    },
+    "google/transitfeed": {
+      "repo_name": "google/transitfeed",
+      "total_graph_nodes": 407,
+      "queries": {},
+      "repo_stats": {
+        "total_queries": 1,
+        "avg_ndcg_10": 0.0,
+        "avg_recall_10": 0.0
+      }
+    },
+    "aleju/imgaug": {
+      "repo_name": "aleju/imgaug",
+      "total_graph_nodes": 347,
+      "queries": {
+        "73": {
+          "query_text": "heatmap from 3d coordinates",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 177
+        },
+        "86": {
+          "query_text": "converting uint8 array to image",
+          "ndcg_10": 0.43067655807339306,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 142
+        }
+      },
+      "repo_stats": {
+        "total_queries": 2,
+        "avg_ndcg_10": 0.7153382790366966,
+        "avg_recall_10": 1.0
+      }
+    },
+    "Unidata/MetPy": {
+      "repo_name": "Unidata/MetPy",
+      "total_graph_nodes": 67,
+      "queries": {
+        "84": {
+          "query_text": "extract latitude and longitude from given input",
+          "ndcg_10": 0.6309297535714575,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 210
+        }
+      },
+      "repo_stats": {
+        "total_queries": 1,
+        "avg_ndcg_10": 0.6309297535714575,
+        "avg_recall_10": 1.0
+      }
+    },
+    "hubo1016/vlcp": {
+      "repo_name": "hubo1016/vlcp",
+      "total_graph_nodes": 335,
+      "queries": {
+        "41": {
+          "query_text": "create cookie",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 191
+        }
+      },
+      "repo_stats": {
+        "total_queries": 2,
+        "avg_ndcg_10": 1.0,
+        "avg_recall_10": 1.0
+      }
+    },
+    "funilrys/PyFunceble": {
+      "repo_name": "funilrys/PyFunceble",
+      "total_graph_nodes": 303,
+      "queries": {
+        "79": {
+          "query_text": "get the description of a http status code",
+          "ndcg_10": 0.9385574520455129,
+          "recall_10": 1.0,
+          "total_relevant": 2,
+          "relevant_retrieved": 2,
+          "mcts_tree_nodes": 179
+        }
+      },
+      "repo_stats": {
+        "total_queries": 1,
+        "avg_ndcg_10": 0.9385574520455129,
+        "avg_recall_10": 1.0
+      }
+    },
+    "usc-isi-i2/etk": {
+      "repo_name": "usc-isi-i2/etk",
+      "total_graph_nodes": 233,
+      "queries": {
+        "72": {
+          "query_text": "extract data from html content",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 2,
+          "relevant_retrieved": 2,
+          "mcts_tree_nodes": 167
+        }
+      },
+      "repo_stats": {
+        "total_queries": 1,
+        "avg_ndcg_10": 1.0,
+        "avg_recall_10": 1.0
+      }
+    },
+    "totalgood/pugnlp": {
+      "repo_name": "totalgood/pugnlp",
+      "total_graph_nodes": 33,
+      "queries": {
+        "7": {
+          "query_text": "confusion matrix",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 96
+        }
+      },
+      "repo_stats": {
+        "total_queries": 1,
+        "avg_ndcg_10": 1.0,
+        "avg_recall_10": 1.0
+      }
+    },
+    "ctuning/ck": {
+      "repo_name": "ctuning/ck",
+      "total_graph_nodes": 1,
+      "queries": {},
+      "repo_stats": {
+        "total_queries": 2,
+        "avg_ndcg_10": 0.0,
+        "avg_recall_10": 0.0
+      }
+    },
+    "raphaelvallat/pingouin": {
+      "repo_name": "raphaelvallat/pingouin",
+      "total_graph_nodes": 1,
+      "queries": {
+        "10": {
+          "query_text": "binomial distribution",
+          "ndcg_10": 0.0,
+          "recall_10": 0.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 0,
+          "mcts_tree_nodes": 124
+        },
+        "12": {
+          "query_text": "linear regression",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 146
+        }
+      },
+      "repo_stats": {
+        "total_queries": 2,
+        "avg_ndcg_10": 0.5,
+        "avg_recall_10": 0.5
+      }
+    },
+    "Unity-Technologies/ml-agents": {
+      "repo_name": "Unity-Technologies/ml-agents",
+      "total_graph_nodes": 155,
+      "queries": {},
+      "repo_stats": {
+        "total_queries": 1,
+        "avg_ndcg_10": 0.0,
+        "avg_recall_10": 0.0
+      }
+    },
+    "SoftwareDefinedBuildings/XBOS": {
+      "repo_name": "SoftwareDefinedBuildings/XBOS",
+      "total_graph_nodes": 149,
+      "queries": {
+        "12": {
+          "query_text": "linear regression",
+          "ndcg_10": 0.6309297535714575,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 114
+        }
+      },
+      "repo_stats": {
+        "total_queries": 1,
+        "avg_ndcg_10": 0.6309297535714575,
+        "avg_recall_10": 1.0
+      }
+    },
+    "onecodex/onecodex": {
+      "repo_name": "onecodex/onecodex",
+      "total_graph_nodes": 81,
+      "queries": {
+        "89": {
+          "query_text": "how to read the contents of a .gz compressed file?",
+          "ndcg_10": 0.5,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 137
+        },
+        "19": {
+          "query_text": "pretty print json",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 145
+        }
+      },
+      "repo_stats": {
+        "total_queries": 2,
+        "avg_ndcg_10": 0.75,
+        "avg_recall_10": 1.0
+      }
+    },
+    "googleapis/google-auth-library-python": {
+      "repo_name": "googleapis/google-auth-library-python",
+      "total_graph_nodes": 57,
+      "queries": {
+        "96": {
+          "query_text": "parse query string in url",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 108
+        }
+      },
+      "repo_stats": {
+        "total_queries": 1,
+        "avg_ndcg_10": 1.0,
+        "avg_recall_10": 1.0
+      }
+    },
+    "ChrisCummins/labm8": {
+      "repo_name": "ChrisCummins/labm8",
+      "total_graph_nodes": 1,
+      "queries": {
+        "92": {
+          "query_text": "positions of substrings in string",
+          "ndcg_10": 0.0,
+          "recall_10": 0.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 0,
+          "mcts_tree_nodes": 0
+        },
+        "65": {
+          "query_text": "string similarity levenshtein",
+          "ndcg_10": 0.0,
+          "recall_10": 0.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 0,
+          "mcts_tree_nodes": 0
+        }
+      },
+      "repo_stats": {
+        "total_queries": 2,
+        "avg_ndcg_10": 0.0,
+        "avg_recall_10": 0.0
+      }
+    },
+    "rvswift/EB": {
+      "repo_name": "rvswift/EB",
+      "total_graph_nodes": 23,
+      "queries": {
+        "14": {
+          "query_text": "write csv",
+          "ndcg_10": 0.9502344167898356,
+          "recall_10": 1.0,
+          "total_relevant": 2,
+          "relevant_retrieved": 2,
+          "mcts_tree_nodes": 86
+        }
+      },
+      "repo_stats": {
+        "total_queries": 1,
+        "avg_ndcg_10": 0.9502344167898356,
+        "avg_recall_10": 1.0
+      }
+    },
+    "swevm/scaleio-py": {
+      "repo_name": "swevm/scaleio-py",
+      "total_graph_nodes": 113,
+      "queries": {},
+      "repo_stats": {
+        "total_queries": 1,
+        "avg_ndcg_10": 0.0,
+        "avg_recall_10": 0.0
+      }
+    },
+    "restran/mountains": {
+      "repo_name": "restran/mountains",
+      "total_graph_nodes": 15,
+      "queries": {},
+      "repo_stats": {
+        "total_queries": 1,
+        "avg_ndcg_10": 0.0,
+        "avg_recall_10": 0.0
+      }
+    },
+    "raymontag/kppy": {
+      "repo_name": "raymontag/kppy",
+      "total_graph_nodes": 71,
+      "queries": {
+        "11": {
+          "query_text": "aes encryption",
+          "ndcg_10": 0.3333333333333333,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 213
+        }
+      },
+      "repo_stats": {
+        "total_queries": 1,
+        "avg_ndcg_10": 0.3333333333333333,
+        "avg_recall_10": 1.0
+      }
+    },
+    "tehmaze/ipcalc": {
+      "repo_name": "tehmaze/ipcalc",
+      "total_graph_nodes": 31,
+      "queries": {},
+      "repo_stats": {
+        "total_queries": 1,
+        "avg_ndcg_10": 0.0,
+        "avg_recall_10": 0.0
+      }
+    },
+    "timofurrer/observable": {
+      "repo_name": "timofurrer/observable",
+      "total_graph_nodes": 19,
+      "queries": {},
+      "repo_stats": {
+        "total_queries": 1,
+        "avg_ndcg_10": 0.0,
+        "avg_recall_10": 0.0
+      }
+    },
+    "tjguk/winshell": {
+      "repo_name": "tjguk/winshell",
+      "total_graph_nodes": 3,
+      "queries": {},
+      "repo_stats": {
+        "total_queries": 1,
+        "avg_ndcg_10": 0.0,
+        "avg_recall_10": 0.0
+      }
+    },
+    "Yipit/pyeqs": {
+      "repo_name": "Yipit/pyeqs",
+      "total_graph_nodes": 11,
+      "queries": {},
+      "repo_stats": {
+        "total_queries": 1,
+        "avg_ndcg_10": 0.0,
+        "avg_recall_10": 0.0
+      }
+    },
+    "jcassee/django-geckoboard": {
+      "repo_name": "jcassee/django-geckoboard",
+      "total_graph_nodes": 1,
+      "queries": {
+        "68": {
+          "query_text": "encrypt aes ctr mode",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 196
+        },
+        "11": {
+          "query_text": "aes encryption",
+          "ndcg_10": 0.5,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "mcts_tree_nodes": 188
+        }
+      },
+      "repo_stats": {
+        "total_queries": 2,
+        "avg_ndcg_10": 0.75,
+        "avg_recall_10": 1.0
+      }
+    }
+  },
+  "overall_stats": {
+    "total_repositories": 426,
+    "total_queries": 89,
+    "overall_avg_ndcg_10": 0.6719505807204669,
+    "overall_avg_recall_10": 0.8202247191011236
+  }
+}

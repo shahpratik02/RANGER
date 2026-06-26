@@ -1,0 +1,29 @@
+{
+  "query_id": "68",
+  "query_text": "encrypt aes ctr mode",
+  "repo_name": "/home/ec2-user/CodeSearchNet/jcassee_django-geckoboard",
+  "selected_nodes_per_iteration": [
+    {
+      "iteration": 0,
+      "node_id": "Repo:/home/ec2-user/CodeSearchNet/jcassee_django-geckoboard",
+      "name": "/home/ec2-user/CodeSearchNet/jcassee_django-geckoboard",
+      "type": "Repo",
+      "visit_count": 0,
+      "total_reward": 0.0,
+      "avg_reward": 0.0,
+      "sim_reward": 0.0,
+      "simulation_visits": 1
+    },
+    {
+      "iteration": 1,
+      "node_id": "Module:django_geckoboard.decorators",
+      "name": "django_geckoboard.decorators",
+      "type": "Module",
+      "visit_count": 1,
+      "total_reward": 1.0363918369584328,
+      "avg_reward": 1.0363918369584328,
+      "sim_reward": 1.0363918369584328,
+      "simulation_visits": 1
+    }
+  ]
+}

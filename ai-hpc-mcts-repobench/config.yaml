@@ -1,0 +1,65 @@
+# RepoBench Configuration File
+# This file contains all configurable parameters for the RepoBench project
+
+# === DATABASE CONFIGURATION ===
+database:
+  neo4j:
+    url: "bolt://localhost:7687"
+    username: "neo4j" 
+    password: "your_neo4j_password"
+
+# === PATH CONFIGURATION ===
+paths:
+  # Base directories
+  repobench_base: "./data/RepoBench/"
+  neo4j_dumps: "./neo4j_dumps"
+  script_dir: "./"
+  
+  # Virtual environment
+  venv_python: "python3"
+  
+  # Script paths  
+  generate_graph_script: "src/core/generate_graph_with_args.py"
+  
+  # Output files
+  progress_file: "experiments/repobench_accuracy_tracking.json"
+  summary_csv: "experiments/repobench_all_repos_summary.csv"
+  detailed_json: "experiments/repobench_all_repos_detailed.json"
+
+# === MODEL CONFIGURATION ===
+models:
+  embedding:
+    name: "Qwen/Qwen3-Embedding-8B"
+    batch_size: 16
+    context_length: 4096
+    device: "cuda"  # or "cpu"
+    torch_dtype: "float16"
+    padding_side: "left"
+    trust_remote_code: true
+
+# === VECTOR DATABASE CONFIGURATION ===
+vector_db:
+  chroma:
+    collection_name: "repobench_semantic_retrieval"
+
+# === PROCESSING CONFIGURATION ===
+processing:
+  # Timeouts (in seconds)
+  clone_timeout: 180
+  graph_generation_timeout: 3000
+
+# === DATASET CONFIGURATION ===
+dataset:
+  repobench:
+    name: "tianyang/repobench_python_v1.1"
+    split: "cross_file_first"
+
+# === EVALUATION CONFIGURATION ===
+evaluation:
+  default_retriever: "graph"
+  available_retrievers: ["graph", "semantic", "file_level"]
+  
+# === LOGGING CONFIGURATION ===
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
