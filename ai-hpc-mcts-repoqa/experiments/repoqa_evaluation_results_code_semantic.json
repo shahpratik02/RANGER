@@ -1,0 +1,122 @@
+{
+  "retrieval_method": "code_semantic",
+  "repositories": {
+    "ethereum_web3.py": {
+      "repo_name": "ethereum_web3.py",
+      "total_graph_nodes": 4241,
+      "needles": {
+        "0": {
+          "description": "\n1. **Purpose**: To verify that querying blockchain logs with a filter containing only `None` values for topics results in no logs being returned.\n2. **Input**: A filter parameter set with the starting block number and an array of topics filled entirely with `None`.\n3. **Output**: An empty list of logs, confirming that no entries match the given filter criteria.\n4. **Procedure**: The function sets up a filter to search from the genesis block and specifies three `None` values in the topics array. It then queries the blockchain logs using this filter and checks that the result is an empty list, indicating no logs were found that match the filter.\n",
+          "target_function": "test_eth_get_logs_with_logs_none_topic_args",
+          "target_file": "web3/_utils/module_testing/eth_module.py",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "found_match": true
+        },
+        "1": {
+          "description": "\n1. **Purpose**: To retrieve the response associated with a specific request identifier from a cache, with a mechanism to handle timeouts if the response is not available within a specified duration.\n2. **Input**: A unique identifier for the request and an optional timeout duration.\n3. **Output**: The response corresponding to the request identifier if available; otherwise, an exception is raised if the response is not found within the timeout period.\n4. **Procedure**: The function checks a cache for the response corresponding to the given request identifier. It continuously yields control back to the event loop to allow other operations to proceed while waiting. If the response is found within the allotted time, it is returned. If not, an exception indicating a timeout is raised.\n",
+          "target_function": "_get_response_for_request_id",
+          "target_file": "web3/providers/persistent/persistent.py",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "found_match": true
+        },
+        "2": {
+          "description": "\n1. **Purpose**: To provide a list of default middleware components that are essential for processing and managing blockchain requests.\n2. **Input**: None, as this method does not require any parameters to be passed.\n3. **Output**: A list of tuples, where each tuple contains a middleware component and its corresponding identifier as a string.\n4. **Procedure**: The method statically defines and returns a list of middleware components that are commonly used to handle various aspects of blockchain interactions, such as gas price strategy, name resolution, data formatting, input validation, and gas estimation.\n",
+          "target_function": "get_default_middlewares",
+          "target_file": "web3/manager.py",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "found_match": true
+        },
+        "3": {
+          "description": "\n1. **Purpose**: The function is designed to prepare transaction parameters for deploying a smart contract, ensuring all necessary data is included and formatted correctly.\n2. **Input**: An optional dictionary containing transaction parameters.\n3. **Output**: A dictionary of transaction parameters, including default values and encoded contract data necessary for deployment.\n4. **Procedure**: \n   - Initializes a transaction dictionary either from the provided input or as an empty dictionary if no input is provided.\n   - Validates and removes any forbidden keys from the transaction dictionary.\n   - Sets a default sender address if it's not specified and a default account exists.\n   - Adds encoded contract data to the transaction dictionary.\n   - Returns the prepared transaction dictionary.\n",
+          "target_function": "_get_transaction",
+          "target_file": "web3/contract/base_contract.py",
+          "ndcg_10": 0.0,
+          "recall_10": 0.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 0,
+          "found_match": false
+        },
+        "4": {
+          "description": "\n1. **Purpose**: To verify the correct signing and recovery of a transaction using legacy parameters in an asynchronous environment.\n2. **Input**: Transaction parameters including sender, recipient, value, gas, gas price, and nonce.\n3. **Output**: The signed transaction details and confirmation that the recovered signatory matches the original sender.\n4. **Procedure**: \n   - Define the transaction parameters.\n   - Sign the transaction asynchronously.\n   - Recover the signatory from the signed transaction.\n   - Validate that the recovered signatory matches the original sender and that all transaction parameters are correctly reflected in the signed transaction.\n",
+          "target_function": "test_async_eth_sign_transaction_legacy",
+          "target_file": "web3/_utils/module_testing/eth_module.py",
+          "ndcg_10": 0.6309297535714575,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "found_match": true
+        },
+        "5": {
+          "description": "\n1. **Purpose**: The function is designed to apply a given transformation function to each element within a structured data tree, where each element is associated with a specific data type.\n2. **Input**: The function takes two parameters: a transformation function that operates on a data type and its associated data, and a data tree where each element is a tuple of a data type and its corresponding data.\n3. **Output**: The output is a modified data tree where each element has been transformed by the provided function, maintaining the structure of the original data tree.\n4. **Procedure**: The function iterates over the data tree, applying the transformation function to each element. If an element is a tuple containing a data type and data (recognized as a specific data type structure), the transformation function is applied to it. The function is applied recursively to ensure all nested elements are processed.\n",
+          "target_function": "data_tree_map",
+          "target_file": "web3/_utils/abi.py",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "found_match": true
+        },
+        "6": {
+          "description": "\n1. **Purpose**: To verify that the system correctly handles a gas price strategy function returning a hexadecimal string value for the gas price when sending a transaction.\n2. **Input**: The input includes a transaction parameter dictionary without a specified gas price but with a custom gas price strategy set to return a hexadecimal string.\n3. **Output**: The output is the validation that the transaction uses the gas price as defined by the hexadecimal string returned from the gas price strategy.\n4. **Procedure**: \n   - Define a transaction parameter dictionary without a specified gas price.\n   - Set a custom gas price strategy that returns a hexadecimal string representing the gas price.\n   - Send a transaction using these parameters.\n   - Retrieve and verify that the transaction's gas price matches the expected value converted from the hexadecimal string.\n   - Reset the gas price strategy to ensure no side effects for other tests.\n",
+          "target_function": "test_gas_price_strategy_hex_value",
+          "target_file": "web3/_utils/module_testing/eth_module.py",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "found_match": true
+        },
+        "7": {
+          "description": "\n1. **Purpose**: To verify that the system correctly identifies and handles a transaction that is expected to revert due to a specific error message in a smart contract function.\n2. **Input**: A transaction object that includes details such as the sender's address and the target contract address.\n3. **Output**: The test is expected to raise an exception indicating that the transaction has been reverted along with a specific error message.\n4. **Procedure**: The test prepares a transaction intended to call a function known to revert. It then attempts to estimate the gas for this transaction, expecting to catch a specific error that indicates the function's execution has been reverted with a predefined message.\n",
+          "target_function": "test_eth_estimate_gas_revert_with_msg",
+          "target_file": "web3/_utils/module_testing/eth_module.py",
+          "ndcg_10": 1.0,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "found_match": true
+        },
+        "8": {
+          "description": "\n1. **Purpose**: The function is designed to fetch data from a specified server endpoint and return the response in a structured format.\n2. **Input**: It takes a string representing the specific endpoint of a server from which data needs to be retrieved.\n3. **Output**: It returns a dictionary containing the data fetched from the server endpoint.\n4. **Procedure**: The function constructs the full URL by appending the endpoint to the base server URL. It then sends an HTTP GET request to this URL and waits for the response. The response is processed and returned as a JSON-formatted dictionary.\n",
+          "target_function": "_make_get_request",
+          "target_file": "web3/beacon/beacon.py",
+          "ndcg_10": 0.0,
+          "recall_10": 0.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 0,
+          "found_match": false
+        },
+        "9": {
+          "description": "\n1. **Purpose**: To verify that a specific Ethereum smart contract function correctly raises a custom error with a predefined message when called under unauthorized conditions.\n2. **Input**: The test function inputs include a transaction parameter set specifying the caller and the contract address, and the encoded ABI of the unauthorized action.\n3. **Output**: The expected output is the raising of a custom error that matches the encoded unauthorized action message.\n4. **Procedure**: The test initiates by encoding the unauthorized action and its message using the contract's ABI. It then prepares a transaction to call the custom error function from an unauthorized account. The test asserts that this transaction call raises the expected custom error with the specific message encoded earlier.\n",
+          "target_function": "test_eth_call_revert_custom_error_with_msg",
+          "target_file": "web3/_utils/module_testing/eth_module.py",
+          "ndcg_10": 0.6309297535714575,
+          "recall_10": 1.0,
+          "total_relevant": 1,
+          "relevant_retrieved": 1,
+          "found_match": true
+        }
+      },
+      "repo_stats": {
+        "total_needles": 10,
+        "avg_ndcg_10": 0.7261859507142916,
+        "avg_recall_10": 0.8
+      }
+    }
+  },
+  "overall_stats": {
+    "total_repositories": 1,
+    "total_needles": 10,
+    "overall_avg_ndcg_10": 0.7261859507142916,
+    "overall_avg_recall_10": 0.8
+  }
+}

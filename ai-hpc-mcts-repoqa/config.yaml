@@ -1,0 +1,51 @@
+# Configuration file for RepoQA project
+
+# Paths
+paths:
+  project_root: "./"
+  data_dir: "./data"
+  traces_dir: "traces"
+  input_data: "./data/repoqa-2024-06-23.json"
+  
+# Output Files
+output:
+  mcts_results: "experiments/repoqa_evaluation_results_mcts.json"
+  text_semantic_results: "experiments/repoqa_evaluation_results_text_semantic.json"
+  code_semantic_results: "experiments/repoqa_evaluation_results_code_semantic.json"
+  match_paths: "repoqa_match_paths.json"
+
+# Database Configuration
+neo4j:
+  url: "bolt://localhost:7687"
+  username: "neo4j"
+  password: "your_neo4j_password"
+
+# Model Configurations
+models:
+  # Primary embedding model for MCTS and general use
+  embedding: "mixedbread-ai/mxbai-embed-large-v1"
+  
+  # Alternative embedding models
+  qwen_embedding: "Qwen/Qwen3-Embedding-8B"
+  
+  # Cross-encoder for reranking
+  cross_encoder: "BAAI/bge-reranker-v2-m3"
+
+# MCTS Algorithm Settings
+mcts:
+  max_iterations: 350
+  reward_threshold: 5.0
+  reference_threshold: 0.75
+  context_limit: 8000
+  alpha: 0.9
+  top_k_children: 80
+  top_k_references: 10
+  min_top_k_children: 20
+  reduce_top_k_flag: true
+  exploration_param: 0.25
+
+# ChromaDB Configuration
+chromadb:
+  collection_name: "repobench_semantic_retrieval"
+
+# Default Graph Generation Settings (for generate_graph.py)
